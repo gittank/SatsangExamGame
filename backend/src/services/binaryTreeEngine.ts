@@ -296,7 +296,7 @@ function buildTreeRecursive(
   }
 
   // Find the best question to split on (highest information gain)
-  let bestQuestion = findBestSplittingQuestion(candidateEntityIds, usedQuestionIds);
+  let bestQuestion = findBestSplittingQuestion(candidateEntityIds, usedQuestionIds, depth);
 
   // If no good splitting question, try to find ANY question that at least separates some entities
   if (!bestQuestion) {
@@ -376,7 +376,8 @@ function buildTreeRecursive(
  */
 function findBestSplittingQuestion(
   candidateEntityIds: number[],
-  usedQuestionIds: Set<number>
+  usedQuestionIds: Set<number>,
+  depth: number = 0
 ): Question | null {
   let bestQuestion: Question | null = null;
   let bestScore = -1;
@@ -409,7 +410,15 @@ function findBestSplittingQuestion(
     const coverage = knownCount / total;
 
     // Combined score favoring balanced splits with good coverage
-    const score = balance * coverage;
+    const baseScore = balance * coverage;
+
+    // Depth-based bonus: at shallow depths, strongly prefer high-coverage questions.
+    // This ensures broad categorical questions ("Is this a person?", "Is this a sadhu?")
+    // are asked before narrow specific ones. The bonus fades out by depth 6.
+    const depthFactor = Math.max(0, 1 - depth / 6);
+    const coverageBonus = coverage * depthFactor * 0.5;
+
+    const score = baseScore + coverageBonus;
 
     if (score > bestScore) {
       bestScore = score;

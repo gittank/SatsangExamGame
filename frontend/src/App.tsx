@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 
-const API_BASE = 'http://localhost:3001/api';
+const API_BASE = '/api';
 
 type AnswerType = 'yes' | 'no' | 'sometimes' | 'unknown';
 
@@ -35,6 +35,7 @@ function App() {
   const [result, setResult] = useState<'won' | 'lost' | null>(null);
   const [stats, setStats] = useState<Stats | null>(null);
   const [entities, setEntities] = useState<string[]>([]);
+  const [maxQuestions] = useState(21);
   const [loading, setLoading] = useState(false);
   const [learnName, setLearnName] = useState('');
   const [learnCategory, setLearnCategory] = useState('person');
@@ -165,7 +166,6 @@ function App() {
       }
 
       if (data.needsDistinguishingQuestion) {
-        // Need user to provide a distinguishing question
         setDistinguishPrompt(data.prompt);
         setCorrectEntityName(data.correctEntityName);
         setStatus('askingQuestion');
@@ -174,7 +174,6 @@ function App() {
         setResult('lost');
         setStats(data.stats);
 
-        // Refresh entities
         const entRes = await fetch(`${API_BASE}/game/entities`);
         const entData = await entRes.json();
         setEntities(entData.entities);
@@ -204,12 +203,10 @@ function App() {
         setStatus('finished');
         setResult('lost');
 
-        // Refresh entities
         const entRes = await fetch(`${API_BASE}/game/entities`);
         const entData = await entRes.json();
         setEntities(entData.entities);
 
-        // Refresh stats
         const statsRes = await fetch(`${API_BASE}/game/stats`);
         const statsData = await statsRes.json();
         setStats(statsData);
@@ -240,109 +237,112 @@ function App() {
   };
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-orange-50 to-amber-100">
-      <header className="bg-gradient-to-r from-orange-600 to-amber-600 text-white p-6 shadow-lg">
-        <div className="max-w-2xl mx-auto">
-          <h1 className="text-3xl font-bold text-center">SSE Master Mind</h1>
-          <p className="text-center text-orange-100 mt-2">
-            21 Questions - Satsang Reader Part 1
-          </p>
+    <div className="min-h-screen bg-white text-black flex flex-col">
+      {/* Header */}
+      <header className="border-b border-gray-200">
+        <div className="max-w-3xl mx-auto px-6 py-6 flex items-center justify-between">
+          <h1 className="text-lg font-semibold tracking-tight">SSE Master Mind</h1>
+          <span className="text-sm text-gray-400 font-light">
+            21 Questions &mdash; Satsang Reader Part 1
+          </span>
         </div>
       </header>
 
-      <main className="max-w-2xl mx-auto p-6">
+      {/* Main */}
+      <main className="flex-1 max-w-3xl mx-auto w-full px-6 py-12">
         {error && (
-          <div className="bg-red-100 text-red-700 p-4 rounded-lg mb-6">
+          <div className="border border-red-200 text-red-600 px-5 py-3 rounded mb-8 text-sm">
             {error}
           </div>
         )}
 
         {stats && stats.totalGames > 0 && (
-          <div className="bg-white rounded-lg shadow-md p-4 mb-6">
-            <h3 className="text-sm font-semibold text-gray-500 mb-2">Game Statistics</h3>
-            <div className="grid grid-cols-3 gap-4 text-center">
+          <div className="border-b border-gray-100 pb-8 mb-10">
+            <p className="text-xs uppercase tracking-widest text-gray-400 mb-4">Statistics</p>
+            <div className="grid grid-cols-3 gap-8 text-center">
               <div>
-                <div className="text-2xl font-bold text-orange-600">{stats.totalGames}</div>
-                <div className="text-xs text-gray-500">Games</div>
+                <div className="text-3xl font-light">{stats.totalGames}</div>
+                <div className="text-xs text-gray-400 mt-1">Games</div>
               </div>
               <div>
-                <div className="text-2xl font-bold text-green-600">{stats.accuracy.toFixed(0)}%</div>
-                <div className="text-xs text-gray-500">Accuracy</div>
+                <div className="text-3xl font-light">{stats.accuracy.toFixed(0)}%</div>
+                <div className="text-xs text-gray-400 mt-1">Accuracy</div>
               </div>
               <div>
-                <div className="text-2xl font-bold text-blue-600">{stats.averageQuestions.toFixed(1)}</div>
-                <div className="text-xs text-gray-500">Avg Qs</div>
+                <div className="text-3xl font-light">{stats.averageQuestions.toFixed(1)}</div>
+                <div className="text-xs text-gray-400 mt-1">Avg Questions</div>
               </div>
             </div>
           </div>
         )}
 
+        {/* Idle */}
         {status === 'idle' && (
-          <div className="bg-white rounded-lg shadow-lg p-8 text-center">
-            <div className="text-6xl mb-4">🙏</div>
-            <h2 className="text-2xl font-bold text-gray-800 mb-4">
-              Think of something from Satsang Reader Part 1
+          <div className="py-16 text-center">
+            <h2 className="text-4xl font-light leading-tight mb-6">
+              Think of something from<br />Satsang Reader Part 1
             </h2>
-            <p className="text-gray-600 mb-6">
+            <p className="text-gray-400 mb-10 text-lg font-light">
               It could be a person, place, object, concept, or event from the book.
             </p>
             <button
               onClick={startGame}
               disabled={loading}
-              className="bg-orange-500 hover:bg-orange-600 text-white font-bold py-3 px-8 rounded-full text-lg transition-colors disabled:opacity-50"
+              className="bg-black text-white px-10 py-3 text-sm font-medium tracking-wide hover:bg-gray-800 transition-colors disabled:opacity-40"
             >
-              {loading ? 'Starting...' : "I'm Ready!"}
+              {loading ? 'Starting...' : "I'm Ready"}
             </button>
           </div>
         )}
 
+        {/* Playing */}
         {status === 'playing' && currentQuestion && (
-          <div className="bg-white rounded-lg shadow-lg p-8">
-            <div className="mb-6">
-              <div className="flex justify-between text-sm text-gray-500 mb-2">
-                <span>Question {questionNumber} of 21</span>
+          <div>
+            <div className="mb-10">
+              <div className="flex justify-between text-xs text-gray-400 mb-3 uppercase tracking-widest">
+                <span>Question {questionNumber} of {maxQuestions}</span>
                 <span>{remainingCandidates} possibilities</span>
               </div>
-              <div className="w-full bg-gray-200 rounded-full h-2">
+              <div className="w-full bg-gray-100 h-px">
                 <div
-                  className="bg-orange-500 h-2 rounded-full transition-all duration-300"
-                  style={{ width: `${(questionNumber / 21) * 100}%` }}
+                  className="bg-black h-px transition-all duration-300"
+                  style={{ width: `${(questionNumber / maxQuestions) * 100}%` }}
                 />
               </div>
             </div>
 
-            <div className="text-center mb-8">
-              <p className="text-xl font-semibold text-gray-800">
+            <div className="text-center mb-12">
+              <p className="text-2xl font-light leading-relaxed">
                 {currentQuestion.text}
               </p>
             </div>
 
-            <div className="grid grid-cols-2 gap-4">
+            <div className="grid grid-cols-2 gap-3 max-w-md mx-auto">
               <button
                 onClick={() => submitAnswer('yes')}
                 disabled={loading}
-                className="bg-green-500 hover:bg-green-600 text-white font-bold py-4 rounded-lg text-lg disabled:opacity-50"
+                className="border border-black text-black py-3 text-sm font-medium hover:bg-black hover:text-white transition-colors disabled:opacity-40"
               >
                 Yes
               </button>
               <button
                 onClick={() => submitAnswer('no')}
                 disabled={loading}
-                className="bg-red-500 hover:bg-red-600 text-white font-bold py-4 rounded-lg text-lg disabled:opacity-50"
+                className="border border-black text-black py-3 text-sm font-medium hover:bg-black hover:text-white transition-colors disabled:opacity-40"
               >
                 No
               </button>
               <button
                 onClick={() => submitAnswer('sometimes')}
                 disabled={loading}
-                className="bg-yellow-500 hover:bg-yellow-600 text-white font-bold py-4 rounded-lg text-lg disabled:opacity-50"
+                className="border border-gray-300 text-gray-500 py-3 text-sm font-medium hover:border-black hover:text-black transition-colors disabled:opacity-40"
               >
                 Sometimes
               </button>
               <button
                 onClick={() => submitAnswer('unknown')}
                 disabled={loading}
-                className="bg-gray-500 hover:bg-gray-600 text-white font-bold py-4 rounded-lg text-lg disabled:opacity-50"
+                className="border border-gray-300 text-gray-500 py-3 text-sm font-medium hover:border-black hover:text-black transition-colors disabled:opacity-40"
               >
                 Don't Know
               </button>
@@ -350,36 +350,32 @@ function App() {
           </div>
         )}
 
+        {/* Guessing */}
         {status === 'guessing' && currentGuess && (
-          <div className="bg-white rounded-lg shadow-lg p-8 text-center">
-            <div className="text-4xl mb-4">🤔</div>
-            <h2 className="text-xl font-bold text-gray-800 mb-2">
-              I think you're thinking of...
+          <div className="py-8 text-center">
+            <p className="text-xs uppercase tracking-widest text-gray-400 mb-8">My Guess</p>
+            <h2 className="text-4xl font-light mb-2">
+              {currentGuess.name}
             </h2>
-            <div className="bg-orange-100 rounded-lg p-6 mb-6">
-              <h3 className="text-2xl font-bold text-orange-700 mb-2">
-                {currentGuess.name}
-              </h3>
-              <p className="text-sm text-orange-600 capitalize mb-2">
-                ({currentGuess.category})
-              </p>
-              {currentGuess.description && (
-                <p className="text-gray-600 text-sm">{currentGuess.description}</p>
-              )}
-            </div>
-            <p className="text-gray-600 mb-4">Am I correct?</p>
-            <div className="flex gap-4 justify-center">
+            <p className="text-sm text-gray-400 capitalize mb-4">
+              {currentGuess.category}
+            </p>
+            {currentGuess.description && (
+              <p className="text-gray-500 font-light max-w-md mx-auto mb-10">{currentGuess.description}</p>
+            )}
+            <p className="text-gray-400 mb-6">Am I correct?</p>
+            <div className="flex gap-3 justify-center">
               <button
                 onClick={() => handleGuessResponse(true)}
                 disabled={loading}
-                className="bg-green-500 hover:bg-green-600 text-white font-bold py-3 px-8 rounded-lg disabled:opacity-50"
+                className="bg-black text-white px-8 py-3 text-sm font-medium hover:bg-gray-800 transition-colors disabled:opacity-40"
               >
                 Yes!
               </button>
               <button
                 onClick={() => handleGuessResponse(false)}
                 disabled={loading}
-                className="bg-red-500 hover:bg-red-600 text-white font-bold py-3 px-8 rounded-lg disabled:opacity-50"
+                className="border border-black text-black px-8 py-3 text-sm font-medium hover:bg-black hover:text-white transition-colors disabled:opacity-40"
               >
                 No
               </button>
@@ -387,25 +383,26 @@ function App() {
           </div>
         )}
 
+        {/* Learning */}
         {status === 'learning' && (
-          <div className="bg-white rounded-lg shadow-lg p-8">
-            <div className="text-4xl mb-4 text-center">📚</div>
-            <h2 className="text-xl font-bold text-gray-800 mb-4 text-center">
+          <div className="max-w-md mx-auto">
+            <p className="text-xs uppercase tracking-widest text-gray-400 mb-2 text-center">Learning</p>
+            <h2 className="text-2xl font-light text-center mb-2">
               Help me learn!
             </h2>
-            <p className="text-gray-600 mb-6 text-center">
+            <p className="text-gray-400 mb-8 text-center font-light">
               What were you thinking of?
             </p>
 
-            <div className="space-y-4">
+            <div className="space-y-5">
               <div>
-                <label className="block text-sm font-medium text-gray-700 mb-1">Name</label>
+                <label className="block text-xs uppercase tracking-widest text-gray-400 mb-2">Name</label>
                 <input
                   type="text"
                   value={learnName}
                   onChange={e => setLearnName(e.target.value)}
                   placeholder="e.g., Brahmanand Swami"
-                  className="w-full border border-gray-300 rounded-lg px-4 py-2"
+                  className="w-full border-b border-gray-300 px-0 py-2 text-sm focus:outline-none focus:border-black transition-colors bg-transparent"
                   list="entities"
                 />
                 <datalist id="entities">
@@ -414,11 +411,11 @@ function App() {
               </div>
 
               <div>
-                <label className="block text-sm font-medium text-gray-700 mb-1">Category</label>
+                <label className="block text-xs uppercase tracking-widest text-gray-400 mb-2">Category</label>
                 <select
                   value={learnCategory}
                   onChange={e => setLearnCategory(e.target.value)}
-                  className="w-full border border-gray-300 rounded-lg px-4 py-2"
+                  className="w-full border-b border-gray-300 px-0 py-2 text-sm focus:outline-none focus:border-black transition-colors bg-transparent"
                 >
                   <option value="person">Person</option>
                   <option value="place">Place</option>
@@ -429,48 +426,49 @@ function App() {
               </div>
 
               <div>
-                <label className="block text-sm font-medium text-gray-700 mb-1">Description (optional)</label>
+                <label className="block text-xs uppercase tracking-widest text-gray-400 mb-2">Description (optional)</label>
                 <textarea
                   value={learnDescription}
                   onChange={e => setLearnDescription(e.target.value)}
                   placeholder="e.g., Householder devotee who hosted Bhagwan Swaminarayan in Gadhada"
-                  className="w-full border border-gray-300 rounded-lg px-4 py-2 h-20 resize-none"
+                  className="w-full border-b border-gray-300 px-0 py-2 text-sm focus:outline-none focus:border-black transition-colors bg-transparent h-16 resize-none"
                 />
               </div>
 
               <button
                 onClick={submitLearning}
                 disabled={loading || !learnName}
-                className="w-full bg-orange-500 hover:bg-orange-600 text-white font-bold py-3 rounded-lg disabled:opacity-50"
+                className="w-full bg-black text-white py-3 text-sm font-medium hover:bg-gray-800 transition-colors disabled:opacity-40 mt-4"
               >
-                {loading ? 'Saving...' : 'Teach Me!'}
+                {loading ? 'Saving...' : 'Teach Me'}
               </button>
             </div>
           </div>
         )}
 
+        {/* Asking Question */}
         {status === 'askingQuestion' && (
-          <div className="bg-white rounded-lg shadow-lg p-8">
-            <div className="text-4xl mb-4 text-center">❓</div>
-            <h2 className="text-xl font-bold text-gray-800 mb-4 text-center">
+          <div className="max-w-md mx-auto">
+            <p className="text-xs uppercase tracking-widest text-gray-400 mb-2 text-center">Distinguish</p>
+            <h2 className="text-2xl font-light text-center mb-4">
               Help me tell them apart!
             </h2>
             {divergenceInfo && (
-              <div className="bg-amber-50 border border-amber-200 rounded-lg p-4 mb-4">
-                <p className="text-amber-800 text-sm">
-                  <span className="font-semibold">Where I went wrong:</span>{' '}
-                  Most people answer the question "<span className="font-medium">{divergenceInfo.questionText}</span>" as{' '}
-                  <span className="font-bold capitalize">{divergenceInfo.expectedAnswer}</span> for {correctEntityName}.
+              <div className="border border-gray-200 rounded px-4 py-3 mb-6">
+                <p className="text-sm text-gray-500">
+                  <span className="font-medium text-black">Where I went wrong:</span>{' '}
+                  Most people answer the question &ldquo;{divergenceInfo.questionText}&rdquo; as{' '}
+                  <span className="font-medium text-black capitalize">{divergenceInfo.expectedAnswer}</span> for {correctEntityName}.
                 </p>
               </div>
             )}
-            <p className="text-gray-600 mb-6 text-center">
+            <p className="text-gray-400 mb-8 text-center font-light">
               {distinguishPrompt}
             </p>
 
-            <div className="space-y-4">
+            <div className="space-y-5">
               <div>
-                <label className="block text-sm font-medium text-gray-700 mb-1">
+                <label className="block text-xs uppercase tracking-widest text-gray-400 mb-2">
                   Yes/No Question
                 </label>
                 <input
@@ -478,31 +476,31 @@ function App() {
                   value={distinguishQuestion}
                   onChange={e => setDistinguishQuestion(e.target.value)}
                   placeholder="e.g., Did this person write poetry?"
-                  className="w-full border border-gray-300 rounded-lg px-4 py-2"
+                  className="w-full border-b border-gray-300 px-0 py-2 text-sm focus:outline-none focus:border-black transition-colors bg-transparent"
                 />
               </div>
 
               <div>
-                <label className="block text-sm font-medium text-gray-700 mb-1">
-                  For "{correctEntityName}", the answer is:
+                <label className="block text-xs uppercase tracking-widest text-gray-400 mb-2">
+                  For &ldquo;{correctEntityName}&rdquo;, the answer is:
                 </label>
-                <div className="flex gap-4">
+                <div className="flex gap-3">
                   <button
                     onClick={() => setDistinguishAnswer('yes')}
-                    className={`flex-1 py-2 rounded-lg font-bold ${
+                    className={`flex-1 py-2 text-sm font-medium transition-colors ${
                       distinguishAnswer === 'yes'
-                        ? 'bg-green-500 text-white'
-                        : 'bg-gray-200 text-gray-700'
+                        ? 'bg-black text-white'
+                        : 'border border-gray-300 text-gray-400 hover:border-black hover:text-black'
                     }`}
                   >
                     Yes
                   </button>
                   <button
                     onClick={() => setDistinguishAnswer('no')}
-                    className={`flex-1 py-2 rounded-lg font-bold ${
+                    className={`flex-1 py-2 text-sm font-medium transition-colors ${
                       distinguishAnswer === 'no'
-                        ? 'bg-red-500 text-white'
-                        : 'bg-gray-200 text-gray-700'
+                        ? 'bg-black text-white'
+                        : 'border border-gray-300 text-gray-400 hover:border-black hover:text-black'
                     }`}
                   >
                     No
@@ -513,7 +511,7 @@ function App() {
               <button
                 onClick={submitDistinguishingQuestion}
                 disabled={loading || !distinguishQuestion}
-                className="w-full bg-orange-500 hover:bg-orange-600 text-white font-bold py-3 rounded-lg disabled:opacity-50"
+                className="w-full bg-black text-white py-3 text-sm font-medium hover:bg-gray-800 transition-colors disabled:opacity-40 mt-4"
               >
                 {loading ? 'Saving...' : 'Submit Question'}
               </button>
@@ -521,23 +519,24 @@ function App() {
           </div>
         )}
 
+        {/* Finished */}
         {status === 'finished' && (
-          <div className="bg-white rounded-lg shadow-lg p-8 text-center">
+          <div className="py-16 text-center">
             {result === 'won' ? (
               <>
-                <div className="text-6xl mb-4">🎉</div>
-                <h2 className="text-2xl font-bold text-green-600 mb-4">I guessed it!</h2>
+                <p className="text-xs uppercase tracking-widest text-gray-400 mb-4">Result</p>
+                <h2 className="text-4xl font-light mb-6">I guessed it!</h2>
               </>
             ) : (
               <>
-                <div className="text-6xl mb-4">🙏</div>
-                <h2 className="text-2xl font-bold text-orange-600 mb-4">Thank you for teaching me!</h2>
+                <p className="text-xs uppercase tracking-widest text-gray-400 mb-4">Result</p>
+                <h2 className="text-4xl font-light mb-6">Thank you for teaching me!</h2>
                 {divergenceInfo && (
-                  <div className="bg-amber-50 border border-amber-200 rounded-lg p-4 mb-4 text-left">
-                    <p className="text-amber-800 text-sm">
-                      <span className="font-semibold">Where I went wrong:</span>{' '}
-                      Most people answer the question "<span className="font-medium">{divergenceInfo.questionText}</span>" as{' '}
-                      <span className="font-bold capitalize">{divergenceInfo.expectedAnswer}</span> for {learnName}.
+                  <div className="border border-gray-200 rounded px-4 py-3 mb-6 text-left max-w-md mx-auto">
+                    <p className="text-sm text-gray-500">
+                      <span className="font-medium text-black">Where I went wrong:</span>{' '}
+                      Most people answer the question &ldquo;{divergenceInfo.questionText}&rdquo; as{' '}
+                      <span className="font-medium text-black capitalize">{divergenceInfo.expectedAnswer}</span> for {learnName}.
                     </p>
                   </div>
                 )}
@@ -545,7 +544,7 @@ function App() {
             )}
             <button
               onClick={resetGame}
-              className="bg-orange-500 hover:bg-orange-600 text-white font-bold py-3 px-8 rounded-full text-lg"
+              className="bg-black text-white px-10 py-3 text-sm font-medium tracking-wide hover:bg-gray-800 transition-colors"
             >
               Play Again
             </button>
@@ -553,8 +552,31 @@ function App() {
         )}
       </main>
 
-      <footer className="text-center text-gray-500 text-sm p-4 mt-8">
-        <p>Based on Satsang Reader Part 1 - BAPS Swaminarayan Sanstha</p>
+      {/* Footer */}
+      <footer className="border-t border-gray-200">
+        <div className="max-w-3xl mx-auto px-6 py-6 flex items-center justify-between">
+          <p className="text-xs text-gray-400">
+            Based on Satsang Reader Part 1 &mdash; BAPS Swaminarayan Sanstha
+          </p>
+          <div className="flex gap-6">
+            <a
+              href="https://www.baps.org/SatsangExam/Studymaterials.aspx"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-xs text-gray-400 hover:text-black transition-colors"
+            >
+              Book
+            </a>
+            <a
+              href="https://www.bapssatsangexams.org/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-xs text-gray-400 hover:text-black transition-colors"
+            >
+              Satsang Exams
+            </a>
+          </div>
+        </div>
       </footer>
     </div>
   );
