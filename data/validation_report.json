@@ -1,0 +1,854 @@
+{
+  "summary": {
+    "totalEntities": 50,
+    "reachableEntities": 50,
+    "correctGuesses": 50,
+    "coverage": 100,
+    "accuracy": 100,
+    "avgQuestionsToGuess": 6.48,
+    "maxQuestionsToGuess": 10,
+    "minQuestionsToGuess": 3
+  },
+  "depthDistribution": {
+    "3": 2,
+    "4": 2,
+    "5": 9,
+    "6": 13,
+    "7": 13,
+    "8": 5,
+    "9": 4,
+    "10": 2
+  },
+  "unreachableEntities": [],
+  "incorrectGuesses": [],
+  "conflicts": [],
+  "recommendations": [
+    "Tree validation passed! All entities are reachable and correctly identified."
+  ],
+  "results": [
+    {
+      "entityId": "acharya_maharaj",
+      "entityName": "Acharya Maharaj",
+      "reached": true,
+      "correctGuess": true,
+      "questionsAsked": 10,
+      "path": [
+        "Q16: Did this person meet Bhagwan Swaminarayan directly? → yes",
+        "Q104: Did this person never doubt the divine actions of Maharaj? → yes",
+        "Q145: Have this person's compositions become popular in the Sampraday? → yes",
+        "Q45: Did this person accept a life of renunciation because of his boundless sentiment towards Shastriji Maharaj's Sanstha? → yes",
+        "Q14: Is this associated with poetry or writing? → yes",
+        "Q22: Did this person write Satsangijivan Hetu Tika? → yes",
+        "Q60: Were this person's eyes opened when listening to Yagnapurushdasji speak about Akshar-Purushottam? → no",
+        "Q11: Is this in Gujarat? → yes",
+        "Q13: Is this associated with music, singing, or raag? → yes",
+        "Q15: Is this associated with building or construction? → yes"
+      ],
+      "guessedAs": "acharya_maharaj"
+    },
+    {
+      "entityId": "brahmanand_swami",
+      "entityName": "Brahmanand Swami",
+      "reached": true,
+      "correctGuess": true,
+      "questionsAsked": 9,
+      "path": [
+        "Q16: Did this person meet Bhagwan Swaminarayan directly? → yes",
+        "Q104: Did this person never doubt the divine actions of Maharaj? → yes",
+        "Q145: Have this person's compositions become popular in the Sampraday? → yes",
+        "Q45: Did this person accept a life of renunciation because of his boundless sentiment towards Shastriji Maharaj's Sanstha? → no",
+        "Q54: Did this person's compositions become popular because they use simple language and everyday examples to explain spiritual teachings? → yes",
+        "Q11: Is this in Gujarat? → yes",
+        "Q13: Is this associated with music, singing, or raag? → yes",
+        "Q15: Is this associated with building or construction? → yes",
+        "Q18: Is this related to BAPS Swaminarayan Sanstha? → no"
+      ],
+      "guessedAs": "brahmanand_swami"
+    },
+    {
+      "entityId": "royal_goldsmith",
+      "entityName": "Royal Goldsmith",
+      "reached": true,
+      "correctGuess": true,
+      "questionsAsked": 7,
+      "path": [
+        "Q16: Did this person meet Bhagwan Swaminarayan directly? → yes",
+        "Q104: Did this person never doubt the divine actions of Maharaj? → yes",
+        "Q145: Have this person's compositions become popular in the Sampraday? → no",
+        "Q131: Did this person maintain celibate vows despite being married? → yes",
+        "Q79: Did this person pray to be taken to Akshardham in their last moments? → yes",
+        "Q7: Is this a female? → no",
+        "Q14: Is this associated with poetry or writing? → no"
+      ],
+      "guessedAs": "royal_goldsmith"
+    },
+    {
+      "entityId": "bhumanand_swami",
+      "entityName": "Bhumanand Swami",
+      "reached": true,
+      "correctGuess": true,
+      "questionsAsked": 6,
+      "path": [
+        "Q16: Did this person meet Bhagwan Swaminarayan directly? → yes",
+        "Q104: Did this person never doubt the divine actions of Maharaj? → yes",
+        "Q145: Have this person's compositions become popular in the Sampraday? → yes",
+        "Q45: Did this person accept a life of renunciation because of his boundless sentiment towards Shastriji Maharaj's Sanstha? → no",
+        "Q54: Did this person's compositions become popular because they use simple language and everyday examples to explain spiritual teachings? → yes",
+        "Q11: Is this in Gujarat? → no"
+      ],
+      "guessedAs": "bhumanand_swami"
+    },
+    {
+      "entityId": "dalpatram",
+      "entityName": "Dalpatram",
+      "reached": true,
+      "correctGuess": true,
+      "questionsAsked": 8,
+      "path": [
+        "Q16: Did this person meet Bhagwan Swaminarayan directly? → yes",
+        "Q104: Did this person never doubt the divine actions of Maharaj? → yes",
+        "Q145: Have this person's compositions become popular in the Sampraday? → yes",
+        "Q45: Did this person accept a life of renunciation because of his boundless sentiment towards Shastriji Maharaj's Sanstha? → yes",
+        "Q14: Is this associated with poetry or writing? → yes",
+        "Q22: Did this person write Satsangijivan Hetu Tika? → yes",
+        "Q60: Were this person's eyes opened when listening to Yagnapurushdasji speak about Akshar-Purushottam? → yes",
+        "Q5: Is this a sadhu (monk/saint)? → no"
+      ],
+      "guessedAs": "dalpatram"
+    },
+    {
+      "entityId": "dayanand_swami",
+      "entityName": "Dayanand Swami",
+      "reached": true,
+      "correctGuess": true,
+      "questionsAsked": 7,
+      "path": [
+        "Q16: Did this person meet Bhagwan Swaminarayan directly? → yes",
+        "Q104: Did this person never doubt the divine actions of Maharaj? → yes",
+        "Q145: Have this person's compositions become popular in the Sampraday? → yes",
+        "Q45: Did this person accept a life of renunciation because of his boundless sentiment towards Shastriji Maharaj's Sanstha? → yes",
+        "Q14: Is this associated with poetry or writing? → yes",
+        "Q22: Did this person write Satsangijivan Hetu Tika? → no",
+        "Q5: Is this a sadhu (monk/saint)? → yes"
+      ],
+      "guessedAs": "dayanand_swami"
+    },
+    {
+      "entityId": "devanand_swami",
+      "entityName": "Devanand Swami",
+      "reached": true,
+      "correctGuess": true,
+      "questionsAsked": 7,
+      "path": [
+        "Q16: Did this person meet Bhagwan Swaminarayan directly? → yes",
+        "Q104: Did this person never doubt the divine actions of Maharaj? → yes",
+        "Q145: Have this person's compositions become popular in the Sampraday? → yes",
+        "Q45: Did this person accept a life of renunciation because of his boundless sentiment towards Shastriji Maharaj's Sanstha? → no",
+        "Q54: Did this person's compositions become popular because they use simple language and everyday examples to explain spiritual teachings? → yes",
+        "Q11: Is this in Gujarat? → yes",
+        "Q13: Is this associated with music, singing, or raag? → no"
+      ],
+      "guessedAs": "devanand_swami"
+    },
+    {
+      "entityId": "devidan",
+      "entityName": "Devidan",
+      "reached": true,
+      "correctGuess": true,
+      "questionsAsked": 9,
+      "path": [
+        "Q16: Did this person meet Bhagwan Swaminarayan directly? → yes",
+        "Q104: Did this person never doubt the divine actions of Maharaj? → yes",
+        "Q145: Have this person's compositions become popular in the Sampraday? → yes",
+        "Q45: Did this person accept a life of renunciation because of his boundless sentiment towards Shastriji Maharaj's Sanstha? → no",
+        "Q54: Did this person's compositions become popular because they use simple language and everyday examples to explain spiritual teachings? → yes",
+        "Q11: Is this in Gujarat? → yes",
+        "Q13: Is this associated with music, singing, or raag? → yes",
+        "Q15: Is this associated with building or construction? → yes",
+        "Q18: Is this related to BAPS Swaminarayan Sanstha? → yes"
+      ],
+      "guessedAs": "devidan"
+    },
+    {
+      "entityId": "manjukeshanand_swami",
+      "entityName": "Manjukeshanand Swami",
+      "reached": true,
+      "correctGuess": true,
+      "questionsAsked": 7,
+      "path": [
+        "Q16: Did this person meet Bhagwan Swaminarayan directly? → yes",
+        "Q104: Did this person never doubt the divine actions of Maharaj? → yes",
+        "Q145: Have this person's compositions become popular in the Sampraday? → yes",
+        "Q45: Did this person accept a life of renunciation because of his boundless sentiment towards Shastriji Maharaj's Sanstha? → no",
+        "Q54: Did this person's compositions become popular because they use simple language and everyday examples to explain spiritual teachings? → no",
+        "Q5: Is this a sadhu (monk/saint)? → yes",
+        "Q19: Was this person originally from a different faith or background before joining Satsang? → yes"
+      ],
+      "guessedAs": "manjukeshanand_swami"
+    },
+    {
+      "entityId": "merai_devotee",
+      "entityName": "Merai devotee",
+      "reached": true,
+      "correctGuess": true,
+      "questionsAsked": 6,
+      "path": [
+        "Q16: Did this person meet Bhagwan Swaminarayan directly? → yes",
+        "Q104: Did this person never doubt the divine actions of Maharaj? → yes",
+        "Q145: Have this person's compositions become popular in the Sampraday? → yes",
+        "Q45: Did this person accept a life of renunciation because of his boundless sentiment towards Shastriji Maharaj's Sanstha? → no",
+        "Q54: Did this person's compositions become popular because they use simple language and everyday examples to explain spiritual teachings? → no",
+        "Q5: Is this a sadhu (monk/saint)? → no"
+      ],
+      "guessedAs": "merai_devotee"
+    },
+    {
+      "entityId": "premanand_swami",
+      "entityName": "Premanand Swami",
+      "reached": true,
+      "correctGuess": true,
+      "questionsAsked": 8,
+      "path": [
+        "Q16: Did this person meet Bhagwan Swaminarayan directly? → yes",
+        "Q104: Did this person never doubt the divine actions of Maharaj? → yes",
+        "Q145: Have this person's compositions become popular in the Sampraday? → yes",
+        "Q45: Did this person accept a life of renunciation because of his boundless sentiment towards Shastriji Maharaj's Sanstha? → yes",
+        "Q14: Is this associated with poetry or writing? → yes",
+        "Q22: Did this person write Satsangijivan Hetu Tika? → yes",
+        "Q60: Were this person's eyes opened when listening to Yagnapurushdasji speak about Akshar-Purushottam? → yes",
+        "Q5: Is this a sadhu (monk/saint)? → yes"
+      ],
+      "guessedAs": "premanand_swami"
+    },
+    {
+      "entityId": "jagannath",
+      "entityName": "Jagannath",
+      "reached": true,
+      "correctGuess": true,
+      "questionsAsked": 10,
+      "path": [
+        "Q16: Did this person meet Bhagwan Swaminarayan directly? → yes",
+        "Q104: Did this person never doubt the divine actions of Maharaj? → yes",
+        "Q145: Have this person's compositions become popular in the Sampraday? → yes",
+        "Q45: Did this person accept a life of renunciation because of his boundless sentiment towards Shastriji Maharaj's Sanstha? → yes",
+        "Q14: Is this associated with poetry or writing? → yes",
+        "Q22: Did this person write Satsangijivan Hetu Tika? → yes",
+        "Q60: Were this person's eyes opened when listening to Yagnapurushdasji speak about Akshar-Purushottam? → no",
+        "Q11: Is this in Gujarat? → yes",
+        "Q13: Is this associated with music, singing, or raag? → yes",
+        "Q15: Is this associated with building or construction? → no"
+      ],
+      "guessedAs": "jagannath"
+    },
+    {
+      "entityId": "shukanand_swami",
+      "entityName": "Shukanand Swami",
+      "reached": true,
+      "correctGuess": true,
+      "questionsAsked": 7,
+      "path": [
+        "Q16: Did this person meet Bhagwan Swaminarayan directly? → yes",
+        "Q104: Did this person never doubt the divine actions of Maharaj? → yes",
+        "Q145: Have this person's compositions become popular in the Sampraday? → yes",
+        "Q45: Did this person accept a life of renunciation because of his boundless sentiment towards Shastriji Maharaj's Sanstha? → no",
+        "Q54: Did this person's compositions become popular because they use simple language and everyday examples to explain spiritual teachings? → no",
+        "Q5: Is this a sadhu (monk/saint)? → yes",
+        "Q19: Was this person originally from a different faith or background before joining Satsang? → no"
+      ],
+      "guessedAs": "shukanand_swami"
+    },
+    {
+      "entityId": "adiba",
+      "entityName": "Adiba",
+      "reached": true,
+      "correctGuess": true,
+      "questionsAsked": 7,
+      "path": [
+        "Q16: Did this person meet Bhagwan Swaminarayan directly? → yes",
+        "Q104: Did this person never doubt the divine actions of Maharaj? → yes",
+        "Q145: Have this person's compositions become popular in the Sampraday? → no",
+        "Q131: Did this person maintain celibate vows despite being married? → yes",
+        "Q79: Did this person pray to be taken to Akshardham in their last moments? → yes",
+        "Q7: Is this a female? → yes",
+        "Q18: Is this related to BAPS Swaminarayan Sanstha? → yes"
+      ],
+      "guessedAs": "adiba"
+    },
+    {
+      "entityId": "gangaba",
+      "entityName": "Gangaba",
+      "reached": true,
+      "correctGuess": true,
+      "questionsAsked": 5,
+      "path": [
+        "Q16: Did this person meet Bhagwan Swaminarayan directly? → yes",
+        "Q104: Did this person never doubt the divine actions of Maharaj? → yes",
+        "Q145: Have this person's compositions become popular in the Sampraday? → no",
+        "Q131: Did this person maintain celibate vows despite being married? → yes",
+        "Q79: Did this person pray to be taken to Akshardham in their last moments? → no"
+      ],
+      "guessedAs": "gangaba"
+    },
+    {
+      "entityId": "hathisinh",
+      "entityName": "Hathisinh",
+      "reached": true,
+      "correctGuess": true,
+      "questionsAsked": 7,
+      "path": [
+        "Q16: Did this person meet Bhagwan Swaminarayan directly? → yes",
+        "Q104: Did this person never doubt the divine actions of Maharaj? → yes",
+        "Q145: Have this person's compositions become popular in the Sampraday? → no",
+        "Q131: Did this person maintain celibate vows despite being married? → yes",
+        "Q79: Did this person pray to be taken to Akshardham in their last moments? → yes",
+        "Q7: Is this a female? → no",
+        "Q14: Is this associated with poetry or writing? → yes"
+      ],
+      "guessedAs": "hathisinh"
+    },
+    {
+      "entityId": "jhinabhai_darbar",
+      "entityName": "Jhinabhai Darbar",
+      "reached": true,
+      "correctGuess": true,
+      "questionsAsked": 7,
+      "path": [
+        "Q16: Did this person meet Bhagwan Swaminarayan directly? → yes",
+        "Q104: Did this person never doubt the divine actions of Maharaj? → yes",
+        "Q145: Have this person's compositions become popular in the Sampraday? → yes",
+        "Q45: Did this person accept a life of renunciation because of his boundless sentiment towards Shastriji Maharaj's Sanstha? → yes",
+        "Q14: Is this associated with poetry or writing? → yes",
+        "Q22: Did this person write Satsangijivan Hetu Tika? → no",
+        "Q5: Is this a sadhu (monk/saint)? → no"
+      ],
+      "guessedAs": "jhinabhai_darbar"
+    },
+    {
+      "entityId": "kamalshi_vanjha",
+      "entityName": "Kamalshi Vanjha",
+      "reached": true,
+      "correctGuess": true,
+      "questionsAsked": 5,
+      "path": [
+        "Q16: Did this person meet Bhagwan Swaminarayan directly? → yes",
+        "Q104: Did this person never doubt the divine actions of Maharaj? → yes",
+        "Q145: Have this person's compositions become popular in the Sampraday? → yes",
+        "Q45: Did this person accept a life of renunciation because of his boundless sentiment towards Shastriji Maharaj's Sanstha? → yes",
+        "Q14: Is this associated with poetry or writing? → no"
+      ],
+      "guessedAs": "kamalshi_vanjha"
+    },
+    {
+      "entityId": "laduba",
+      "entityName": "Laduba",
+      "reached": true,
+      "correctGuess": true,
+      "questionsAsked": 8,
+      "path": [
+        "Q16: Did this person meet Bhagwan Swaminarayan directly? → yes",
+        "Q104: Did this person never doubt the divine actions of Maharaj? → yes",
+        "Q145: Have this person's compositions become popular in the Sampraday? → no",
+        "Q131: Did this person maintain celibate vows despite being married? → yes",
+        "Q79: Did this person pray to be taken to Akshardham in their last moments? → yes",
+        "Q7: Is this a female? → yes",
+        "Q18: Is this related to BAPS Swaminarayan Sanstha? → no",
+        "Q24: Did this person say 'I want to observe celibacy and devote myself to the Lord' to her mother-in-law Raibai? → no"
+      ],
+      "guessedAs": "laduba"
+    },
+    {
+      "entityId": "jivuba",
+      "entityName": "Jivuba",
+      "reached": true,
+      "correctGuess": true,
+      "questionsAsked": 8,
+      "path": [
+        "Q16: Did this person meet Bhagwan Swaminarayan directly? → yes",
+        "Q104: Did this person never doubt the divine actions of Maharaj? → yes",
+        "Q145: Have this person's compositions become popular in the Sampraday? → no",
+        "Q131: Did this person maintain celibate vows despite being married? → yes",
+        "Q79: Did this person pray to be taken to Akshardham in their last moments? → yes",
+        "Q7: Is this a female? → yes",
+        "Q18: Is this related to BAPS Swaminarayan Sanstha? → no",
+        "Q24: Did this person say 'I want to observe celibacy and devote myself to the Lord' to her mother-in-law Raibai? → yes"
+      ],
+      "guessedAs": "jivuba"
+    },
+    {
+      "entityId": "dada_khachar",
+      "entityName": "Dada Khachar",
+      "reached": true,
+      "correctGuess": true,
+      "questionsAsked": 7,
+      "path": [
+        "Q16: Did this person meet Bhagwan Swaminarayan directly? → yes",
+        "Q104: Did this person never doubt the divine actions of Maharaj? → yes",
+        "Q145: Have this person's compositions become popular in the Sampraday? → no",
+        "Q131: Did this person maintain celibate vows despite being married? → no",
+        "Q5: Is this a sadhu (monk/saint)? → no",
+        "Q19: Was this person originally from a different faith or background before joining Satsang? → no",
+        "Q90: Did this person say 'Can't these rafters and bamboos be removed?' to Dada Khachar? → yes"
+      ],
+      "guessedAs": "dada_khachar"
+    },
+    {
+      "entityId": "muktanand_swami",
+      "entityName": "Muktanand Swami",
+      "reached": true,
+      "correctGuess": true,
+      "questionsAsked": 6,
+      "path": [
+        "Q16: Did this person meet Bhagwan Swaminarayan directly? → yes",
+        "Q104: Did this person never doubt the divine actions of Maharaj? → no",
+        "Q6: Is this a devotee (householder/layperson)? → no",
+        "Q15: Is this associated with building or construction? → no",
+        "Q14: Is this associated with poetry or writing? → yes",
+        "Q19: Was this person originally from a different faith or background before joining Satsang? → no"
+      ],
+      "guessedAs": "muktanand_swami"
+    },
+    {
+      "entityId": "gunatitanand_swami",
+      "entityName": "Gunatitanand Swami",
+      "reached": true,
+      "correctGuess": true,
+      "questionsAsked": 7,
+      "path": [
+        "Q16: Did this person meet Bhagwan Swaminarayan directly? → yes",
+        "Q104: Did this person never doubt the divine actions of Maharaj? → no",
+        "Q6: Is this a devotee (householder/layperson)? → no",
+        "Q15: Is this associated with building or construction? → no",
+        "Q14: Is this associated with poetry or writing? → no",
+        "Q5: Is this a sadhu (monk/saint)? → yes",
+        "Q18: Is this related to BAPS Swaminarayan Sanstha? → yes"
+      ],
+      "guessedAs": "gunatitanand_swami"
+    },
+    {
+      "entityId": "nishkulanand_swami",
+      "entityName": "Nishkulanand Swami",
+      "reached": true,
+      "correctGuess": true,
+      "questionsAsked": 6,
+      "path": [
+        "Q16: Did this person meet Bhagwan Swaminarayan directly? → yes",
+        "Q104: Did this person never doubt the divine actions of Maharaj? → no",
+        "Q6: Is this a devotee (householder/layperson)? → no",
+        "Q15: Is this associated with building or construction? → yes",
+        "Q5: Is this a sadhu (monk/saint)? → yes",
+        "Q14: Is this associated with poetry or writing? → yes"
+      ],
+      "guessedAs": "nishkulanand_swami"
+    },
+    {
+      "entityId": "ramanand_swami",
+      "entityName": "Ramanand Swami",
+      "reached": true,
+      "correctGuess": true,
+      "questionsAsked": 5,
+      "path": [
+        "Q16: Did this person meet Bhagwan Swaminarayan directly? → yes",
+        "Q104: Did this person never doubt the divine actions of Maharaj? → yes",
+        "Q145: Have this person's compositions become popular in the Sampraday? → no",
+        "Q131: Did this person maintain celibate vows despite being married? → no",
+        "Q5: Is this a sadhu (monk/saint)? → yes"
+      ],
+      "guessedAs": "ramanand_swami"
+    },
+    {
+      "entityId": "munibawa",
+      "entityName": "Munibawa",
+      "reached": true,
+      "correctGuess": true,
+      "questionsAsked": 6,
+      "path": [
+        "Q16: Did this person meet Bhagwan Swaminarayan directly? → yes",
+        "Q104: Did this person never doubt the divine actions of Maharaj? → no",
+        "Q6: Is this a devotee (householder/layperson)? → no",
+        "Q15: Is this associated with building or construction? → no",
+        "Q14: Is this associated with poetry or writing? → yes",
+        "Q19: Was this person originally from a different faith or background before joining Satsang? → yes"
+      ],
+      "guessedAs": "munibawa"
+    },
+    {
+      "entityId": "nityanand_swami",
+      "entityName": "Nityanand Swami",
+      "reached": true,
+      "correctGuess": true,
+      "questionsAsked": 6,
+      "path": [
+        "Q16: Did this person meet Bhagwan Swaminarayan directly? → yes",
+        "Q104: Did this person never doubt the divine actions of Maharaj? → no",
+        "Q6: Is this a devotee (householder/layperson)? → no",
+        "Q15: Is this associated with building or construction? → yes",
+        "Q5: Is this a sadhu (monk/saint)? → yes",
+        "Q14: Is this associated with poetry or writing? → no"
+      ],
+      "guessedAs": "nityanand_swami"
+    },
+    {
+      "entityId": "abhal_khachar",
+      "entityName": "Abhal Khachar",
+      "reached": true,
+      "correctGuess": true,
+      "questionsAsked": 9,
+      "path": [
+        "Q16: Did this person meet Bhagwan Swaminarayan directly? → yes",
+        "Q104: Did this person never doubt the divine actions of Maharaj? → no",
+        "Q6: Is this a devotee (householder/layperson)? → yes",
+        "Q19: Was this person originally from a different faith or background before joining Satsang? → no",
+        "Q7: Is this a female? → no",
+        "Q14: Is this associated with poetry or writing? → no",
+        "Q18: Is this related to BAPS Swaminarayan Sanstha? → no",
+        "Q29: Did this person say 'Has he not thus turned an ass into a cow?' when questioning Joban Pagi about his transformation? → no",
+        "Q78: Did this person barge into a room with a sword and accuse someone of hiding a bawa in the darbar? → yes"
+      ],
+      "guessedAs": "abhal_khachar"
+    },
+    {
+      "entityId": "joban_pagi",
+      "entityName": "Joban Pagi",
+      "reached": true,
+      "correctGuess": true,
+      "questionsAsked": 5,
+      "path": [
+        "Q16: Did this person meet Bhagwan Swaminarayan directly? → yes",
+        "Q104: Did this person never doubt the divine actions of Maharaj? → no",
+        "Q6: Is this a devotee (householder/layperson)? → yes",
+        "Q19: Was this person originally from a different faith or background before joining Satsang? → yes",
+        "Q59: Did this person say 'Please have pity on me. Please free me from my sins.' to Shriji Maharaj? → yes"
+      ],
+      "guessedAs": "joban_pagi"
+    },
+    {
+      "entityId": "sundar_pagi",
+      "entityName": "Sundar Pagi",
+      "reached": true,
+      "correctGuess": true,
+      "questionsAsked": 6,
+      "path": [
+        "Q16: Did this person meet Bhagwan Swaminarayan directly? → yes",
+        "Q104: Did this person never doubt the divine actions of Maharaj? → yes",
+        "Q145: Have this person's compositions become popular in the Sampraday? → no",
+        "Q131: Did this person maintain celibate vows despite being married? → no",
+        "Q5: Is this a sadhu (monk/saint)? → no",
+        "Q19: Was this person originally from a different faith or background before joining Satsang? → yes"
+      ],
+      "guessedAs": "sundar_pagi"
+    },
+    {
+      "entityId": "kashiyabhai",
+      "entityName": "Kashiyabhai",
+      "reached": true,
+      "correctGuess": true,
+      "questionsAsked": 8,
+      "path": [
+        "Q16: Did this person meet Bhagwan Swaminarayan directly? → yes",
+        "Q104: Did this person never doubt the divine actions of Maharaj? → no",
+        "Q6: Is this a devotee (householder/layperson)? → yes",
+        "Q19: Was this person originally from a different faith or background before joining Satsang? → no",
+        "Q7: Is this a female? → no",
+        "Q14: Is this associated with poetry or writing? → no",
+        "Q18: Is this related to BAPS Swaminarayan Sanstha? → no",
+        "Q29: Did this person say 'Has he not thus turned an ass into a cow?' when questioning Joban Pagi about his transformation? → yes"
+      ],
+      "guessedAs": "kashiyabhai"
+    },
+    {
+      "entityId": "raibai",
+      "entityName": "Raibai",
+      "reached": true,
+      "correctGuess": true,
+      "questionsAsked": 5,
+      "path": [
+        "Q16: Did this person meet Bhagwan Swaminarayan directly? → yes",
+        "Q104: Did this person never doubt the divine actions of Maharaj? → no",
+        "Q6: Is this a devotee (householder/layperson)? → yes",
+        "Q19: Was this person originally from a different faith or background before joining Satsang? → no",
+        "Q7: Is this a female? → yes"
+      ],
+      "guessedAs": "raibai"
+    },
+    {
+      "entityId": "akhandanand_swami",
+      "entityName": "Akhandanand Swami",
+      "reached": true,
+      "correctGuess": true,
+      "questionsAsked": 7,
+      "path": [
+        "Q16: Did this person meet Bhagwan Swaminarayan directly? → yes",
+        "Q104: Did this person never doubt the divine actions of Maharaj? → no",
+        "Q6: Is this a devotee (householder/layperson)? → no",
+        "Q15: Is this associated with building or construction? → no",
+        "Q14: Is this associated with poetry or writing? → no",
+        "Q5: Is this a sadhu (monk/saint)? → yes",
+        "Q18: Is this related to BAPS Swaminarayan Sanstha? → no"
+      ],
+      "guessedAs": "akhandanand_swami"
+    },
+    {
+      "entityId": "nirgundasji",
+      "entityName": "Nirgundasji",
+      "reached": true,
+      "correctGuess": true,
+      "questionsAsked": 6,
+      "path": [
+        "Q16: Did this person meet Bhagwan Swaminarayan directly? → no",
+        "Q15: Is this associated with building or construction? → no",
+        "Q17: Is this from the modern era (after 1900)? → yes",
+        "Q5: Is this a sadhu (monk/saint)? → yes",
+        "Q6: Is this a devotee (householder/layperson)? → no",
+        "Q34: Did this person take initiation into the sadhu fold because he was unable to part with Shastriji Maharaj? → yes"
+      ],
+      "guessedAs": "nirgundasji"
+    },
+    {
+      "entityId": "shastriji_maharaj",
+      "entityName": "Shastriji Maharaj",
+      "reached": true,
+      "correctGuess": true,
+      "questionsAsked": 3,
+      "path": [
+        "Q16: Did this person meet Bhagwan Swaminarayan directly? → no",
+        "Q15: Is this associated with building or construction? → yes",
+        "Q38: Did this person say 'This loss has come in the way of our work' about the fire at this person's home? → yes"
+      ],
+      "guessedAs": "shastriji_maharaj"
+    },
+    {
+      "entityId": "bhagatji_maharaj",
+      "entityName": "Bhagatji Maharaj",
+      "reached": true,
+      "correctGuess": true,
+      "questionsAsked": 7,
+      "path": [
+        "Q16: Did this person meet Bhagwan Swaminarayan directly? → yes",
+        "Q104: Did this person never doubt the divine actions of Maharaj? → no",
+        "Q6: Is this a devotee (householder/layperson)? → yes",
+        "Q19: Was this person originally from a different faith or background before joining Satsang? → no",
+        "Q7: Is this a female? → no",
+        "Q14: Is this associated with poetry or writing? → no",
+        "Q18: Is this related to BAPS Swaminarayan Sanstha? → yes"
+      ],
+      "guessedAs": "bhagatji_maharaj"
+    },
+    {
+      "entityId": "yogiji_maharaj",
+      "entityName": "Yogiji Maharaj",
+      "reached": true,
+      "correctGuess": true,
+      "questionsAsked": 4,
+      "path": [
+        "Q16: Did this person meet Bhagwan Swaminarayan directly? → no",
+        "Q15: Is this associated with building or construction? → yes",
+        "Q38: Did this person say 'This loss has come in the way of our work' about the fire at this person's home? → no",
+        "Q104: Did this person never doubt the divine actions of Maharaj? → yes"
+      ],
+      "guessedAs": "yogiji_maharaj"
+    },
+    {
+      "entityId": "pramukh_swami_maharaj",
+      "entityName": "Pramukh Swami Maharaj",
+      "reached": true,
+      "correctGuess": true,
+      "questionsAsked": 4,
+      "path": [
+        "Q16: Did this person meet Bhagwan Swaminarayan directly? → no",
+        "Q15: Is this associated with building or construction? → yes",
+        "Q38: Did this person say 'This loss has come in the way of our work' about the fire at this person's home? → no",
+        "Q104: Did this person never doubt the divine actions of Maharaj? → no"
+      ],
+      "guessedAs": "pramukh_swami_maharaj"
+    },
+    {
+      "entityId": "krishnaji_ada",
+      "entityName": "Krishnaji Ada",
+      "reached": true,
+      "correctGuess": true,
+      "questionsAsked": 5,
+      "path": [
+        "Q16: Did this person meet Bhagwan Swaminarayan directly? → no",
+        "Q15: Is this associated with building or construction? → no",
+        "Q17: Is this from the modern era (after 1900)? → yes",
+        "Q5: Is this a sadhu (monk/saint)? → no",
+        "Q99: Did this person arrange for money for murtis needed for Sarangpur mandir despite facing severe damage at Purushottarpura? → no"
+      ],
+      "guessedAs": "krishnaji_ada"
+    },
+    {
+      "entityId": "jaga_bhagat",
+      "entityName": "Jaga Bhagat",
+      "reached": true,
+      "correctGuess": true,
+      "questionsAsked": 3,
+      "path": [
+        "Q16: Did this person meet Bhagwan Swaminarayan directly? → no",
+        "Q15: Is this associated with building or construction? → no",
+        "Q17: Is this from the modern era (after 1900)? → no"
+      ],
+      "guessedAs": "jaga_bhagat"
+    },
+    {
+      "entityId": "yagnapriyadasji",
+      "entityName": "Yagnapriyadasji",
+      "reached": true,
+      "correctGuess": true,
+      "questionsAsked": 5,
+      "path": [
+        "Q16: Did this person meet Bhagwan Swaminarayan directly? → no",
+        "Q15: Is this associated with building or construction? → no",
+        "Q17: Is this from the modern era (after 1900)? → yes",
+        "Q5: Is this a sadhu (monk/saint)? → yes",
+        "Q6: Is this a devotee (householder/layperson)? → yes"
+      ],
+      "guessedAs": "yagnapriyadasji"
+    },
+    {
+      "entityId": "motibhai",
+      "entityName": "Motibhai",
+      "reached": true,
+      "correctGuess": true,
+      "questionsAsked": 5,
+      "path": [
+        "Q16: Did this person meet Bhagwan Swaminarayan directly? → no",
+        "Q15: Is this associated with building or construction? → no",
+        "Q17: Is this from the modern era (after 1900)? → yes",
+        "Q5: Is this a sadhu (monk/saint)? → no",
+        "Q99: Did this person arrange for money for murtis needed for Sarangpur mandir despite facing severe damage at Purushottarpura? → yes"
+      ],
+      "guessedAs": "motibhai"
+    },
+    {
+      "entityId": "khaiyo_khatri",
+      "entityName": "Khaiyo Khatri",
+      "reached": true,
+      "correctGuess": true,
+      "questionsAsked": 6,
+      "path": [
+        "Q16: Did this person meet Bhagwan Swaminarayan directly? → yes",
+        "Q104: Did this person never doubt the divine actions of Maharaj? → no",
+        "Q6: Is this a devotee (householder/layperson)? → yes",
+        "Q19: Was this person originally from a different faith or background before joining Satsang? → yes",
+        "Q59: Did this person say 'Please have pity on me. Please free me from my sins.' to Shriji Maharaj? → no",
+        "Q140: Did this person mistake Brahmanand Swami for Bhagwan Swaminarayan during their first meeting? → yes"
+      ],
+      "guessedAs": "khaiyo_khatri"
+    },
+    {
+      "entityId": "bhagwan_swaminarayan",
+      "entityName": "Bhagwan Swaminarayan",
+      "reached": true,
+      "correctGuess": true,
+      "questionsAsked": 5,
+      "path": [
+        "Q16: Did this person meet Bhagwan Swaminarayan directly? → yes",
+        "Q104: Did this person never doubt the divine actions of Maharaj? → no",
+        "Q6: Is this a devotee (householder/layperson)? → no",
+        "Q15: Is this associated with building or construction? → yes",
+        "Q5: Is this a sadhu (monk/saint)? → no"
+      ],
+      "guessedAs": "bhagwan_swaminarayan"
+    },
+    {
+      "entityId": "somla_khachar",
+      "entityName": "Somla Khachar",
+      "reached": true,
+      "correctGuess": true,
+      "questionsAsked": 9,
+      "path": [
+        "Q16: Did this person meet Bhagwan Swaminarayan directly? → yes",
+        "Q104: Did this person never doubt the divine actions of Maharaj? → no",
+        "Q6: Is this a devotee (householder/layperson)? → yes",
+        "Q19: Was this person originally from a different faith or background before joining Satsang? → no",
+        "Q7: Is this a female? → no",
+        "Q14: Is this associated with poetry or writing? → no",
+        "Q18: Is this related to BAPS Swaminarayan Sanstha? → no",
+        "Q29: Did this person say 'Has he not thus turned an ass into a cow?' when questioning Joban Pagi about his transformation? → no",
+        "Q78: Did this person barge into a room with a sword and accuse someone of hiding a bawa in the darbar? → no"
+      ],
+      "guessedAs": "somla_khachar"
+    },
+    {
+      "entityId": "ardeshar_kotwal",
+      "entityName": "Ardeshar Kotwal",
+      "reached": true,
+      "correctGuess": true,
+      "questionsAsked": 6,
+      "path": [
+        "Q16: Did this person meet Bhagwan Swaminarayan directly? → yes",
+        "Q104: Did this person never doubt the divine actions of Maharaj? → no",
+        "Q6: Is this a devotee (householder/layperson)? → yes",
+        "Q19: Was this person originally from a different faith or background before joining Satsang? → yes",
+        "Q59: Did this person say 'Please have pity on me. Please free me from my sins.' to Shriji Maharaj? → no",
+        "Q140: Did this person mistake Brahmanand Swami for Bhagwan Swaminarayan during their first meeting? → no"
+      ],
+      "guessedAs": "ardeshar_kotwal"
+    },
+    {
+      "entityId": "king_vakhatsinh",
+      "entityName": "King Vakhatsinh",
+      "reached": true,
+      "correctGuess": true,
+      "questionsAsked": 6,
+      "path": [
+        "Q16: Did this person meet Bhagwan Swaminarayan directly? → yes",
+        "Q104: Did this person never doubt the divine actions of Maharaj? → no",
+        "Q6: Is this a devotee (householder/layperson)? → no",
+        "Q15: Is this associated with building or construction? → no",
+        "Q14: Is this associated with poetry or writing? → no",
+        "Q5: Is this a sadhu (monk/saint)? → no"
+      ],
+      "guessedAs": "king_vakhatsinh"
+    },
+    {
+      "entityId": "bhaguji",
+      "entityName": "Bhaguji",
+      "reached": true,
+      "correctGuess": true,
+      "questionsAsked": 7,
+      "path": [
+        "Q16: Did this person meet Bhagwan Swaminarayan directly? → yes",
+        "Q104: Did this person never doubt the divine actions of Maharaj? → yes",
+        "Q145: Have this person's compositions become popular in the Sampraday? → no",
+        "Q131: Did this person maintain celibate vows despite being married? → no",
+        "Q5: Is this a sadhu (monk/saint)? → no",
+        "Q19: Was this person originally from a different faith or background before joining Satsang? → no",
+        "Q90: Did this person say 'Can't these rafters and bamboos be removed?' to Dada Khachar? → no"
+      ],
+      "guessedAs": "bhaguji"
+    },
+    {
+      "entityId": "mahant_swami_maharaj",
+      "entityName": "Mahant Swami Maharaj",
+      "reached": true,
+      "correctGuess": true,
+      "questionsAsked": 6,
+      "path": [
+        "Q16: Did this person meet Bhagwan Swaminarayan directly? → no",
+        "Q15: Is this associated with building or construction? → no",
+        "Q17: Is this from the modern era (after 1900)? → yes",
+        "Q5: Is this a sadhu (monk/saint)? → yes",
+        "Q6: Is this a devotee (householder/layperson)? → no",
+        "Q34: Did this person take initiation into the sadhu fold because he was unable to part with Shastriji Maharaj? → no"
+      ],
+      "guessedAs": "mahant_swami_maharaj"
+    },
+    {
+      "entityId": "naja_jogia",
+      "entityName": "Naja Jogia",
+      "reached": true,
+      "correctGuess": true,
+      "questionsAsked": 6,
+      "path": [
+        "Q16: Did this person meet Bhagwan Swaminarayan directly? → yes",
+        "Q104: Did this person never doubt the divine actions of Maharaj? → no",
+        "Q6: Is this a devotee (householder/layperson)? → yes",
+        "Q19: Was this person originally from a different faith or background before joining Satsang? → no",
+        "Q7: Is this a female? → no",
+        "Q14: Is this associated with poetry or writing? → yes"
+      ],
+      "guessedAs": "naja_jogia"
+    }
+  ]
+}

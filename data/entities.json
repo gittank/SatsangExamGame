@@ -1,0 +1,5216 @@
+{
+  "entities": [
+    {
+      "id": "sixteen_divine_signs",
+      "name": "16 Divine Signs",
+      "category": "concept",
+      "subcategory": "religious_term",
+      "description": "Divine markings on Swaminarayan's feet that Ladudanji requested to see as one of his tests.",
+      "aliases": [
+        "Sixteen Signs"
+      ],
+      "chapter": 1
+    },
+    {
+      "id": "84_lakh_births",
+      "name": "84 lakh births",
+      "category": "concept",
+      "subcategory": "teaching",
+      "description": "The cycle of reincarnation through 8.4 million species that one must pass through without devotion to God.",
+      "aliases": []
+    },
+    {
+      "id": "abhishek",
+      "name": "abhishek",
+      "category": "concept",
+      "subcategory": "practice",
+      "description": "A ritual worship practice involving pouring water or other liquids over the deity's murti, which Devidan performed for Shivji.",
+      "aliases": []
+    },
+    {
+      "id": "akshar",
+      "name": "Akshar",
+      "category": "concept",
+      "subcategory": "religious_term",
+      "description": "The divine abode and eternal greatness that Maharaj revealed Gunatitanand Swami to embody.",
+      "aliases": []
+    },
+    {
+      "id": "akshar_purushottam",
+      "name": "Akshar-Purushottam",
+      "category": "concept",
+      "subcategory": "religious_term",
+      "description": "A fundamental spiritual concept whose greatness Nirgun Swami wrote about and in which he instilled firm faith among thousands of devotees.",
+      "aliases": [
+        "Akshar-Purushottam upasana"
+      ]
+    },
+    {
+      "id": "akshar_purushottam_upasana",
+      "name": "Akshar-Purushottam upasana",
+      "category": "concept",
+      "subcategory": "teaching",
+      "description": "A form of worship and spiritual understanding that Jetha Bhagat developed firm conviction in and later helped propagate.",
+      "aliases": [
+        "pure upasana"
+      ]
+    },
+    {
+      "id": "arti",
+      "name": "arti",
+      "category": "concept",
+      "subcategory": "practice",
+      "description": "A ritual worship ceremony that Swamishri mentioned they still had to perform at Gadhada mandir when encouraging Nirgun Swami.",
+      "aliases": []
+    },
+    {
+      "id": "assembly",
+      "name": "assembly",
+      "category": "concept",
+      "subcategory": "practice",
+      "description": "A gathering of thousands of devotees seated before Maharaj in pin drop silence, where Joban publicly confessed and sought forgiveness.",
+      "aliases": []
+    },
+    {
+      "id": "atma",
+      "name": "Atma",
+      "category": "concept",
+      "subcategory": "religious_term",
+      "description": "The soul within the body that makes it move, walk and talk, as explained by Dada Khachar's sisters.",
+      "aliases": [
+        "Soul",
+        "soul"
+      ],
+      "chapter": 6
+    },
+    {
+      "id": "atma_paramatma",
+      "name": "Atma-Paramatma",
+      "category": "concept",
+      "subcategory": "religious_term",
+      "description": "A spiritual concept referring to the individual soul and supreme soul that Nirgun Swami taught about.",
+      "aliases": []
+    },
+    {
+      "id": "atmarup",
+      "name": "atmarup",
+      "category": "concept",
+      "subcategory": "religious_term",
+      "description": "Spiritual state that Bhagatji Maharaj advised Jethabhai to become, relating to becoming one with the soul.",
+      "aliases": []
+    },
+    {
+      "id": "banditry",
+      "name": "banditry",
+      "category": "concept",
+      "subcategory": "practice",
+      "description": "The criminal activity of robbery that Joban and his brothers engaged in across Gujarat before becoming devotees.",
+      "aliases": [],
+      "chapter": 5
+    },
+    {
+      "id": "baps",
+      "name": "BAPS",
+      "category": "concept",
+      "subcategory": "religious_term",
+      "description": "Bochasanwasi Shri Akshar-Purushottam Swaminarayan Sanstha, the religious organization established by Shastriji Maharaj.",
+      "aliases": [
+        "Bochasanwasi Shri Akshar-Purushottam Swaminarayan Sanstha",
+        "Bochasanwasi Shri Akshar-Purushottam Sanstha"
+      ],
+      "chapter": 8
+    },
+    {
+      "id": "bhajan",
+      "name": "bhajan",
+      "category": "concept",
+      "subcategory": "practice",
+      "description": "A form of devotional worship mentioned in Devanand Swami's verses as something devotees should immerse themselves in.",
+      "aliases": [],
+      "chapter": 2
+    },
+    {
+      "id": "bhajans",
+      "name": "bhajans",
+      "category": "concept",
+      "subcategory": "practice",
+      "description": "Devotional songs through which Brahmanand Swami related teachings on spirituality, devotion, and Maharaj's glory.",
+      "aliases": [],
+      "chapter": 1
+    },
+    {
+      "id": "bhakti",
+      "name": "Bhakti",
+      "category": "concept",
+      "subcategory": "practice",
+      "description": "Devotional practice that Maharaj taught should not be offered with stubbornness, as neither such bhakti nor love lasts long.",
+      "aliases": []
+    },
+    {
+      "id": "brahma_parabrahma",
+      "name": "Brahma-Parabrahma",
+      "category": "concept",
+      "subcategory": "religious_term",
+      "description": "A theological concept distinguishing between Brahma and the supreme Brahman that Nirgun Swami propagated.",
+      "aliases": []
+    },
+    {
+      "id": "brahmacharis",
+      "name": "brahmacharis",
+      "category": "concept",
+      "subcategory": "religious_term",
+      "description": "Celibate religious students who resided at Mahuva mandir and were wary of Bhagatji's followers.",
+      "aliases": []
+    },
+    {
+      "id": "brahmacharya",
+      "name": "brahmacharya",
+      "category": "concept",
+      "subcategory": "practice",
+      "description": "A spiritual practice that gave Jagannath a beaming lustre as he approached Maharaj.",
+      "aliases": []
+    },
+    {
+      "id": "brahmarup",
+      "name": "brahmarup",
+      "category": "concept",
+      "subcategory": "religious_term",
+      "description": "A spiritually elevated state that Maharaj grants to devotees who offer seva towards building Akshar-Purushottam mandirs.",
+      "aliases": []
+    },
+    {
+      "id": "british",
+      "name": "British",
+      "category": "concept",
+      "subcategory": "historical",
+      "description": "The colonial power that took over India, after which times became easier for Maharaj's sadhus who could practice freely without harassment.",
+      "aliases": []
+    },
+    {
+      "id": "celibate_rules",
+      "name": "Celibate Rules",
+      "category": "concept",
+      "subcategory": "practice",
+      "description": "The strict rules followed by sadhus that Dada Khachar's sisters were living according to despite being married.",
+      "aliases": [],
+      "chapter": 6
+    },
+    {
+      "id": "chhand",
+      "name": "chhand",
+      "category": "concept",
+      "subcategory": "practice",
+      "description": "A metrical form of poetry that was one of Brahmanand Swami's specialities, with which very few are conversant today.",
+      "aliases": [],
+      "chapter": 1
+    },
+    {
+      "id": "chopai",
+      "name": "chopai",
+      "category": "concept",
+      "subcategory": "practice",
+      "description": "A metrical form of poetry that was one of Brahmanand Swami's specialities, with which very few are conversant today.",
+      "aliases": [],
+      "chapter": 1
+    },
+    {
+      "id": "dandvats",
+      "name": "dandvats",
+      "category": "concept",
+      "subcategory": "practice",
+      "description": "Form of respectful prostration that Jethabhai offered to Bhagatji Maharaj from the village outskirts.",
+      "aliases": []
+    },
+    {
+      "id": "darshan",
+      "name": "darshan",
+      "category": "concept",
+      "subcategory": "practice",
+      "description": "The spiritual practice of seeing and being in the presence of a holy person, which Nirgun Swami requested from Swamishri during his final illness.",
+      "aliases": []
+    },
+    {
+      "id": "devotee",
+      "name": "devotee",
+      "category": "concept",
+      "subcategory": "religious_term",
+      "description": "A follower or worshipper of Maharaj who has joined the fellowship.",
+      "aliases": [
+        "devotees"
+      ]
+    },
+    {
+      "id": "devotion",
+      "name": "devotion",
+      "category": "concept",
+      "subcategory": "religious_term",
+      "description": "A spiritual quality discussed in incidents from the Bhagvat during Swamishri's discourses.",
+      "aliases": []
+    },
+    {
+      "id": "devotional_poetry",
+      "name": "devotional poetry",
+      "category": "concept",
+      "subcategory": "practice",
+      "description": "Religious poems composed by Brahmanand Swami during his work on mandir construction.",
+      "aliases": [],
+      "chapter": 1
+    },
+    {
+      "id": "dharma",
+      "name": "dharma",
+      "category": "concept",
+      "subcategory": "religious_term",
+      "description": "Righteous conduct and religious duty that Maharaj emphasized as more important than wealth, calling it his father.",
+      "aliases": []
+    },
+    {
+      "id": "ekadashi_fast",
+      "name": "ekadashi fast",
+      "category": "concept",
+      "subcategory": "practice",
+      "description": "A religious fasting practice that Shuk Muni was observing and needed to break after completing morning rituals.",
+      "aliases": []
+    },
+    {
+      "id": "faith",
+      "name": "faith",
+      "category": "concept",
+      "subcategory": "religious_term",
+      "description": "A spiritual quality demonstrated by Ashabhai, which was tested through various trials and tribulations.",
+      "aliases": []
+    },
+    {
+      "id": "fellowship",
+      "name": "fellowship",
+      "category": "concept",
+      "subcategory": "religious_term",
+      "description": "The religious community that followers joined when they became devotees of Maharaj.",
+      "aliases": []
+    },
+    {
+      "id": "gopichandan_tilak",
+      "name": "Gopichandan Tilak",
+      "category": "concept",
+      "subcategory": "practice",
+      "description": "Sacred forehead marking made from clay that Maharaj taught his sadhus to apply, first demonstrating on Gunatitanand Swami.",
+      "aliases": [
+        "tilak"
+      ]
+    },
+    {
+      "id": "guru_parampara",
+      "name": "Guru Parampara",
+      "category": "concept",
+      "subcategory": "religious_term",
+      "description": "The spiritual succession of God-realized Sadhus established by Shriji Maharaj to continue his work.",
+      "aliases": []
+    },
+    {
+      "id": "human_birth",
+      "name": "human birth",
+      "category": "concept",
+      "subcategory": "teaching",
+      "description": "A rare opportunity that should not be wasted, as emphasized in Devanand Swami's kirtan about devotion to God.",
+      "aliases": [],
+      "chapter": 2
+    },
+    {
+      "id": "jay_swaminarayan",
+      "name": "Jay Swaminarayan",
+      "category": "concept",
+      "subcategory": "practice",
+      "description": "A greeting and expression of reverence that Nirgun Swami asked devotees to convey to Swamishri during his illness.",
+      "aliases": []
+    },
+    {
+      "id": "kal",
+      "name": "Kal",
+      "category": "concept",
+      "subcategory": "religious_term",
+      "description": "Described as a ferocious enemy in Devanand Swami's verses that may pounce at any moment.",
+      "aliases": [],
+      "chapter": 2
+    },
+    {
+      "id": "kali",
+      "name": "Kali",
+      "category": "concept",
+      "subcategory": "religious_term",
+      "description": "A concept mentioned in Devanand Swami's verses as staying where there is no dharma, contrasted with where satya brings happiness and dharma.",
+      "aliases": [],
+      "chapter": 2
+    },
+    {
+      "id": "kalpavruksh",
+      "name": "kalpavruksh",
+      "category": "concept",
+      "subcategory": "religious_term",
+      "description": "A wish-fulfilling tree that Joban compared Maharaj to, expressing that having Maharaj was enough and he needed nothing more.",
+      "aliases": []
+    },
+    {
+      "id": "khatras",
+      "name": "khatras",
+      "category": "concept",
+      "subcategory": "practice",
+      "description": "The six different types of tastes that Jivuba gave up as part of her austerities.",
+      "aliases": [],
+      "chapter": 6
+    },
+    {
+      "id": "kothari",
+      "name": "kothari",
+      "category": "concept",
+      "subcategory": "practice",
+      "description": "Temple administrative position that Jetha Bhagat served in at various mandirs including Mumbai, Vadodara, Junagadh and Gadhada.",
+      "aliases": []
+    },
+    {
+      "id": "kumkum_chandlo",
+      "name": "Kumkum Chandlo",
+      "category": "concept",
+      "subcategory": "practice",
+      "description": "Sacred forehead marking made from red powder that Maharaj taught his sadhus to apply along with the tilak.",
+      "aliases": [
+        "chandlo"
+      ]
+    },
+    {
+      "id": "liberation",
+      "name": "liberation",
+      "category": "concept",
+      "subcategory": "religious_term",
+      "description": "The spiritual goal that filled Devidan's heart as his only wish when he prayed to Bhagwan Shiv.",
+      "aliases": []
+    },
+    {
+      "id": "mahakavishvar_shatavdhani",
+      "name": "Mahakavishvar Shatavdhani",
+      "category": "concept",
+      "subcategory": "religious_term",
+      "description": "A prestigious title conferred upon Ladudanji by the Rao of Kutch recognizing his mastery of poetry.",
+      "aliases": [],
+      "chapter": 1
+    },
+    {
+      "id": "mahamahopadhyaya",
+      "name": "Mahamahopadhyaya",
+      "category": "concept",
+      "subcategory": "religious_term",
+      "description": "An honorific title conferred upon Ladudanji by the Rao of Kutch recognizing his scholarly achievements.",
+      "aliases": [],
+      "chapter": 1
+    },
+    {
+      "id": "mahant",
+      "name": "mahant",
+      "category": "concept",
+      "subcategory": "religious_term",
+      "description": "The head or chief priest of a temple. Devanand Swami succeeded Brahmanand Swami as mahant of Muli mandir.",
+      "aliases": [],
+      "chapter": 1
+    },
+    {
+      "id": "mangala_arti",
+      "name": "mangala arti",
+      "category": "concept",
+      "subcategory": "practice",
+      "description": "The early morning worship ritual that the pujari came to perform at 4 a.m.",
+      "aliases": []
+    },
+    {
+      "id": "marriage_duties",
+      "name": "marriage duties",
+      "category": "concept",
+      "subcategory": "practice",
+      "description": "The responsibilities that Ladudanji explained the sisters should observe as lay people in their marriages.",
+      "aliases": [],
+      "chapter": 1
+    },
+    {
+      "id": "moksha",
+      "name": "moksha",
+      "category": "concept",
+      "subcategory": "religious_term",
+      "description": "Liberation or salvation that cannot be attained by those who don't follow dharma, regardless of their charitable donations.",
+      "aliases": []
+    },
+    {
+      "id": "music",
+      "name": "music",
+      "category": "concept",
+      "subcategory": "practice",
+      "description": "One of the arts that Devanand Swami learned from Brahmanand Swami and became expert in.",
+      "aliases": [],
+      "chapter": 1
+    },
+    {
+      "id": "parabrahma",
+      "name": "Parabrahma",
+      "category": "concept",
+      "subcategory": "religious_term",
+      "description": "Supreme divine reality, the highest form of God.",
+      "aliases": []
+    },
+    {
+      "id": "paramatma",
+      "name": "Paramatma",
+      "category": "concept",
+      "subcategory": "religious_term",
+      "description": "The Supreme Soul, a concept that Brahmanand Swami explained to Munibawa along with the significance of atma.",
+      "aliases": [],
+      "chapter": 1
+    },
+    {
+      "id": "parayan",
+      "name": "parayan",
+      "category": "concept",
+      "subcategory": "practice",
+      "description": "A month-long spiritual event organized in Radhu to which the entire Satsang fellowship was invited.",
+      "aliases": []
+    },
+    {
+      "id": "pingal",
+      "name": "Pingal",
+      "category": "concept",
+      "subcategory": "teaching",
+      "description": "The science of poetry that Devanand Swami learned from Brahmanand Swami.",
+      "aliases": [],
+      "chapter": 1
+    },
+    {
+      "id": "pingal_shastra",
+      "name": "Pingal Shastra",
+      "category": "concept",
+      "subcategory": "practice",
+      "description": "The science of poetry that Ladudanji went to Bhuj to learn and eventually mastered.",
+      "aliases": [
+        "Pingal",
+        "Science of Poetry"
+      ],
+      "chapter": 1
+    },
+    {
+      "id": "pingal_vidyacharya",
+      "name": "Pingal-vidyacharya",
+      "category": "concept",
+      "subcategory": "religious_term",
+      "description": "A title meaning teacher of the science of poetry, conferred upon Ladudanji by the Rao of Kutch.",
+      "aliases": [],
+      "chapter": 1
+    },
+    {
+      "id": "prakruti_purush",
+      "name": "Prakruti-Purush",
+      "category": "concept",
+      "subcategory": "religious_term",
+      "description": "A high spiritual realm or state that Maharaj mentioned as a possible offering to Jhinabhai before granting Akshardham.",
+      "aliases": [],
+      "chapter": 4
+    },
+    {
+      "id": "pujan",
+      "name": "pujan",
+      "category": "concept",
+      "subcategory": "practice",
+      "description": "A worship ritual performed by the brothers for Swamishri and his sadhus at the festival's conclusion.",
+      "aliases": []
+    },
+    {
+      "id": "pujas",
+      "name": "Pujas",
+      "category": "concept",
+      "subcategory": "practice",
+      "description": "Worship rituals that Maharaj gave to all his sadhus when he reintroduced religious practices after the British takeover.",
+      "aliases": []
+    },
+    {
+      "id": "purushottam",
+      "name": "Purushottam",
+      "category": "concept",
+      "subcategory": "religious_term",
+      "description": "The supreme divine status that Gunatitanand Swami spoke of regarding Bhagwan Swaminarayan's glory.",
+      "aliases": []
+    },
+    {
+      "id": "rajkaviratna",
+      "name": "Rajkaviratna",
+      "category": "concept",
+      "subcategory": "religious_term",
+      "description": "One of the honorary titles conferred upon Ladudanji by the Rao of Kutch for his poetic excellence.",
+      "aliases": [],
+      "chapter": 1
+    },
+    {
+      "id": "renunciation",
+      "name": "Renunciation",
+      "category": "concept",
+      "subcategory": "teaching",
+      "description": "The spiritual practice of detachment from worldly pleasures that Shuk Muni zealously pursued, even praying for illness to help avoid sensual pleasures.",
+      "aliases": []
+    },
+    {
+      "id": "sadhu",
+      "name": "sadhu",
+      "category": "concept",
+      "subcategory": "religious_term",
+      "description": "A celibate monk or saint in the Hindu tradition. Devidan was initiated as a sadhu and given the name Devanand Swami.",
+      "aliases": [
+        "sadhus"
+      ],
+      "chapter": 2
+    },
+    {
+      "id": "samadhi",
+      "name": "samadhi",
+      "category": "concept",
+      "subcategory": "religious_term",
+      "description": "A deep meditative state that Munibawa experienced when he inhaled the fragrance of Maharaj's rose garland.",
+      "aliases": []
+    },
+    {
+      "id": "samadhi_state",
+      "name": "Samadhi",
+      "category": "concept",
+      "subcategory": "practice",
+      "description": "A state of deep spiritual trance or absorption experienced by devotees during divine encounters.",
+      "aliases": []
+    },
+    {
+      "id": "sampradaya",
+      "name": "Sampradaya",
+      "category": "concept",
+      "subcategory": "religious_term",
+      "description": "The religious tradition and community that included thousands of sadhus, some of whom treated Shastriji Maharaj with hostility.",
+      "aliases": [],
+      "chapter": 8
+    },
+    {
+      "id": "samskaras",
+      "name": "samskaras",
+      "category": "concept",
+      "subcategory": "religious_term",
+      "description": "Past life impressions or tendencies that helped Devanand Swami quickly become expert in music and poetry.",
+      "aliases": [],
+      "chapter": 2
+    },
+    {
+      "id": "sanatan_hindu_dharma",
+      "name": "Sanatan Hindu Dharma",
+      "category": "concept",
+      "subcategory": "religious_term",
+      "description": "The eternal Hindu religion whose ideals and traditions are taught through the Sampradaya.",
+      "aliases": []
+    },
+    {
+      "id": "sanskrit",
+      "name": "Sanskrit",
+      "category": "concept",
+      "subcategory": "teaching",
+      "description": "The ancient language that Brahmanand Swami studied under Munibawa and in which Munibawa was a profound scholar.",
+      "aliases": [],
+      "chapter": 1
+    },
+    {
+      "id": "sanstha",
+      "name": "Sanstha",
+      "category": "concept",
+      "subcategory": "religious_term",
+      "description": "The religious organization whose responsibility fell upon Yogiji Maharaj after Shastriji Maharaj passed away.",
+      "aliases": [],
+      "chapter": 8
+    },
+    {
+      "id": "satsang",
+      "name": "satsang",
+      "category": "concept",
+      "subcategory": "practice",
+      "description": "Association with true devotees and holy company, which Jagannath had an inherent liking for and through which he came in contact with paramhansas.",
+      "aliases": []
+    },
+    {
+      "id": "satsang_examinations",
+      "name": "Satsang Examinations",
+      "category": "concept",
+      "subcategory": "practice",
+      "description": "Educational examinations held to encourage children and youth to learn about the Sampradaya, with certificates awarded to successful candidates.",
+      "aliases": []
+    },
+    {
+      "id": "satsang_pravesh",
+      "name": "Satsang Pravesh",
+      "category": "concept",
+      "subcategory": "practice",
+      "description": "The second level examination in the Satsang Examinations curriculum for which this textbook is designed.",
+      "aliases": []
+    },
+    {
+      "id": "satsang_vows",
+      "name": "satsang vows",
+      "category": "concept",
+      "subcategory": "practice",
+      "description": "Religious vows that Maharaj had Joban take after forgiving him, drawing him away from his life of crime into devotional life.",
+      "aliases": [
+        "vows of satsang"
+      ]
+    },
+    {
+      "id": "satya",
+      "name": "satya",
+      "category": "concept",
+      "subcategory": "religious_term",
+      "description": "Truth, where happiness and dharma remain according to Devanand Swami's spiritual teachings.",
+      "aliases": [],
+      "chapter": 2
+    },
+    {
+      "id": "seva",
+      "name": "seva",
+      "category": "concept",
+      "subcategory": "practice",
+      "description": "Selfless service that devotees offer, particularly towards building mandirs, and which Nirgun Swami engaged in even in menial tasks.",
+      "aliases": []
+    },
+    {
+      "id": "spiritual_knowledge",
+      "name": "spiritual knowledge",
+      "category": "concept",
+      "subcategory": "religious_term",
+      "description": "A concept elaborated upon by Swamishri through incidents from the Bhagvat and Satsangijivan.",
+      "aliases": []
+    },
+    {
+      "id": "swaminarayan_aksharpith",
+      "name": "Swaminarayan Aksharpith",
+      "category": "concept",
+      "subcategory": "practice",
+      "description": "The publishing division that produces educational materials for the Swaminarayan Sampradaya.",
+      "aliases": []
+    },
+    {
+      "id": "swaminarayan_dhun",
+      "name": "Swaminarayan dhun",
+      "category": "concept",
+      "subcategory": "practice",
+      "description": "A chanting practice that Ashabhai instructed everyone to perform when Desai was bitten by the snake.",
+      "aliases": []
+    },
+    {
+      "id": "swaminarayan_sampradaya",
+      "name": "Swaminarayan Sampradaya",
+      "category": "concept",
+      "subcategory": "religious_term",
+      "description": "The religious tradition founded by Bhagwan Swaminarayan, encompassing its sadhus and devotees.",
+      "aliases": [
+        "Sampradaya"
+      ]
+    },
+    {
+      "id": "upasana",
+      "name": "Upasana",
+      "category": "concept",
+      "subcategory": "religious_term",
+      "description": "The true worship and spiritual practice that Shastriji Maharaj was blessed to spread according to Shuk Muni's prediction.",
+      "aliases": [],
+      "chapter": 8
+    },
+    {
+      "id": "vartal_sect",
+      "name": "Vartal sect",
+      "category": "concept",
+      "subcategory": "religious_term",
+      "description": "A particular group within the Sampradaya whose devotees in Sadhi created controversy and conflict.",
+      "aliases": []
+    },
+    {
+      "id": "vartman",
+      "name": "Vartman",
+      "category": "concept",
+      "subcategory": "practice",
+      "description": "A religious initiation ceremony given by Shuk Muni to Dungarbhai when he was six months old.",
+      "aliases": []
+    },
+    {
+      "id": "vedanta",
+      "name": "Vedanta",
+      "category": "concept",
+      "subcategory": "religious_term",
+      "description": "A philosophical system in which Khaiyo Khatri was a learned scholar.",
+      "aliases": []
+    },
+    {
+      "id": "vedanta_philosophy",
+      "name": "Vedanta philosophy",
+      "category": "concept",
+      "subcategory": "teaching",
+      "description": "A philosophical system that Munibawa was an adherent of and Khaiyo Khatri was a scholar of.",
+      "aliases": []
+    },
+    {
+      "id": "vicharan",
+      "name": "Vicharan",
+      "category": "concept",
+      "subcategory": "practice",
+      "description": "Practice of traveling and visiting devotees, which Maharaj began during the drought of 1813 to warn devotees of coming troubles.",
+      "aliases": []
+    },
+    {
+      "id": "yati",
+      "name": "yati",
+      "category": "concept",
+      "subcategory": "religious_term",
+      "description": "A term used by Maharaj to describe Brahmanand Swami as a true ascetic.",
+      "aliases": [],
+      "chapter": 1
+    },
+    {
+      "id": "yuvak_mandal",
+      "name": "Yuvak Mandal",
+      "category": "concept",
+      "subcategory": "practice",
+      "description": "The youth organization under BAPS that publishes educational materials for young satsangis.",
+      "aliases": [
+        "Shri Akshar-Purushottam (Swaminarayan) Yuvak Mandal"
+      ]
+    },
+    {
+      "id": "80th_birthday_celebrations",
+      "name": "80th birthday celebrations",
+      "category": "event",
+      "subcategory": "occasion",
+      "description": "Shastriji Maharaj's 80th birthday celebrations held in Bochasan where Nirgun Swami's management skills and devotion shone through.",
+      "aliases": [
+        "birthday celebrations"
+      ],
+      "chapter": 8
+    },
+    {
+      "id": "akshar_purushottam_murti_pratishtha",
+      "name": "Akshar-Purushottam murti pratishtha",
+      "category": "event",
+      "subcategory": "festival",
+      "description": "The installation ceremony of Akshar-Purushottam murtis at the Vadhwan mandir with Ashabhai's service.",
+      "aliases": []
+    },
+    {
+      "id": "night_conversation",
+      "name": "All-night conversation",
+      "category": "event",
+      "subcategory": "historical",
+      "description": "Yagnapurushdasji and Jethabhai spent an entire night talking, during which firm faith was kindled in Jethabhai.",
+      "aliases": []
+    },
+    {
+      "id": "annakut",
+      "name": "Annakut",
+      "category": "event",
+      "subcategory": "festival",
+      "description": "A festival that Maharaj returned to Vartal to celebrate after his trip to Gadhada.",
+      "aliases": []
+    },
+    {
+      "id": "arti_vasudev_narayan",
+      "name": "arti of Vasudev-Narayan",
+      "category": "event",
+      "subcategory": "occasion",
+      "description": "A religious ceremony that took place at Dada Khachar's darbar where Munibawa witnessed Maharaj's divine power.",
+      "aliases": [],
+      "chapter": 6
+    },
+    {
+      "id": "assemblies",
+      "name": "assemblies",
+      "category": "event",
+      "subcategory": "occasion",
+      "description": "Special gatherings organized to strengthen the Akshar-Purushottam upasana within devotees.",
+      "aliases": []
+    },
+    {
+      "id": "assembly_rule",
+      "name": "assembly rule",
+      "category": "event",
+      "subcategory": "historical",
+      "description": "Maharaj's rule that nobody was to doze in the assembly, enforced by throwing his berkho.",
+      "aliases": []
+    },
+    {
+      "id": "bhagvati_diksha",
+      "name": "bhagvati diksha",
+      "category": "event",
+      "subcategory": "occasion",
+      "description": "Religious initiation ceremony that Jetha Bhagat underwent on 29 January 1906 to become Nirgundas Swami.",
+      "aliases": []
+    },
+    {
+      "id": "bhavnagar_performance",
+      "name": "Bhavnagar Performance",
+      "category": "event",
+      "subcategory": "historical",
+      "description": "Ladudanji's exceptional performance before King Vakhatsinh that led to his reward with gold ornaments.",
+      "aliases": [],
+      "chapter": 1
+    },
+    {
+      "id": "boat_miracle",
+      "name": "boat miracle",
+      "category": "event",
+      "subcategory": "miracle",
+      "description": "Miraculous event where rough waters calmed down after Jethabhai prayed to Bhagatji Maharaj and the group sang kirtans.",
+      "aliases": []
+    },
+    {
+      "id": "boat_storm_miracle",
+      "name": "Boat storm miracle",
+      "category": "event",
+      "subcategory": "miracle",
+      "description": "When Jethabhai prayed to Bhagatji Maharaj during rough waters, the tide settled and they reached Mahuva safely.",
+      "aliases": []
+    },
+    {
+      "id": "brahmanand_swamis_passing",
+      "name": "Brahmanand Swami's passing",
+      "category": "event",
+      "subcategory": "historical",
+      "description": "Brahmanand Swami's death on 8 June 1832 CE (Jeth sud 10, Samvat 1888) when he passed away to Akshardham.",
+      "aliases": [],
+      "chapter": 1
+    },
+    {
+      "id": "british_rule",
+      "name": "British Rule",
+      "category": "event",
+      "subcategory": "historical",
+      "description": "Historical period when the British took over India, making times easier for Maharaj's sadhus by ending religious harassment.",
+      "aliases": []
+    },
+    {
+      "id": "chaitra_samvat_1878",
+      "name": "Chaitra, Samvat 1878",
+      "category": "event",
+      "subcategory": "historical",
+      "description": "The specific date (April 1822) when Maharaj performed the groundbreaking ceremony for the Vartal mandir.",
+      "aliases": [
+        "April 1822"
+      ]
+    },
+    {
+      "id": "consecration",
+      "name": "consecration",
+      "category": "event",
+      "subcategory": "occasion",
+      "description": "The ceremonial installation of murtis in completed mandirs with grand celebrations.",
+      "aliases": []
+    },
+    {
+      "id": "sisters_conversation",
+      "name": "Conversation with Sisters",
+      "category": "event",
+      "subcategory": "historical",
+      "description": "The discussion between Ladudanji and Dada Khachar's sisters about their celibate lifestyle and spiritual teachings.",
+      "aliases": [],
+      "chapter": 1
+    },
+    {
+      "id": "curtain_arrangement",
+      "name": "curtain arrangement",
+      "category": "event",
+      "subcategory": "occasion",
+      "description": "The arrangement made when Ladudanji met with the sisters who had vowed not to look at men other than Maharaj.",
+      "aliases": [],
+      "chapter": 1
+    },
+    {
+      "id": "divine_darshan",
+      "name": "Divine Darshan",
+      "category": "event",
+      "subcategory": "miracle",
+      "description": "The miraculous vision of Bhagwan Swaminarayan in gold-threaded clothes that Joban saw during his attempted theft, which led to his transformation.",
+      "aliases": [
+        "Darshan",
+        "darshan"
+      ]
+    },
+    {
+      "id": "divine_dream",
+      "name": "Divine Dream",
+      "category": "event",
+      "subcategory": "miracle",
+      "description": "The dream through which God inspired Ladudanji's parents to support his further education.",
+      "aliases": [],
+      "chapter": 1
+    },
+    {
+      "id": "divine_dream_inspiration",
+      "name": "Divine Dream Inspiration",
+      "category": "event",
+      "subcategory": "miracle",
+      "description": "The divine inspiration received by Ladudanji's parents through a dream regarding his further education.",
+      "aliases": [],
+      "chapter": 1
+    },
+    {
+      "id": "divine_light_miracle",
+      "name": "divine light miracle",
+      "category": "event",
+      "subcategory": "miracle",
+      "description": "The miraculous event when Maharaj lit his room with a beam of light emanating from the big toe of his right foot after the candle went out.",
+      "aliases": []
+    },
+    {
+      "id": "drought_1813",
+      "name": "Drought of 1813 CE",
+      "category": "event",
+      "subcategory": "historical",
+      "description": "Major drought that threatened the region, prompting Maharaj to warn devotees in advance. Jhinabhai prepared by selling livestock and stockpiling grains.",
+      "aliases": [
+        "Samvat 1869 drought"
+      ],
+      "chapter": 4
+    },
+    {
+      "id": "escape_from_vartal",
+      "name": "escape from Vartal",
+      "category": "event",
+      "subcategory": "historical",
+      "description": "The incident when Maharaj secretly left Vartal with Khodabhai while Joban and Hamir were sleeping on guard duty.",
+      "aliases": []
+    },
+    {
+      "id": "festival",
+      "name": "festival",
+      "category": "event",
+      "subcategory": "festival",
+      "description": "A grand celebration organized by the brothers where thousands of devotees came and Swamishri gave discourses.",
+      "aliases": []
+    },
+    {
+      "id": "festival_vartal",
+      "name": "Festival in Vartal",
+      "category": "event",
+      "subcategory": "festival",
+      "description": "A religious celebration that took place in Vartal in 1865 before Shuk Muni went to Mahelav.",
+      "aliases": []
+    },
+    {
+      "id": "festival_preparations",
+      "name": "festival preparations",
+      "category": "event",
+      "subcategory": "occasion",
+      "description": "Preparations for a festival in Bochasan during which Nirgun Swami cleaned up rubbish from the mandir complex.",
+      "aliases": []
+    },
+    {
+      "id": "festivals",
+      "name": "festivals",
+      "category": "event",
+      "subcategory": "festival",
+      "description": "Religious celebrations that Nirgun Swami was expert at arranging and managing for devotee care.",
+      "aliases": []
+    },
+    {
+      "id": "final_rites",
+      "name": "final rites",
+      "category": "event",
+      "subcategory": "occasion",
+      "description": "The funeral ceremonies performed for Devanand Swami at the river bank after his death.",
+      "aliases": [],
+      "chapter": 2
+    },
+    {
+      "id": "fire",
+      "name": "fire",
+      "category": "event",
+      "subcategory": "historical",
+      "description": "A devastating incident that destroyed Ashabhai's entire home and possessions in Purushottampura.",
+      "aliases": []
+    },
+    {
+      "id": "first_darshan_bhagatji",
+      "name": "First darshan of Bhagatji Maharaj",
+      "category": "event",
+      "subcategory": "historical",
+      "description": "Jethabhai first had Bhagatji Maharaj's darshan in October 1895 (Kartik, Samvat 1952).",
+      "aliases": []
+    },
+    {
+      "id": "first_darshan_shastriji",
+      "name": "first darshan of Shastriji Maharaj",
+      "category": "event",
+      "subcategory": "historical",
+      "description": "The momentous occasion when Ashabhai first saw Shastriji Maharaj narrating King Bharat's story in a crowded dharmashala.",
+      "aliases": [],
+      "chapter": 8
+    },
+    {
+      "id": "first_meeting_ramanand_swami",
+      "name": "First Meeting with Ramanand Swami",
+      "category": "event",
+      "subcategory": "historical",
+      "description": "The occasion when Ladudanji first met Sadguru Ramanand Swami in Dhamadka and received his blessings.",
+      "aliases": [],
+      "chapter": 1
+    },
+    {
+      "id": "fuldol",
+      "name": "Fuldol",
+      "category": "event",
+      "subcategory": "festival",
+      "description": "A festival celebration held in Vartal where Maharaj stayed at Joban's house and later sprayed colors on devotees.",
+      "aliases": []
+    },
+    {
+      "id": "fuldol_festival",
+      "name": "Fuldol Festival",
+      "category": "event",
+      "subcategory": "festival",
+      "description": "A religious festival celebrated in 1823 in Panchala, sponsored by Jhinabhai Darbar. It holds a special place in the Sampradaya's history.",
+      "aliases": [],
+      "chapter": 4
+    },
+    {
+      "id": "fuldol_festival_1823",
+      "name": "Fuldol Festival of 1823 CE",
+      "category": "event",
+      "subcategory": "festival",
+      "description": "Grand festival celebrated in Panchala with thousands of sadhus and devotees, featuring raas dance and color celebration. Has special place in Sampradaya history.",
+      "aliases": [
+        "Samvat 1879 Fuldol",
+        "Fuldol 1823"
+      ]
+    },
+    {
+      "id": "grand_procession",
+      "name": "grand procession",
+      "category": "event",
+      "subcategory": "occasion",
+      "description": "A ceremonial procession arranged by Maharaj for Brahmanand Swami in Mandvi where he was seated on a horse.",
+      "aliases": [
+        "procession"
+      ],
+      "chapter": 1
+    },
+    {
+      "id": "grand_reception",
+      "name": "grand reception",
+      "category": "event",
+      "subcategory": "occasion",
+      "description": "A ceremonial welcome organized by Ardeshar Kotwal for Maharaj in Surat.",
+      "aliases": []
+    },
+    {
+      "id": "grand_reception_munibawa",
+      "name": "grand reception for Munibawa",
+      "category": "event",
+      "subcategory": "occasion",
+      "description": "A reception arranged by the darbars of village chieftains to honor Munibawa after Maharaj's initial indifference.",
+      "aliases": []
+    },
+    {
+      "id": "groundbreaking_ceremony",
+      "name": "groundbreaking ceremony",
+      "category": "event",
+      "subcategory": "historical",
+      "description": "The ceremony performed by Maharaj in April 1822 for the construction of a mandir in Vartal, where devotees promised various services.",
+      "aliases": []
+    },
+    {
+      "id": "holi_festival",
+      "name": "Holi festival",
+      "category": "event",
+      "subcategory": "festival",
+      "description": "A major celebration that Maharaj agreed to celebrate in Vartal at Joban's request, involving thousands of devotees and the 12-sided hindolo.",
+      "aliases": [
+        "Holi"
+      ]
+    },
+    {
+      "id": "horse_theft_attempt",
+      "name": "horse theft attempt",
+      "category": "event",
+      "subcategory": "miracle",
+      "description": "The night when Joban Pagi tried to steal Maharaj's horse but had divine darshan and was prevented from completing the theft.",
+      "aliases": [],
+      "chapter": 5
+    },
+    {
+      "id": "hutashani_festival",
+      "name": "Hutashani Festival",
+      "category": "event",
+      "subcategory": "festival",
+      "description": "A religious festival celebrated by Maharaj in Panchala after he appreciated Jhinabhai's service to Kamalshi.",
+      "aliases": [],
+      "chapter": 4
+    },
+    {
+      "id": "initiation_ceremony",
+      "name": "initiation",
+      "category": "event",
+      "subcategory": "occasion",
+      "description": "The ceremony when Nirgun Swami took saffron robes and became a sadhu.",
+      "aliases": []
+    },
+    {
+      "id": "jethabhai_birth_date",
+      "name": "Jethabhai's birth date",
+      "category": "event",
+      "subcategory": "historical",
+      "description": "Jethabhai was born on 25 May 1876 (Jeth sud 2, Samvat 1932) to a Patidar family in Pij.",
+      "aliases": []
+    },
+    {
+      "id": "jivuba_death_date",
+      "name": "Jivuba's death date",
+      "category": "event",
+      "subcategory": "historical",
+      "description": "Jivuba passed away on 26 May 1860 (Jeth sud 6, Samvat 1916) and went to Akshardham.",
+      "aliases": [],
+      "chapter": 6
+    },
+    {
+      "id": "jute_test",
+      "name": "jute clothing test",
+      "category": "event",
+      "subcategory": "historical",
+      "description": "A test devised by Maharaj where each sadhu was given a standard piece of jute regardless of their size.",
+      "aliases": []
+    },
+    {
+      "id": "kartik_sud_punam",
+      "name": "Kartik sud Punam",
+      "category": "event",
+      "subcategory": "occasion",
+      "description": "The Hindu calendar date (9 November 1802, Samvat 1859) when Devidan was born in Balol.",
+      "aliases": []
+    },
+    {
+      "id": "kirtan_composition",
+      "name": "kirtan composition",
+      "category": "event",
+      "subcategory": "occasion",
+      "description": "The instant composition of a four-verse kirtan by Brahmanand Swami when challenged by Maharaj after being caught dozing.",
+      "aliases": [],
+      "chapter": 1
+    },
+    {
+      "id": "koyli_festival",
+      "name": "Koyli festival",
+      "category": "event",
+      "subcategory": "festival",
+      "description": "A marvellous celebration where Swamishri was honored by being received on a royal seat placed atop an elephant.",
+      "aliases": []
+    },
+    {
+      "id": "kumkum_footsteps",
+      "name": "kumkum footsteps",
+      "category": "event",
+      "subcategory": "miracle",
+      "description": "Five miraculous footsteps made of kumkum that appeared at the devotee's home entrance as a sign of Devanand Swami's impending death.",
+      "aliases": [],
+      "chapter": 2
+    },
+    {
+      "id": "ladudanji_first_performance",
+      "name": "Ladudanji's First Performance",
+      "category": "event",
+      "subcategory": "historical",
+      "description": "The poetry recital by young Ladudanji at the Royal Court of Shirohi that gained him recognition.",
+      "aliases": [],
+      "chapter": 1
+    },
+    {
+      "id": "ladudanji_samadhi",
+      "name": "Ladudanji's Samadhi",
+      "category": "event",
+      "subcategory": "miracle",
+      "description": "The divine trance experienced by Ladudanji when he first saw Swaminarayan, during which he had divine darshan.",
+      "aliases": [
+        "Samadhi"
+      ],
+      "chapter": 1
+    },
+    {
+      "id": "miracle_appearance",
+      "name": "Maharaj's appearance after passing",
+      "category": "event",
+      "subcategory": "miracle",
+      "description": "The divine event where Maharaj appeared to Bhaguji in Akshar Ordi after passing away to dictate a letter through Shuk Muni.",
+      "aliases": []
+    },
+    {
+      "id": "maharajs_final_illness",
+      "name": "Maharaj's final illness",
+      "category": "event",
+      "subcategory": "historical",
+      "description": "The period in Gadhada when Maharaj was ill and eventually passed away to Akshardham.",
+      "aliases": []
+    },
+    {
+      "id": "mandir_construction",
+      "name": "mandir construction",
+      "category": "event",
+      "subcategory": "historical",
+      "description": "The building projects of mandirs supervised by Brahmanand Swami in various cities.",
+      "aliases": [],
+      "chapter": 1
+    },
+    {
+      "id": "manuscript_tearing",
+      "name": "manuscript tearing",
+      "category": "event",
+      "subcategory": "historical",
+      "description": "The incident when Maharaj tore up Shuk Muni's entire night's work of 14 pages without looking at it, testing his devotion.",
+      "aliases": []
+    },
+    {
+      "id": "mukta_arrival",
+      "name": "mukta arrival",
+      "category": "event",
+      "subcategory": "miracle",
+      "description": "The divine event when Maharaj suddenly announced that a mukta was coming from Dabhan, before anyone could see Jagannath approaching.",
+      "aliases": []
+    },
+    {
+      "id": "murti_pratishtha",
+      "name": "murti-pratishtha",
+      "category": "event",
+      "subcategory": "festival",
+      "description": "The consecration ceremony of the Muli mandir performed by the acharya of Ahmedabad amidst much festivity.",
+      "aliases": []
+    },
+    {
+      "id": "nirgun_swami_injury_healing",
+      "name": "Nirgun Swami's miraculous healing",
+      "category": "event",
+      "subcategory": "miracle",
+      "description": "A divine intervention where Shriji Maharaj appeared to heal Nirgun Swami's severe injuries from a horse fall.",
+      "aliases": []
+    },
+    {
+      "id": "nirgun_swami_passing",
+      "name": "Nirgun Swami's passing",
+      "category": "event",
+      "subcategory": "historical",
+      "description": "Nirgun Swami passed away on Tuesday, 30 May 1950 (Jeth sud 14, VS 2006) in Anand, taking his place in Maharaj's seva in Akshardham.",
+      "aliases": []
+    },
+    {
+      "id": "parayans",
+      "name": "parayans",
+      "category": "event",
+      "subcategory": "occasion",
+      "description": "Religious assemblies held to strengthen Akshar-Purushottam upasana among devotees.",
+      "aliases": []
+    },
+    {
+      "id": "parshad_initiation",
+      "name": "parshad initiation",
+      "category": "event",
+      "subcategory": "occasion",
+      "description": "Religious initiation ceremony that Jethabhai underwent on 17 April 1897 at Bhagatji Maharaj's command.",
+      "aliases": []
+    },
+    {
+      "id": "poetry_recital",
+      "name": "Poetry Recital",
+      "category": "event",
+      "subcategory": "historical",
+      "description": "The event where young Ladudanji recited his poems at the Royal Court of Shirohi and captivated the audience.",
+      "aliases": [],
+      "chapter": 1
+    },
+    {
+      "id": "posthumous_appearance",
+      "name": "posthumous appearance",
+      "category": "event",
+      "subcategory": "miracle",
+      "description": "The miraculous event when Maharaj appeared to Bhaguji in Akshar Ordi after his passing to Akshardham, requesting to write a letter through Shuk Muni.",
+      "aliases": []
+    },
+    {
+      "id": "punam",
+      "name": "Punam",
+      "category": "event",
+      "subcategory": "occasion",
+      "description": "Full moon day when Ashabhai would regularly go to Dakor for darshan and when the Sayajipura festival concluded.",
+      "aliases": []
+    },
+    {
+      "id": "raas_dance",
+      "name": "Raas Dance",
+      "category": "event",
+      "subcategory": "miracle",
+      "description": "Divine dance performed during Fuldol festival where Maharaj appeared in numerous forms to dance with each devotee, creating nine circles of participants.",
+      "aliases": [
+        "raas"
+      ]
+    },
+    {
+      "id": "radhu_month_long_parayan",
+      "name": "Radhu month-long parayan",
+      "category": "event",
+      "subcategory": "festival",
+      "description": "An extended religious discourse and reading program organized by Ashabhai and Ishwarbhai in Radhu.",
+      "aliases": []
+    },
+    {
+      "id": "ranchhodray_dream_vision",
+      "name": "Ranchhodray's dream vision",
+      "category": "event",
+      "subcategory": "miracle",
+      "description": "A divine dream in which Ranchhodray appeared to Ashabhai and instructed him to take refuge in Bhagwan Swaminarayan.",
+      "aliases": []
+    },
+    {
+      "id": "rangotsav",
+      "name": "Rangotsav",
+      "category": "event",
+      "subcategory": "festival",
+      "description": "A color festival celebrated in Jnanbaug where Maharaj threw gulal on sadhus and devotees and drenched them in colored water.",
+      "aliases": []
+    },
+    {
+      "id": "rao_court_test",
+      "name": "Rao's Court Test",
+      "category": "event",
+      "subcategory": "historical",
+      "description": "The performance test arranged by the Rao of Kutch to evaluate Ladudanji's poetic knowledge.",
+      "aliases": [],
+      "chapter": 1
+    },
+    {
+      "id": "sadhu_initiation",
+      "name": "sadhu initiation",
+      "category": "event",
+      "subcategory": "occasion",
+      "description": "The ceremony performed by Muktanand Swami in February 1816 when Jagannath was initiated as a sadhu and named Shukanand Swami.",
+      "aliases": [],
+      "chapter": 3
+    },
+    {
+      "id": "sayajipura_grand_festival",
+      "name": "Sayajipura grand festival",
+      "category": "event",
+      "subcategory": "festival",
+      "description": "A magnificent celebration organized by Ashabhai and Ishwarbhai with elaborate arrangements, discourses, and thousands of attendees.",
+      "aliases": []
+    },
+    {
+      "id": "scriptural_debate",
+      "name": "scriptural debate",
+      "category": "event",
+      "subcategory": "historical",
+      "description": "A challenge posed by Khaiyo Khatri to Maharaj, where Brahmanand Swami sat in Maharaj's place as part of a plan.",
+      "aliases": [],
+      "chapter": 1
+    },
+    {
+      "id": "scriptural_debate_challenge",
+      "name": "scriptural debate challenge",
+      "category": "event",
+      "subcategory": "occasion",
+      "description": "The challenge issued by Khaiyo Khatri to Maharaj for a debate on scriptures.",
+      "aliases": []
+    },
+    {
+      "id": "shastriji_maharaj_shatabdi_mahotsav",
+      "name": "Shastriji Maharaj's Shatabdi Mahotsav",
+      "category": "event",
+      "subcategory": "festival",
+      "description": "A centennial celebration in honor of Shastriji Maharaj that Mota Swami attended.",
+      "aliases": [],
+      "chapter": 8
+    },
+    {
+      "id": "shivji_darshan",
+      "name": "Shivji darshan",
+      "category": "event",
+      "subcategory": "miracle",
+      "description": "The divine appearance of Bhagwan Shiv before young Devidan during his worship at the mandir.",
+      "aliases": []
+    },
+    {
+      "id": "shravan_vad_9",
+      "name": "Shravan vad 9",
+      "category": "event",
+      "subcategory": "occasion",
+      "description": "The Hindu calendar date (28 August 1853, Samvat 1910) when Devanand Swami passed away to Akshardham.",
+      "aliases": [],
+      "chapter": 2
+    },
+    {
+      "id": "shuk_muni_passing",
+      "name": "Shuk Muni's passing",
+      "category": "event",
+      "subcategory": "historical",
+      "description": "The death of Shuk Muni on 4 December 1868 in Vartal after years of dedicated service to satsang.",
+      "aliases": []
+    },
+    {
+      "id": "snakebite",
+      "name": "snakebite",
+      "category": "event",
+      "subcategory": "historical",
+      "description": "A tragic incident where Desai was bitten by a snake while working in the pasture and subsequently died.",
+      "aliases": []
+    },
+    {
+      "id": "suvarna_mahotsav",
+      "name": "Suvarna Mahotsav",
+      "category": "event",
+      "subcategory": "festival",
+      "description": "A golden jubilee celebration held in Atladara where Nirgun Swami's unmatched management skills and devotion were evident.",
+      "aliases": []
+    },
+    {
+      "id": "swamishri_exile_from_vartal",
+      "name": "Swamishri's exile from Vartal",
+      "category": "event",
+      "subcategory": "historical",
+      "description": "The forced departure of Shastriji Maharaj from Vartal mandir due to hostility from certain elements of the Sampradaya.",
+      "aliases": [],
+      "chapter": 8
+    },
+    {
+      "id": "swaminarayan_test",
+      "name": "Testing of Swaminarayan",
+      "category": "event",
+      "subcategory": "miracle",
+      "description": "Ladudanji's attempt to test Swaminarayan with four specific wishes, all of which were fulfilled.",
+      "aliases": [],
+      "chapter": 1
+    },
+    {
+      "id": "twelve_forms_miracle",
+      "name": "twelve forms miracle",
+      "category": "event",
+      "subcategory": "miracle",
+      "description": "The miraculous event during Holi when Maharaj assumed 12 forms to grant darshan to all devotees through each of the hindolo's 12 sides.",
+      "aliases": []
+    },
+    {
+      "id": "uncle_samadhi",
+      "name": "Uncle's Samadhi",
+      "category": "event",
+      "subcategory": "miracle",
+      "description": "The divine trance experienced by Ladudanji's uncle after initially rebuking Maharaj for his nephew's condition.",
+      "aliases": [],
+      "chapter": 1
+    },
+    {
+      "id": "vartman_ceremony",
+      "name": "Vartman ceremony",
+      "category": "event",
+      "subcategory": "occasion",
+      "description": "The religious initiation ceremony that Shuk Muni gave to six-month-old Dungarbhai in Mahelav in 1865.",
+      "aliases": []
+    },
+    {
+      "id": "vasant_panchami",
+      "name": "Vasant Panchami",
+      "category": "event",
+      "subcategory": "festival",
+      "description": "An auspicious Hindu festival on which Brahmanand Swami was born and Pramukh Swami Maharaj gave his blessings.",
+      "aliases": [],
+      "chapter": 1
+    },
+    {
+      "id": "vasant_panchami_festival",
+      "name": "Vasant Panchami festival",
+      "category": "event",
+      "subcategory": "festival",
+      "description": "A festival arranged by Nirgun Swami in Khandesh on February 5, 1919, attended by Swamishri and many devotees.",
+      "aliases": []
+    },
+    {
+      "id": "vision_of_desai",
+      "name": "vision of Desai",
+      "category": "event",
+      "subcategory": "miracle",
+      "description": "A divine incident where Desai appeared to Ashabhai 15 days after his death, accompanied by Bhagatji Maharaj.",
+      "aliases": []
+    },
+    {
+      "id": "yagna",
+      "name": "yagna",
+      "category": "event",
+      "subcategory": "occasion",
+      "description": "A Hindu fire ritual/ceremony that Bhagwan Swaminarayan completed in nearby Jetalpur before coming to Balol.",
+      "aliases": []
+    },
+    {
+      "id": "yagnas",
+      "name": "Yagnas",
+      "category": "event",
+      "subcategory": "occasion",
+      "description": "Grand religious ceremonies and festivals that Maharaj held, with Jhinabhai leading the preparations and management.",
+      "aliases": [],
+      "chapter": 4
+    },
+    {
+      "id": "yogiji_maharaj_amrut_mahotsav",
+      "name": "Yogiji Maharaj's Amrut Mahotsav",
+      "category": "event",
+      "subcategory": "festival",
+      "description": "A special celebration in honor of Yogiji Maharaj that Mota Swami attended.",
+      "aliases": []
+    },
+    {
+      "id": "akshar_purushottam_murtis",
+      "name": "Akshar-Purushottam murtis",
+      "category": "object",
+      "subcategory": "artifact",
+      "description": "Sacred statues that were installed at the mandir in Vadhwan with Ashabhai's assistance in preparations.",
+      "aliases": []
+    },
+    {
+      "id": "ambulance",
+      "name": "ambulance",
+      "category": "object",
+      "subcategory": "item",
+      "description": "A vehicle that took Nirgun Swami from Mumbai to Pen for treatment during his final illness.",
+      "aliases": []
+    },
+    {
+      "id": "banyan_tree",
+      "name": "banyan tree",
+      "category": "object",
+      "subcategory": "item",
+      "description": "A large tree with thick growth that covered the stable where Maharaj's horse was kept.",
+      "aliases": []
+    },
+    {
+      "id": "beer_bottles",
+      "name": "Beer bottles",
+      "category": "object",
+      "subcategory": "item",
+      "description": "Alcoholic drink containers that were present at the Royal Court of Junagadh during the worldly entertainment.",
+      "aliases": []
+    },
+    {
+      "id": "berkho",
+      "name": "berkho",
+      "category": "object",
+      "subcategory": "item",
+      "description": "An object that Maharaj would throw at sadhus who were dozing in the assembly, including at Brahmanand Swami.",
+      "aliases": [],
+      "chapter": 1
+    },
+    {
+      "id": "bhagvat",
+      "name": "Bhagvat",
+      "category": "object",
+      "subcategory": "scripture",
+      "description": "A scripture from which Swamishri discoursed and elaborated on wonderful incidents relating to devotion and spiritual knowledge.",
+      "aliases": []
+    },
+    {
+      "id": "bhagvat_shastra",
+      "name": "Bhagvat Shastra",
+      "category": "object",
+      "subcategory": "scripture",
+      "description": "A religious scripture that Swaminarayan was reading, wrapped in a black cloth, fulfilling one of Ladudanji's tests.",
+      "aliases": [
+        "Bhagvat"
+      ],
+      "chapter": 1
+    },
+    {
+      "id": "bhaji_le_bhagwan",
+      "name": "Bhaji le Bhagwãn",
+      "category": "object",
+      "subcategory": "scripture",
+      "description": "A kirtan composed by Devanand Swami about praying to God through association with true sadhus.",
+      "aliases": [],
+      "chapter": 2
+    },
+    {
+      "id": "bilipatra",
+      "name": "bilipatra",
+      "category": "object",
+      "subcategory": "item",
+      "description": "Sacred leaves (bel leaves) offered to Shivji during worship, which Devidan offered to the murti.",
+      "aliases": []
+    },
+    {
+      "id": "black_cloth",
+      "name": "Black Cloth",
+      "category": "object",
+      "subcategory": "item",
+      "description": "The cloth that wrapped the Bhagvat shastra, part of Ladudanji's test for Swaminarayan.",
+      "aliases": [],
+      "chapter": 1
+    },
+    {
+      "id": "black_pepper",
+      "name": "Black Pepper",
+      "category": "object",
+      "subcategory": "item",
+      "description": "Medicine that Adiba refused to provide for Kamalshi's headache but later produced for Jhinabhai, revealing her discriminatory behavior.",
+      "aliases": [],
+      "chapter": 4
+    },
+    {
+      "id": "blanket",
+      "name": "blanket",
+      "category": "object",
+      "subcategory": "item",
+      "description": "Bedding provided to devotees during festivals, which Nirgun Swami ensured was distributed fairly.",
+      "aliases": []
+    },
+    {
+      "id": "boat",
+      "name": "boat",
+      "category": "object",
+      "subcategory": "item",
+      "description": "The vessel Jethabhai and Ganpatbhai traveled in to reach Mahuva for darshan of Bhagatji Maharaj.",
+      "aliases": []
+    },
+    {
+      "id": "brahmanand_couplet",
+      "name": "Brahmanand couplet",
+      "category": "object",
+      "subcategory": "scripture",
+      "description": "Devotional verse by Brahmanand that Nirgun Swami would often sing, expressing dedication to worship and service unto death.",
+      "aliases": [],
+      "chapter": 1
+    },
+    {
+      "id": "brahmanand_kavya",
+      "name": "Brahmanand Kavya",
+      "category": "object",
+      "subcategory": "scripture",
+      "description": "One of Brahmanand Swami's well-known literary works.",
+      "aliases": [],
+      "chapter": 1
+    },
+    {
+      "id": "brahmavilas",
+      "name": "Brahmavilas",
+      "category": "object",
+      "subcategory": "scripture",
+      "description": "One of Brahmanand Swami's well-known literary works.",
+      "aliases": [],
+      "chapter": 1
+    },
+    {
+      "id": "buddhi_pradip",
+      "name": "Buddhi Pradip",
+      "category": "object",
+      "subcategory": "scripture",
+      "description": "One of the Sanskrit works written by Shuk Muni as part of his literary contributions to the sampradaya.",
+      "aliases": []
+    },
+    {
+      "id": "bullock",
+      "name": "Bullock",
+      "category": "object",
+      "subcategory": "item",
+      "description": "An animal from Dabhan that Maharaj praised along with the mango tree and Shuk Muni as being very useful to him.",
+      "aliases": []
+    },
+    {
+      "id": "bullock_cart",
+      "name": "bullock cart",
+      "category": "object",
+      "subcategory": "item",
+      "description": "A traditional cart used by Swamishri to travel with devotees to see land, and 40 were rented for transporting festival materials.",
+      "aliases": []
+    },
+    {
+      "id": "buttermilk",
+      "name": "buttermilk",
+      "category": "object",
+      "subcategory": "item",
+      "description": "Dairy beverage served alongside meals.",
+      "aliases": []
+    },
+    {
+      "id": "candle",
+      "name": "candle",
+      "category": "object",
+      "subcategory": "item",
+      "description": "The light source in Maharaj's room that was extinguished before he illuminated the room with light from his toe.",
+      "aliases": []
+    },
+    {
+      "id": "carpets",
+      "name": "carpets",
+      "category": "object",
+      "subcategory": "item",
+      "description": "Floor coverings acquired from the government depot for the grand festival at Sayajipura.",
+      "aliases": []
+    },
+    {
+      "id": "chariot",
+      "name": "chariot",
+      "category": "object",
+      "subcategory": "item",
+      "description": "The vehicle Jivuba was traveling in when she encountered the ill Akhandanand Swami and gave it to him.",
+      "aliases": [],
+      "chapter": 6
+    },
+    {
+      "id": "cot",
+      "name": "Cot",
+      "category": "object",
+      "subcategory": "item",
+      "description": "The bed that Maharaj sat on underneath the mango tree at Lakshmi Vadi.",
+      "aliases": []
+    },
+    {
+      "id": "cotton",
+      "name": "cotton",
+      "category": "object",
+      "subcategory": "item",
+      "description": "A crop stored by Ashabhai that caught fire when the matchstick was dropped on it.",
+      "aliases": []
+    },
+    {
+      "id": "curtain",
+      "name": "Curtain",
+      "category": "object",
+      "subcategory": "item",
+      "description": "A barrier placed between Ladudanji and Dada Khachar's sisters during their conversation, respecting their vow not to look at men.",
+      "aliases": [],
+      "chapter": 1
+    },
+    {
+      "id": "cushion",
+      "name": "cushion",
+      "category": "object",
+      "subcategory": "item",
+      "description": "A 20 kg cushion that Maharaj spun on his finger and threw precisely to his seat, demonstrating divine power.",
+      "aliases": [
+        "pillow"
+      ]
+    },
+    {
+      "id": "dasham_uttarardh",
+      "name": "Dasham Uttarardh",
+      "category": "object",
+      "subcategory": "scripture",
+      "description": "One of the Gujarati works written by Shuk Muni as part of his literary contributions.",
+      "aliases": []
+    },
+    {
+      "id": "decorative_cloth",
+      "name": "decorative cloth",
+      "category": "object",
+      "subcategory": "item",
+      "description": "Festival decoration materials acquired from the government depot in Vadodara for the Sayajipura celebration.",
+      "aliases": []
+    },
+    {
+      "id": "kirtan_dhanya",
+      "name": "Dhanya Ājni Ghadi Kirtan",
+      "category": "object",
+      "subcategory": "scripture",
+      "description": "A devotional song spontaneously composed and sung by Ladudanji upon meeting Swaminarayan.",
+      "aliases": [
+        "Dhanya Ājni Ghadi"
+      ],
+      "chapter": 1
+    },
+    {
+      "id": "dhotiyas",
+      "name": "dhotiyas",
+      "category": "object",
+      "subcategory": "item",
+      "description": "Items presented to Swamishri and his sadhus during the concluding pujan of the festival.",
+      "aliases": []
+    },
+    {
+      "id": "dhotiyu",
+      "name": "Dhotiyu",
+      "category": "object",
+      "subcategory": "item",
+      "description": "A traditional garment that Nirgun Swami pulled up when he began removing rubbish with a shovel during festival preparations.",
+      "aliases": []
+    },
+    {
+      "id": "elephant",
+      "name": "elephant",
+      "category": "object",
+      "subcategory": "item",
+      "description": "A large animal used as a platform for the royal seat to honor Swamishri at the Koyli festival.",
+      "aliases": []
+    },
+    {
+      "id": "funeral_pyre",
+      "name": "funeral pyre",
+      "category": "object",
+      "subcategory": "item",
+      "description": "The wooden structure used for cremation, where Devanand Swami's body would be taken.",
+      "aliases": [],
+      "chapter": 2
+    },
+    {
+      "id": "german_silver_dishes",
+      "name": "German silver dishes",
+      "category": "object",
+      "subcategory": "item",
+      "description": "High-quality serving plates provided to devotees for eating during the grand festival meals.",
+      "aliases": []
+    },
+    {
+      "id": "gita",
+      "name": "Gita",
+      "category": "object",
+      "subcategory": "scripture",
+      "description": "A sacred text that Nirgun Swami referenced to inspire satsangis and new aspirants.",
+      "aliases": []
+    },
+    {
+      "id": "gold_ornaments",
+      "name": "Gold Ornaments",
+      "category": "object",
+      "subcategory": "item",
+      "description": "Ornaments that King Vakhatsinh ordered to be made for Ladudanji as a reward for his exceptional performance.",
+      "aliases": [],
+      "chapter": 1
+    },
+    {
+      "id": "gold_threaded_clothes",
+      "name": "gold-threaded clothes",
+      "category": "object",
+      "subcategory": "item",
+      "description": "Divine garments worn by Bhagwan Swaminarayan when he appeared to Joban during the attempted horse theft.",
+      "aliases": []
+    },
+    {
+      "id": "golden_sinhasans",
+      "name": "golden sinhasans",
+      "category": "object",
+      "subcategory": "artifact",
+      "description": "Golden thrones constructed by Mota Swami for Thakorji at Atladara mandir.",
+      "aliases": []
+    },
+    {
+      "id": "grand_gate",
+      "name": "grand gate",
+      "category": "object",
+      "subcategory": "building",
+      "description": "An entrance structure constructed by Mota Swami at Atladara mandir.",
+      "aliases": []
+    },
+    {
+      "id": "gulal",
+      "name": "Gulal",
+      "category": "object",
+      "subcategory": "item",
+      "description": "Colored powder used during Holi celebrations that Maharaj threw on devotees and sadhus, and sprinkled on Khodiyar Mata's murti.",
+      "aliases": [
+        "gulal powder"
+      ]
+    },
+    {
+      "id": "hindolo",
+      "name": "hindolo",
+      "category": "object",
+      "subcategory": "item",
+      "description": "A beautiful 12-sided swing built by Nishkulanand Swami for Maharaj to sit on during the Holi festival, from which Maharaj granted darshan through all 12 sides.",
+      "aliases": []
+    },
+    {
+      "id": "horse",
+      "name": "horse",
+      "category": "object",
+      "subcategory": "item",
+      "description": "An animal that Brahmanand Swami rode during processions, including an untamed one sent by opposing Nagars.",
+      "aliases": [],
+      "chapter": 1
+    },
+    {
+      "id": "incense_sticks",
+      "name": "incense sticks",
+      "category": "object",
+      "subcategory": "item",
+      "description": "Aromatic items used to fill the dining area with fragrance during the festival celebrations.",
+      "aliases": []
+    },
+    {
+      "id": "itihas_shastras",
+      "name": "Itihas shastras",
+      "category": "object",
+      "subcategory": "scripture",
+      "description": "Historical scriptures that contain traditions of great kings renouncing their kingdoms.",
+      "aliases": []
+    },
+    {
+      "id": "janois",
+      "name": "Janois",
+      "category": "object",
+      "subcategory": "item",
+      "description": "Sacred threads that Maharaj instructed his sadhus to wear again when religious harassment ended under British rule.",
+      "aliases": []
+    },
+    {
+      "id": "jhanjh",
+      "name": "Jhanjh",
+      "category": "object",
+      "subcategory": "instrument",
+      "description": "Musical instrument played by sadhus during the raas dance and kirtans at the Fuldol festival.",
+      "aliases": []
+    },
+    {
+      "id": "jnan_pradip",
+      "name": "Jnan Pradip",
+      "category": "object",
+      "subcategory": "scripture",
+      "description": "One of the Sanskrit works written by Shuk Muni as part of his literary contributions.",
+      "aliases": []
+    },
+    {
+      "id": "jute",
+      "name": "jute",
+      "category": "object",
+      "subcategory": "item",
+      "description": "A material that Maharaj gave to Brahmanand Swami in a longer piece after being pleased with his firm faith.",
+      "aliases": [],
+      "chapter": 1
+    },
+    {
+      "id": "kanthi",
+      "name": "kanthi",
+      "category": "object",
+      "subcategory": "item",
+      "description": "Sacred necklace worn by devotees around the neck.",
+      "aliases": []
+    },
+    {
+      "id": "khichdi",
+      "name": "khichdi",
+      "category": "object",
+      "subcategory": "item",
+      "description": "Food that Ashabhai and his family had to ask for from Radhu after losing all their belongings in the fire.",
+      "aliases": []
+    },
+    {
+      "id": "kirtan",
+      "name": "kirtan",
+      "category": "object",
+      "subcategory": "scripture",
+      "description": "A devotional song composed by Brahmanand Swami for his fiancé about the true relationship being only with God.",
+      "aliases": [
+        "kirtans"
+      ],
+      "chapter": 1
+    },
+    {
+      "id": "kirtans",
+      "name": "kirtans",
+      "category": "object",
+      "subcategory": "scripture",
+      "description": "Rhythmic devotional songs sung during religious celebrations, filling the air with music during the raas dance.",
+      "aliases": []
+    },
+    {
+      "id": "kumkum",
+      "name": "kumkum",
+      "category": "object",
+      "subcategory": "item",
+      "description": "A red powder used in Hindu rituals that miraculously formed footsteps at the devotee's home entrance.",
+      "aliases": []
+    },
+    {
+      "id": "lantern",
+      "name": "lantern",
+      "category": "object",
+      "subcategory": "item",
+      "description": "A light that Nirgun Swami carried while checking on devotees during festivals at night.",
+      "aliases": []
+    },
+    {
+      "id": "large_pots_and_pans",
+      "name": "large pots and pans",
+      "category": "object",
+      "subcategory": "item",
+      "description": "Cooking equipment acquired from the government depot for preparing food at the Sayajipura festival.",
+      "aliases": []
+    },
+    {
+      "id": "letter",
+      "name": "Letter",
+      "category": "object",
+      "subcategory": "item",
+      "description": "The correspondence that Maharaj dictated to Shuk Muni after appearing to Bhaguji, which remained in Shuk Muni's hands after the miracle.",
+      "aliases": []
+    },
+    {
+      "id": "letters",
+      "name": "letters",
+      "category": "object",
+      "subcategory": "item",
+      "description": "Inspirational correspondence written by Nirgun Swami to devotees in India and Africa, sometimes up to 100 pages long, written clearly according to scriptures.",
+      "aliases": [
+        "inspirational letters"
+      ]
+    },
+    {
+      "id": "maharaj_horse",
+      "name": "Maharaj's horse",
+      "category": "object",
+      "subcategory": "item",
+      "description": "The horse that Maharaj rode, which Joban attempted to steal but was prevented by divine intervention.",
+      "aliases": []
+    },
+    {
+      "id": "mala",
+      "name": "mala",
+      "category": "object",
+      "subcategory": "item",
+      "description": "Prayer beads worn around the neck by devotees, which Joban wore as a sign of his transformation to devotee status.",
+      "aliases": []
+    },
+    {
+      "id": "manasno_avatar_mogho",
+      "name": "Mãnasno avatãr mogho",
+      "category": "object",
+      "subcategory": "scripture",
+      "description": "A kirtan composed by Devanand Swami about the difficulty of obtaining human birth and the importance of devotion to God.",
+      "aliases": [],
+      "chapter": 2
+    },
+    {
+      "id": "mango_tree",
+      "name": "mango tree",
+      "category": "object",
+      "subcategory": "item",
+      "description": "A tree at Lakshmi Vadi that Maharaj praised along with Shuk Muni, saying both the tree from Dabhan and Shuk Muni were very useful to him.",
+      "aliases": []
+    },
+    {
+      "id": "manki_mare",
+      "name": "Manki",
+      "category": "object",
+      "subcategory": "item",
+      "description": "Shriji Maharaj's mare on which he appeared to heal Nirgun Swami.",
+      "aliases": [
+        "mare Manki"
+      ]
+    },
+    {
+      "id": "marble",
+      "name": "marble",
+      "category": "object",
+      "subcategory": "item",
+      "description": "The material that Shastriji Maharaj decided to use entirely for building the Gadhada mandir.",
+      "aliases": [],
+      "chapter": 8
+    },
+    {
+      "id": "mataji_murti",
+      "name": "Mataji's murti",
+      "category": "object",
+      "subcategory": "artifact",
+      "description": "The sacred statue of the goddess Khodiyar Mata in her temple, on which Maharaj sprinkled gulal and declared she had become a devotee.",
+      "aliases": [
+        "Mataji"
+      ]
+    },
+    {
+      "id": "matchstick",
+      "name": "matchstick",
+      "category": "object",
+      "subcategory": "item",
+      "description": "A burning item accidentally dropped by Ashabhai's young son that caused the fire.",
+      "aliases": []
+    },
+    {
+      "id": "milk",
+      "name": "milk",
+      "category": "object",
+      "subcategory": "item",
+      "description": "One of the food items brought by Raya Khatan to serve Maharaj, which trickled down to his elbows as he ate.",
+      "aliases": []
+    },
+    {
+      "id": "mrudang",
+      "name": "Mrudang",
+      "category": "object",
+      "subcategory": "instrument",
+      "description": "Musical instrument played by sadhus during the raas dance and kirtans at the Fuldol festival.",
+      "aliases": []
+    },
+    {
+      "id": "murti",
+      "name": "murti",
+      "category": "object",
+      "subcategory": "artifact",
+      "description": "The sacred statue/image of Shivji that Devidan worshipped in the mandir.",
+      "aliases": []
+    },
+    {
+      "id": "murtis",
+      "name": "murtis",
+      "category": "object",
+      "subcategory": "artifact",
+      "description": "Sacred statues or images before which Brahmanand Swami would sing beautiful kirtans in the mandir.",
+      "aliases": [],
+      "chapter": 1
+    },
+    {
+      "id": "opium_pipes",
+      "name": "Opium pipes",
+      "category": "object",
+      "subcategory": "item",
+      "description": "Smoking devices used for opium that were passed around at the Royal Court of Junagadh.",
+      "aliases": []
+    },
+    {
+      "id": "pagh",
+      "name": "pagh",
+      "category": "object",
+      "subcategory": "item",
+      "description": "A headgear that Maharaj presented as a gift to Ardeshar Kotwal, pleased with his devotion.",
+      "aliases": []
+    },
+    {
+      "id": "patlos",
+      "name": "patlos",
+      "category": "object",
+      "subcategory": "item",
+      "description": "Traditional seating mats given to devotees to sit on during the lavish dining arrangements at the festival.",
+      "aliases": []
+    },
+    {
+      "id": "permission_letter",
+      "name": "permission letter",
+      "category": "object",
+      "subcategory": "item",
+      "description": "The letter Jivuba received from her husband giving her permission to worship God and dedicate herself to God.",
+      "aliases": [],
+      "chapter": 6
+    },
+    {
+      "id": "pichkari",
+      "name": "Pichkari",
+      "category": "object",
+      "subcategory": "item",
+      "description": "Water gun or sprayer used by Maharaj to spray colored water on devotees during the Fuldol festival.",
+      "aliases": []
+    },
+    {
+      "id": "ponk",
+      "name": "ponk",
+      "category": "object",
+      "subcategory": "item",
+      "description": "A simple food item that Ashabhai originally planned to serve at a modest feast before it became a grand festival.",
+      "aliases": []
+    },
+    {
+      "id": "postal_order",
+      "name": "postal order",
+      "category": "object",
+      "subcategory": "item",
+      "description": "Money sent by devotees to Nirgun Swami for postage, which he immediately gave to the mandir treasury and rebuked the senders.",
+      "aliases": [
+        "shillings"
+      ]
+    },
+    {
+      "id": "prarthana_mala",
+      "name": "Prarthana Mala",
+      "category": "object",
+      "subcategory": "scripture",
+      "description": "One of the Sanskrit works written by Shuk Muni, also having a Gujarati version.",
+      "aliases": []
+    },
+    {
+      "id": "purans",
+      "name": "Purans",
+      "category": "object",
+      "subcategory": "scripture",
+      "description": "Sacred texts that contain traditions of great kings renouncing their kingdoms.",
+      "aliases": []
+    },
+    {
+      "id": "rangoli",
+      "name": "rangoli",
+      "category": "object",
+      "subcategory": "artifact",
+      "description": "Decorative floor art used to beautify the dining area during the festival at Sayajipura.",
+      "aliases": []
+    },
+    {
+      "id": "resplendent_clothes_ornaments",
+      "name": "resplendent clothes and ornaments",
+      "category": "object",
+      "subcategory": "item",
+      "description": "Beautiful clothing and jewelry that Maharaj wore during the Holi festival while sitting on the hindolo.",
+      "aliases": []
+    },
+    {
+      "id": "rojho",
+      "name": "Rojho",
+      "category": "object",
+      "subcategory": "item",
+      "description": "Maharaj's famous fine horse that Joban attempted to steal multiple times.",
+      "aliases": []
+    },
+    {
+      "id": "rose_garland",
+      "name": "Rose Garland",
+      "category": "object",
+      "subcategory": "item",
+      "description": "Maharaj's own garland that he placed around Munibawa's neck, causing him to experience samadhi through its fragrance.",
+      "aliases": [
+        "Garland of Roses"
+      ]
+    },
+    {
+      "id": "rotlo",
+      "name": "rotlo",
+      "category": "object",
+      "subcategory": "item",
+      "description": "Traditional bread served as part of meals.",
+      "aliases": []
+    },
+    {
+      "id": "royal_seat",
+      "name": "royal seat",
+      "category": "object",
+      "subcategory": "item",
+      "description": "An ornate throne placed atop an elephant to honor Swamishri during the festival in Koyli.",
+      "aliases": []
+    },
+    {
+      "id": "sacred_ashes",
+      "name": "sacred ashes",
+      "category": "object",
+      "subcategory": "artifact",
+      "description": "Holy ash from Maharaj that devotees would consume daily to feel close to him.",
+      "aliases": [
+        "holy ash",
+        "ash"
+      ]
+    },
+    {
+      "id": "saffron_robes",
+      "name": "saffron robes",
+      "category": "object",
+      "subcategory": "item",
+      "description": "Orange colored religious garments that Swamishri encouraged Nirgun Swami to wear instead of white clothes.",
+      "aliases": []
+    },
+    {
+      "id": "sanctified_cloth",
+      "name": "sanctified cloth",
+      "category": "object",
+      "subcategory": "artifact",
+      "description": "A blessed cloth that Maharaj presented to Brahmanand Swami's mother to please the family.",
+      "aliases": [],
+      "chapter": 1
+    },
+    {
+      "id": "sanjivani",
+      "name": "sanjivani",
+      "category": "object",
+      "subcategory": "item",
+      "description": "An elixir prepared by Brahmanand Swami during Maharaj's illness, which Maharaj refused to take.",
+      "aliases": [],
+      "chapter": 1
+    },
+    {
+      "id": "sarvamangal_stotra",
+      "name": "Sarvamangal Stotra",
+      "category": "object",
+      "subcategory": "scripture",
+      "description": "A list of Maharaj's 1,008 names that includes a reference to Jhinabhai.",
+      "aliases": [],
+      "chapter": 4
+    },
+    {
+      "id": "satsang_reader_part_1",
+      "name": "Satsang Reader Part 1",
+      "category": "object",
+      "subcategory": "scripture",
+      "description": "A textbook containing brief biographies of leading sadhus and devotees of the Swaminarayan Sampradaya for Satsang Examinations.",
+      "aliases": [
+        "Satsang Vachanmala Part 1"
+      ]
+    },
+    {
+      "id": "satsang_shastras",
+      "name": "satsang shastras",
+      "category": "object",
+      "subcategory": "scripture",
+      "description": "Religious scriptures of the satsang tradition that Nirgun Swami used in his teachings.",
+      "aliases": []
+    },
+    {
+      "id": "satsangijivan",
+      "name": "Satsangijivan",
+      "category": "object",
+      "subcategory": "scripture",
+      "description": "A scripture from which Swamishri discoursed and elaborated on wonderful incidents relating to devotion and spiritual knowledge.",
+      "aliases": []
+    },
+    {
+      "id": "shastras",
+      "name": "Shastras",
+      "category": "object",
+      "subcategory": "scripture",
+      "description": "Religious scriptures that Maharaj decided to create as part of his lasting contribution to the Sampradaya.",
+      "aliases": []
+    },
+    {
+      "id": "shikhars",
+      "name": "shikhars",
+      "category": "object",
+      "subcategory": "building",
+      "description": "Temple pinnacles that Mota Swami completed at Atladara mandir.",
+      "aliases": []
+    },
+    {
+      "id": "shikhas",
+      "name": "Shikhas",
+      "category": "object",
+      "subcategory": "item",
+      "description": "Traditional hair tufts that Maharaj instructed his sadhus to keep again when the British rule made it safer for religious practices.",
+      "aliases": []
+    },
+    {
+      "id": "shikshapatri_verse",
+      "name": "Shikshapatri (in verse)",
+      "category": "object",
+      "subcategory": "scripture",
+      "description": "One of Brahmanand Swami's well-known literary works, a versified version of the Shikshapatri.",
+      "aliases": [],
+      "chapter": 1
+    },
+    {
+      "id": "shikshapatri_anvayarth_tika",
+      "name": "Shikshapatri Anvayarth Tika",
+      "category": "object",
+      "subcategory": "scripture",
+      "description": "A Sanskrit commentary written by Shuk Muni on the Shikshapatri text.",
+      "aliases": []
+    },
+    {
+      "id": "shovel",
+      "name": "shovel",
+      "category": "object",
+      "subcategory": "item",
+      "description": "A tool that Nirgun Swami took in hand to remove rubbish from the mandir complex during festival preparations in Bochasan.",
+      "aliases": []
+    },
+    {
+      "id": "shri_sumatiprakash",
+      "name": "Shri Sumatiprakash",
+      "category": "object",
+      "subcategory": "scripture",
+      "description": "One of Brahmanand Swami's well-known literary works.",
+      "aliases": [],
+      "chapter": 1
+    },
+    {
+      "id": "silver_vessel",
+      "name": "silver vessel",
+      "category": "object",
+      "subcategory": "item",
+      "description": "A small silver container full of milk that Shriji Maharaj used to heal Nirgun Swami.",
+      "aliases": []
+    },
+    {
+      "id": "sitar",
+      "name": "sitar",
+      "category": "object",
+      "subcategory": "instrument",
+      "description": "A stringed musical instrument that Devanand Swami learned to play from Brahmanand Swami.",
+      "aliases": [],
+      "chapter": 1
+    },
+    {
+      "id": "snake",
+      "name": "snake",
+      "category": "object",
+      "subcategory": "item",
+      "description": "A creature that bit Desai while he was working in the pasture, leading to his death.",
+      "aliases": []
+    },
+    {
+      "id": "sukhdi",
+      "name": "sukhdi",
+      "category": "object",
+      "subcategory": "item",
+      "description": "A sweet food item that Maharaj offered to Shuk Muni to break his ekadashi fast when he was late for his morning bath.",
+      "aliases": []
+    },
+    {
+      "id": "tents",
+      "name": "tents",
+      "category": "object",
+      "subcategory": "item",
+      "description": "Temporary structures acquired from the government depot and set up at Sayajipura after tearing down old houses.",
+      "aliases": []
+    },
+    {
+      "id": "thuli",
+      "name": "thuli",
+      "category": "object",
+      "subcategory": "item",
+      "description": "A preparation of wheat flakes that Raya Khatan brought for Maharaj to eat, which he accepted and ate sitting on the cart yoke.",
+      "aliases": []
+    },
+    {
+      "id": "tilak_chandlo",
+      "name": "Tilak-Chandlo",
+      "category": "object",
+      "subcategory": "item",
+      "description": "Religious markings worn on the forehead by devotees, which Joban wore as a sign of his transformation to devotee status.",
+      "aliases": [
+        "Tilak",
+        "Chandlo"
+      ]
+    },
+    {
+      "id": "updesh_chintamani_chandravala",
+      "name": "Updesh Chintamani Chandravala",
+      "category": "object",
+      "subcategory": "scripture",
+      "description": "One of Brahmanand Swami's well-known literary works.",
+      "aliases": [],
+      "chapter": 1
+    },
+    {
+      "id": "updesh_ratnadipak",
+      "name": "Updesh Ratnadipak",
+      "category": "object",
+      "subcategory": "scripture",
+      "description": "One of Brahmanand Swami's well-known literary works.",
+      "aliases": [],
+      "chapter": 1
+    },
+    {
+      "id": "vachanamrut",
+      "name": "Vachanamrut",
+      "category": "object",
+      "subcategory": "scripture",
+      "description": "Scripture containing profound discourses on spirituality given by Maharaj, including the Panchala section with talks given to Jhinabhai.",
+      "aliases": [],
+      "chapter": 3
+    },
+    {
+      "id": "vachanamruts",
+      "name": "Vachanamruts",
+      "category": "object",
+      "subcategory": "scripture",
+      "description": "Sacred religious texts that Shuk Muni wrote and researched, containing the spiritual discourses of Maharaj.",
+      "aliases": [
+        "Vachanamrut"
+      ],
+      "chapter": 3
+    },
+    {
+      "id": "white_clothes",
+      "name": "white",
+      "category": "object",
+      "subcategory": "item",
+      "description": "Regular clothes contrasted with saffron robes in terms of spiritual potential.",
+      "aliases": []
+    },
+    {
+      "id": "wooden_chair",
+      "name": "wooden chair",
+      "category": "object",
+      "subcategory": "item",
+      "description": "The chair that Devanand Swami asked the Merai devotee to make for carrying his body to the funeral pyre.",
+      "aliases": [],
+      "chapter": 2
+    },
+    {
+      "id": "woollen_blanket",
+      "name": "woollen blanket",
+      "category": "object",
+      "subcategory": "item",
+      "description": "A new, rich blanket sent by a devotee from Africa to Nirgun Swami, which he immediately gave to Shastriji Maharaj.",
+      "aliases": [
+        "blanket"
+      ],
+      "chapter": 8
+    },
+    {
+      "id": "abhal_khachar",
+      "name": "Abhal Khachar",
+      "category": "person",
+      "subcategory": "historical_figure",
+      "description": "Father of Jivuba and ruler of Gadhada, originally a follower of Sadguru Ramanand Swami who later served Bhagwan Swaminarayan.",
+      "aliases": [
+        "Bapu"
+      ],
+      "chapter": 6
+    },
+    {
+      "id": "abhaydanji",
+      "name": "Abhaydanji",
+      "category": "person",
+      "subcategory": "historical_figure",
+      "description": "The guru under whom Ladudanji studied Pingal Shastra and poetic sciences in Bhuj.",
+      "aliases": [
+        "Guru Abhaydanji"
+      ],
+      "chapter": 1
+    },
+    {
+      "id": "acharya_ayodhyaprasadji_maharaj",
+      "name": "Acharya Ayodhyaprasadji Maharaj",
+      "category": "person",
+      "subcategory": "sadhu",
+      "description": "An Acharya who was visited by Gunatitanand Swami and Shuk Muni when he was sick in Ahmedabad.",
+      "aliases": []
+    },
+    {
+      "id": "acharya_kunjavihariprasadji_maharaj",
+      "name": "Acharya Kunjavihariprasadji Maharaj",
+      "category": "person",
+      "subcategory": "sadhu",
+      "description": "Religious leader of Vadhwan at whose hands Jetha Bhagat took bhagvati diksha and received the name Nirgundas Swami.",
+      "aliases": []
+    },
+    {
+      "id": "acharya_lakshmiprasadji_maharaj",
+      "name": "Acharya Lakshmiprasadji Maharaj",
+      "category": "person",
+      "subcategory": "historical_figure",
+      "description": "The father of Radharamanprasad, mentioned as an Acharya in the tradition.",
+      "aliases": []
+    },
+    {
+      "id": "acharya_maharaj",
+      "name": "Acharya Maharaj",
+      "category": "person",
+      "subcategory": "devotee",
+      "description": "A religious leader who was called by Brahmanand Swami and who performed the murti-pratishtha at Muli mandir.",
+      "aliases": [
+        "acharya of Ahmedabad"
+      ],
+      "chapter": 1
+    },
+    {
+      "id": "acharya_viharilalji_maharaj",
+      "name": "Acharya Viharilalji Maharaj",
+      "category": "person",
+      "subcategory": "sadhu",
+      "description": "Religious leader whom Jetha Bhagat served as personal assistant, answering letters and helping with literary works.",
+      "aliases": []
+    },
+    {
+      "id": "adiba",
+      "name": "Adiba",
+      "category": "person",
+      "subcategory": "devotee",
+      "description": "Jhinabhai's sister who was reluctant to care for the poor devotee Kamalshi and showed discrimination in her service.",
+      "aliases": [],
+      "chapter": 4
+    },
+    {
+      "id": "akhandanand_swami",
+      "name": "Akhandanand Swami",
+      "category": "person",
+      "subcategory": "sadhu",
+      "description": "A sadhu of Bhagwan Swaminarayan who was helped by Jivuba when he was ill with diarrhea.",
+      "aliases": [],
+      "chapter": 6
+    },
+    {
+      "id": "amara_patgar",
+      "name": "Amara Patgar",
+      "category": "person",
+      "subcategory": "historical_figure",
+      "description": "Father of Hathiya Patgar from Kundal.",
+      "aliases": []
+    },
+    {
+      "id": "ardeshar_kotwal",
+      "name": "Ardeshar Kotwal",
+      "category": "person",
+      "subcategory": "devotee",
+      "description": "A state official who was brought into the fellowship by Munibawa and later invited Maharaj to Surat.",
+      "aliases": [
+        "Kotwal"
+      ]
+    },
+    {
+      "id": "ashabhai",
+      "name": "Ashabhai",
+      "category": "person",
+      "subcategory": "devotee",
+      "description": "A devoted householder who organized festivals and showed extraordinary faith, later faced trials including a fire that destroyed his property.",
+      "aliases": [
+        "Swami Yagnapriyadasji",
+        "Mota Swami",
+        "Sadhu Yagnapriyadas"
+      ]
+    },
+    {
+      "id": "attendant",
+      "name": "attendant",
+      "category": "person",
+      "subcategory": "devotee",
+      "description": "The person who walked with Jivuba to Gadhada when she gave her chariot to Akhandanand Swami.",
+      "aliases": [],
+      "chapter": 6
+    },
+    {
+      "id": "bapujibhai",
+      "name": "Bapujibhai",
+      "category": "person",
+      "subcategory": "devotee",
+      "description": "A devotee of Vartal who insisted Maharaj come and stay at his home.",
+      "aliases": []
+    },
+    {
+      "id": "benjiba",
+      "name": "Benjiba",
+      "category": "person",
+      "subcategory": "devotee",
+      "description": "Devidan's mother who noticed the change in her son after he had darshan of Shivji.",
+      "aliases": []
+    },
+    {
+      "id": "bhagatji_maharaj",
+      "name": "Bhagatji Maharaj",
+      "category": "person",
+      "subcategory": "sadhu",
+      "description": "A revered spiritual figure whose greatness, along with Shastriji Maharaj, is to be propagated. Nirgun Swami uttered his name before passing away.",
+      "aliases": [],
+      "chapter": 8
+    },
+    {
+      "id": "bhaguji",
+      "name": "Bhaguji",
+      "category": "person",
+      "subcategory": "devotee",
+      "description": "Maharaj's attendant who witnessed Maharaj's appearance after his passing to Akshardham and was asked to call Shuk Muni.",
+      "aliases": []
+    },
+    {
+      "id": "bhagwan",
+      "name": "Bhagwan",
+      "category": "person",
+      "subcategory": "deity",
+      "description": "The divine deity referenced in Devanand Swami's spiritual verses, to be worshipped through association with true Sadhus.",
+      "aliases": [
+        "God"
+      ],
+      "chapter": 2
+    },
+    {
+      "id": "bhagwan_purushottam_narayan",
+      "name": "Bhagwan Purushottam Narayan",
+      "category": "person",
+      "subcategory": "deity",
+      "description": "A divine figure mentioned by Bhagwan Shiv as one who would come to Devidan's village and reveal his divine powers.",
+      "aliases": [
+        "Shriji Maharaj",
+        "Maharaj",
+        "Bhagwan Swaminarayan"
+      ]
+    },
+    {
+      "id": "bhagwan_shiv",
+      "name": "Bhagwan Shiv",
+      "category": "person",
+      "subcategory": "deity",
+      "description": "A Hindu deity who appeared before Devidan and granted him a boon, promising that Bhagwan Purushottam Narayan would come to his village.",
+      "aliases": [
+        "Shivji"
+      ]
+    },
+    {
+      "id": "bhagwan_swaminarayan",
+      "name": "Bhagwan Swaminarayan",
+      "category": "person",
+      "subcategory": "deity",
+      "description": "The central divine figure of the Swaminarayan Sampradaya, also referred to as Maharaj, who initiated devotees and performed miracles.",
+      "aliases": [
+        "Parabrahma Purushottam Bhagwan Swaminarayan",
+        "Purushottam",
+        "Shriji Maharaj",
+        "Maharaj",
+        "Bhagwan Purushottam Narayan",
+        "Purushottam Narayan",
+        "Sahajanand Swami",
+        "Nilkanth Varni",
+        "Hari"
+      ]
+    },
+    {
+      "id": "bhumanand_swami",
+      "name": "Bhumanand Swami",
+      "category": "person",
+      "subcategory": "sadhu",
+      "description": "One of Maharaj's eight most famous poet-sadhus, mentioned alongside Devanand Swami.",
+      "aliases": [],
+      "chapter": 2
+    },
+    {
+      "id": "boat_captain",
+      "name": "boat captain",
+      "category": "person",
+      "subcategory": "historical_figure",
+      "description": "The captain of the boat who gravely observed the rough waters during Jethabhai's journey to Mahuva.",
+      "aliases": []
+    },
+    {
+      "id": "brahmanand_swami",
+      "name": "Brahmanand Swami",
+      "category": "person",
+      "subcategory": "sadhu",
+      "description": "A prominent sadhu and disciple of Maharaj known for his firm faith, poetic skills, and architectural contributions. He composed over 8,000 kirtans and built grand mandirs.",
+      "aliases": [
+        "Ladudanji",
+        "Sadguru Brahmanand Swami",
+        "Ladu",
+        "Shrirangdas",
+        "Swami"
+      ],
+      "chapter": 1
+    },
+    {
+      "id": "charioteer",
+      "name": "charioteer",
+      "category": "person",
+      "subcategory": "devotee",
+      "description": "The person who drove Jivuba's chariot and helped seat the ill Akhandanand Swami in it.",
+      "aliases": [],
+      "chapter": 6
+    },
+    {
+      "id": "chaturbhuj_vishnu",
+      "name": "Chaturbhuj Vishnu",
+      "category": "person",
+      "subcategory": "deity",
+      "description": "Four-armed form of Vishnu that manifested to drink milk offered by Jivuba.",
+      "aliases": [],
+      "chapter": 6
+    },
+    {
+      "id": "dada_khachar",
+      "name": "Dada Khachar",
+      "category": "person",
+      "subcategory": "devotee",
+      "description": "A prominent devotee who owned a darbar in Gadhada and Lakshmi Vadi farm, and served Maharaj by providing wood for fire and other services.",
+      "aliases": [
+        "Dada"
+      ],
+      "chapter": 6
+    },
+    {
+      "id": "dalo_pagi",
+      "name": "Dalo Pagi",
+      "category": "person",
+      "subcategory": "devotee",
+      "description": "One of Joban's three brothers.",
+      "aliases": []
+    },
+    {
+      "id": "dalpatram",
+      "name": "Dalpatram",
+      "category": "person",
+      "subcategory": "devotee",
+      "description": "A famous Indian poet who became Devanand Swami's student after being moved by his verses, and was taught poetic arts.",
+      "aliases": [],
+      "chapter": 2
+    },
+    {
+      "id": "dattatrey",
+      "name": "Dattatrey",
+      "category": "person",
+      "subcategory": "deity",
+      "description": "An avatar of Vishnu mentioned in Shuk Muni's second letter comparing Maharaj to avatars.",
+      "aliases": []
+    },
+    {
+      "id": "dayanand_swami",
+      "name": "Dayanand Swami",
+      "category": "person",
+      "subcategory": "sadhu",
+      "description": "One of Maharaj's eight most famous poet-sadhus, mentioned alongside Devanand Swami.",
+      "aliases": [],
+      "chapter": 2
+    },
+    {
+      "id": "desai",
+      "name": "Desai",
+      "category": "person",
+      "subcategory": "devotee",
+      "description": "Ashabhai's eldest son who died from a snakebite and later appeared to his father with Bhagatji Maharaj.",
+      "aliases": []
+    },
+    {
+      "id": "devanand_swami",
+      "name": "Devanand Swami",
+      "category": "person",
+      "subcategory": "sadhu",
+      "description": "A Sadguru mentioned in the text who composed spiritual verses and is referred to as making statements about the world being blind to stark realities.",
+      "aliases": [
+        "Sadguru Devanand Swami",
+        "Devidan"
+      ],
+      "chapter": 2
+    },
+    {
+      "id": "devidan",
+      "name": "Devidan",
+      "category": "person",
+      "subcategory": "devotee",
+      "description": "Jijibhai's five-year-old son who later became Devanand Swami after being initiated by Maharaj. Born in Balol on 9 November 1802.",
+      "aliases": [
+        "Devanand Swami"
+      ],
+      "chapter": 2
+    },
+    {
+      "id": "devkaran_pagi",
+      "name": "Devkaran Pagi",
+      "category": "person",
+      "subcategory": "devotee",
+      "description": "One of Joban's relatives at whose home the yogi rested.",
+      "aliases": []
+    },
+    {
+      "id": "dharmanandandas",
+      "name": "Dharmanandandas",
+      "category": "person",
+      "subcategory": "sadhu",
+      "description": "A head sadhu from whom Ashabhai took vartman when Swaminarayan sadhus visited Sadhi.",
+      "aliases": []
+    },
+    {
+      "id": "dhoribhai",
+      "name": "Dhoribhai",
+      "category": "person",
+      "subcategory": "devotee",
+      "description": "Father of Dungarbhai, whose six-month-old son received vartman from Shuk Muni.",
+      "aliases": []
+    },
+    {
+      "id": "dungarbhai",
+      "name": "Dungarbhai",
+      "category": "person",
+      "subcategory": "devotee",
+      "description": "A six-month-old child who received vartman from Shuk Muni and later became known as Shastriji Maharaj.",
+      "aliases": [
+        "Shastriji Maharaj"
+      ],
+      "chapter": 8
+    },
+    {
+      "id": "gangaba",
+      "name": "Gangaba",
+      "category": "person",
+      "subcategory": "devotee",
+      "description": "Jhinabhai's mother who was saddened by her son's words about serving Maharaj eternally, realizing he was nearing death.",
+      "aliases": [],
+      "chapter": 4
+    },
+    {
+      "id": "ganpatbhai",
+      "name": "Ganpatbhai",
+      "category": "person",
+      "subcategory": "devotee",
+      "description": "Son of Mahashankarbhai Dave of Bharuch who accompanied Jethabhai to have darshan of Bhagatji Maharaj.",
+      "aliases": []
+    },
+    {
+      "id": "general_gordon",
+      "name": "General Gordon",
+      "category": "person",
+      "subcategory": "historical_figure",
+      "description": "A British government official who provided an unlimited deed for the land where the Ahmedabad mandir was built.",
+      "aliases": []
+    },
+    {
+      "id": "govindbhai_master",
+      "name": "Govindbhai Master",
+      "category": "person",
+      "subcategory": "devotee",
+      "description": "A devotee who taught Jethabhai about Akshar-Purushottam upasana.",
+      "aliases": []
+    },
+    {
+      "id": "gunatitanand_swami",
+      "name": "Gunatitanand Swami",
+      "category": "person",
+      "subcategory": "sadhu",
+      "description": "A prominent sadhu who was called by Maharaj during his final illness and was instructed to continue spreading knowledge of Maharaj's glory.",
+      "aliases": [
+        "Gunātit Swami"
+      ]
+    },
+    {
+      "id": "hamir",
+      "name": "Hamir",
+      "category": "person",
+      "subcategory": "devotee",
+      "description": "A devotee who along with Joban Pagi tried to guard Maharaj while he slept but fell asleep on duty.",
+      "aliases": [],
+      "chapter": 5
+    },
+    {
+      "id": "hari",
+      "name": "Hari",
+      "category": "person",
+      "subcategory": "deity",
+      "description": "Name for God mentioned in the Brahmanand couplet that Nirgun Swami would sing.",
+      "aliases": [
+        "God",
+        "Natvar"
+      ],
+      "chapter": 1
+    },
+    {
+      "id": "harikrishna",
+      "name": "Harikrishna",
+      "category": "person",
+      "subcategory": "deity",
+      "description": "The name under which Maharaj's own murti was consecrated in the first shrine of Vartal mandir.",
+      "aliases": []
+    },
+    {
+      "id": "harmanbhai",
+      "name": "Harmanbhai",
+      "category": "person",
+      "subcategory": "devotee",
+      "description": "A devotee who, along with Maganbhai, established Satsang in East Africa.",
+      "aliases": []
+    },
+    {
+      "id": "hathisinh",
+      "name": "Hathisinh",
+      "category": "person",
+      "subcategory": "devotee",
+      "description": "Jhinabhai's son, for whom Maharaj offered to make provisions, though Jhinabhai said devotion would determine his care.",
+      "aliases": [],
+      "chapter": 4
+    },
+    {
+      "id": "hathiya_patgar",
+      "name": "Hathiya Patgar",
+      "category": "person",
+      "subcategory": "historical_figure",
+      "description": "Son of Amara Patgar who married Jivuba but gave her permission to remain celibate and worship God.",
+      "aliases": [],
+      "chapter": 6
+    },
+    {
+      "id": "ichchharambhai",
+      "name": "Ichchharambhai",
+      "category": "person",
+      "subcategory": "historical_figure",
+      "description": "Maharaj's younger brother, for whom Maharaj had not given his shoulder to lift the bier.",
+      "aliases": []
+    },
+    {
+      "id": "indra",
+      "name": "Indra",
+      "category": "person",
+      "subcategory": "deity",
+      "description": "The king of gods whose kingdom Maharaj mentioned as a possible offering to Jhinabhai, representing heavenly rule.",
+      "aliases": [],
+      "chapter": 4
+    },
+    {
+      "id": "ishwarbhai",
+      "name": "Ishwarbhai",
+      "category": "person",
+      "subcategory": "devotee",
+      "description": "Brother of Ashabhai, a wealthy devotee from Sadhi village who helped with various festivals and construction work.",
+      "aliases": []
+    },
+    {
+      "id": "ishwarbhai_prabhudas_patel",
+      "name": "Ishwarbhai Prabhudas Patel",
+      "category": "person",
+      "subcategory": "devotee",
+      "description": "A devotee who accompanied Nirgun Swami on a mission to bring Radharamanprasad from Chhapaiya.",
+      "aliases": [
+        "Ishwarbhai"
+      ]
+    },
+    {
+      "id": "ishwarcharan_swami",
+      "name": "Ishwarcharan Swami",
+      "category": "person",
+      "subcategory": "sadhu",
+      "description": "A swami who assisted in the preparation of the Satsang Reader books.",
+      "aliases": [
+        "Shri Ishwarcharan Swami"
+      ]
+    },
+    {
+      "id": "jaga_bhagat",
+      "name": "Jaga Bhagat",
+      "category": "person",
+      "subcategory": "devotee",
+      "description": "A devotee who was protected from hostile sadhus by Nirgun Swami's influence in Vartal.",
+      "aliases": []
+    },
+    {
+      "id": "jagannath",
+      "name": "Jagannath",
+      "category": "person",
+      "subcategory": "devotee",
+      "description": "A Brahmin from Nadiad who settled in Dabhan, born in 1799, who later became Shukanand Swami after renouncing home to follow Maharaj.",
+      "aliases": [
+        "Shukanand Swami",
+        "Shuk Muni"
+      ],
+      "chapter": 3
+    },
+    {
+      "id": "jagatpavandas",
+      "name": "Jagatpavandas",
+      "category": "person",
+      "subcategory": "sadhu",
+      "description": "A sadguru who would visit Pij from nearby Dabhan and helped Jethabhai grow closer to Satsang.",
+      "aliases": [
+        "Sadguru Jagatpavandas"
+      ]
+    },
+    {
+      "id": "jethabhai",
+      "name": "Jethabhai",
+      "category": "person",
+      "subcategory": "devotee",
+      "description": "Born to a Patidar family in Pij village in 1876, later became Jetha Bhagat and then Nirgundas Swami. A devoted follower who preferred spiritual life from a young age.",
+      "aliases": [
+        "Jethalal",
+        "Jetha Bhagat",
+        "Nirgundas Swami",
+        "Nirgun Swami"
+      ]
+    },
+    {
+      "id": "jhinabhai_darbar",
+      "name": "Jhinabhai Darbar",
+      "category": "person",
+      "subcategory": "devotee",
+      "description": "A highly respected darbar and devoted follower of Maharaj who sponsored festivals and served devotees with great love. He was known as Bhaktaraj (king of devotees) for his exemplary devotion.",
+      "aliases": [
+        "Bhaktaraj Shri Jhinabhai Darbar",
+        "Jhinabhai of Panchala",
+        "Jhinabhai",
+        "Jhina"
+      ],
+      "chapter": 4
+    },
+    {
+      "id": "jijibhai",
+      "name": "Jijibhai",
+      "category": "person",
+      "subcategory": "devotee",
+      "description": "A devotee from Balol who regularly worshipped at Sankaleshwar Mahadev mandir and was the father of Devidan.",
+      "aliases": []
+    },
+    {
+      "id": "jiva_khachar",
+      "name": "Jiva Khachar",
+      "category": "person",
+      "subcategory": "devotee",
+      "description": "A village chieftain who helped arrange a grand reception for Munibawa and gave him gifts.",
+      "aliases": []
+    },
+    {
+      "id": "jivuba",
+      "name": "Jivuba",
+      "category": "person",
+      "subcategory": "devotee",
+      "description": "A devoted princess from Gadhada who dedicated herself to worship of Bhagwan Swaminarayan, known as Bhaktaraj Jivuba.",
+      "aliases": [
+        "Bhaktaraj Jivuba",
+        "Motiba",
+        "Punamatiba",
+        "Jaya"
+      ],
+      "chapter": 6
+    },
+    {
+      "id": "joban_pagi",
+      "name": "Joban Pagi",
+      "category": "person",
+      "subcategory": "devotee",
+      "description": "Former bandit from a family of disrepute who became a devoted follower after attempting to steal Maharaj's horse and having divine darshan.",
+      "aliases": [
+        "Bhaktaraj Joban Pagi",
+        "Joban",
+        "Pagi"
+      ],
+      "chapter": 5
+    },
+    {
+      "id": "joban_brothers",
+      "name": "Joban's brothers",
+      "category": "person",
+      "subcategory": "devotee",
+      "description": "Joban Pagi's brothers who also became devotees and served as bodyguards for Maharaj, helping with mandir construction.",
+      "aliases": [],
+      "chapter": 5
+    },
+    {
+      "id": "kamalshi_vanjha",
+      "name": "Kamalshi Vanjha",
+      "category": "person",
+      "subcategory": "devotee",
+      "description": "A poor basket weaver but great devotee who fell very ill. Jhinabhai personally carried him and cared for him with great devotion.",
+      "aliases": [
+        "Kamalshibhai",
+        "Kamalshi"
+      ],
+      "chapter": 4
+    },
+    {
+      "id": "kapil",
+      "name": "Kapil",
+      "category": "person",
+      "subcategory": "deity",
+      "description": "An avatar of Vishnu mentioned in Shuk Muni's second letter comparing Maharaj to avatars.",
+      "aliases": []
+    },
+    {
+      "id": "kashiyabhai",
+      "name": "Kashiyabhai",
+      "category": "person",
+      "subcategory": "historical_figure",
+      "description": "A resident of Vaso who was opposed to Swaminarayan but was amazed at Joban's transformation from bandit to devotee.",
+      "aliases": [],
+      "chapter": 4
+    },
+    {
+      "id": "kathi_darbars",
+      "name": "Kathi Darbars",
+      "category": "person",
+      "subcategory": "historical_figure",
+      "description": "Community with traditions requiring all women to get married at appropriate age.",
+      "aliases": []
+    },
+    {
+      "id": "khaiyo_khatri",
+      "name": "Khaiyo Khatri",
+      "category": "person",
+      "subcategory": "historical_figure",
+      "description": "A learned scholar of Vedanta from Mandvi who challenged Maharaj to a scriptural debate but later became a devotee.",
+      "aliases": [
+        "Khaiyo"
+      ]
+    },
+    {
+      "id": "khaiyo_mother",
+      "name": "Khaiyo's mother",
+      "category": "person",
+      "subcategory": "historical_figure",
+      "description": "The mother of Khaiyo Khatri who recognized the true identity of Maharaj during the debate.",
+      "aliases": []
+    },
+    {
+      "id": "khodabhai",
+      "name": "Khodabhai",
+      "category": "person",
+      "subcategory": "devotee",
+      "description": "A devotee from Bhudej who came to ask Maharaj's permission to leave and helped Maharaj escape from Vartal in a bullock cart.",
+      "aliases": []
+    },
+    {
+      "id": "khodiyar_mata",
+      "name": "Khodiyar Mata",
+      "category": "person",
+      "subcategory": "deity",
+      "description": "Goddess whose temple was visited by Maharaj, who declared she had become a devotee.",
+      "aliases": [
+        "Mataji"
+      ]
+    },
+    {
+      "id": "king_bharat",
+      "name": "King Bharat",
+      "category": "person",
+      "subcategory": "historical_figure",
+      "description": "A king whose story was being narrated by Shastriji Maharaj when Ashabhai first saw him.",
+      "aliases": [],
+      "chapter": 8
+    },
+    {
+      "id": "king_janak",
+      "name": "King Janak",
+      "category": "person",
+      "subcategory": "historical_figure",
+      "description": "A great devotee of God mentioned in a letter that Shuk Muni initially wrote comparing Maharaj to great devotees.",
+      "aliases": [
+        "Janak"
+      ]
+    },
+    {
+      "id": "king_siddharaj_jaysinh",
+      "name": "King Siddharaj Jaysinh",
+      "category": "person",
+      "subcategory": "historical_figure",
+      "description": "A great historical king who was an ancestor of Jhinabhai's father Thakor Manubha.",
+      "aliases": [
+        "Siddharaj Jaysinh"
+      ],
+      "chapter": 4
+    },
+    {
+      "id": "king_vakhatsinh",
+      "name": "King Vakhatsinh",
+      "category": "person",
+      "subcategory": "historical_figure",
+      "description": "The King of Bhavnagar who was so pleased with Ladudanji's performance that he ordered him to be adorned with gold ornaments.",
+      "aliases": [
+        "Vakhatsinh"
+      ],
+      "chapter": 1
+    },
+    {
+      "id": "kishore_m_dave",
+      "name": "Kishore M. Dave",
+      "category": "person",
+      "subcategory": "historical_figure",
+      "description": "The author of the Gujarati text of the Satsang Reader Part 1.",
+      "aliases": [
+        "Kishorebhai Dave"
+      ]
+    },
+    {
+      "id": "krishnaji_ada",
+      "name": "Krishnaji Ada",
+      "category": "person",
+      "subcategory": "devotee",
+      "description": "A great devotee who had earned Gunatitanand Swami's grace and was among the senior devotees who insisted Yagnapurushdasji leave Vartal.",
+      "aliases": []
+    },
+    {
+      "id": "laduba_sister",
+      "name": "Laduba",
+      "category": "person",
+      "subcategory": "devotee",
+      "description": "One of Dada Khachar's sisters who lived according to celibate rules despite being married.",
+      "aliases": [],
+      "chapter": 6
+    },
+    {
+      "id": "laduba",
+      "name": "Laduba",
+      "category": "person",
+      "subcategory": "devotee",
+      "description": "One of Dada Khachar's sisters who was married but lived according to celibate rules of sadhus.",
+      "aliases": [],
+      "chapter": 6
+    },
+    {
+      "id": "ladudan_barot",
+      "name": "Ladudan Barot",
+      "category": "person",
+      "subcategory": "devotee",
+      "description": "A royal poet who became a devotee and was later convinced by Jivuba to renounce the world, becoming Brahmanand Swami.",
+      "aliases": [],
+      "chapter": 1
+    },
+    {
+      "id": "ladudanji",
+      "name": "Ladudanji",
+      "category": "person",
+      "subcategory": "devotee",
+      "description": "A young poet born in 1772 who became famous for his poetic abilities and later became Brahmanand Swami after meeting Swaminarayan.",
+      "aliases": [
+        "Brahmanand Swami",
+        "Ladu",
+        "Shrirangdas"
+      ],
+      "chapter": 1
+    },
+    {
+      "id": "ladudanji_uncle",
+      "name": "Ladudanji's Uncle",
+      "category": "person",
+      "subcategory": "historical_figure",
+      "description": "Ladudanji's maternal uncle who accompanied him to Gadhada and also experienced samadhi.",
+      "aliases": [
+        "Maternal Uncle"
+      ],
+      "chapter": 1
+    },
+    {
+      "id": "lakshmi_narayan_dev",
+      "name": "Lakshmi-Narayan Dev",
+      "category": "person",
+      "subcategory": "deity",
+      "description": "Divine murtis consecrated in the central shrine of the Vartal mandir.",
+      "aliases": []
+    },
+    {
+      "id": "lalita",
+      "name": "Lalita",
+      "category": "person",
+      "subcategory": "devotee",
+      "description": "Jivuba's younger sister who accompanied her to have darshan of Bhagwan Swaminarayan.",
+      "aliases": [
+        "Laduba"
+      ],
+      "chapter": 6
+    },
+    {
+      "id": "laluba",
+      "name": "Laluba",
+      "category": "person",
+      "subcategory": "historical_figure",
+      "description": "The mother of Ladudanji (Brahmanand Swami), who received divine inspiration through a dream.",
+      "aliases": [],
+      "chapter": 1
+    },
+    {
+      "id": "maganbhai",
+      "name": "Maganbhai",
+      "category": "person",
+      "subcategory": "devotee",
+      "description": "A devotee who, along with Harmanbhai, established Satsang in East Africa.",
+      "aliases": []
+    },
+    {
+      "id": "mahadev",
+      "name": "Mahadev",
+      "category": "person",
+      "subcategory": "deity",
+      "description": "Another name for Shivji/Bhagwan Shiv, the Hindu deity who appears to Devidan and grants him a boon.",
+      "aliases": [
+        "Shivji",
+        "Bhagwan Shiv"
+      ]
+    },
+    {
+      "id": "mahant_swami_maharaj",
+      "name": "Mahant Swami Maharaj",
+      "category": "person",
+      "subcategory": "sadhu",
+      "description": "A spiritual leader of BAPS whose blessings are acknowledged in the publication.",
+      "aliases": [
+        "HH Mahant Swami Maharaj"
+      ]
+    },
+    {
+      "id": "mahapurushdas_swami",
+      "name": "Mahapurushdas Swami",
+      "category": "person",
+      "subcategory": "sadhu",
+      "description": "One of Swamishri's sadhus who spoke on the greatness of a true sadhu during the festival at Sayajipura.",
+      "aliases": []
+    },
+    {
+      "id": "maharaj",
+      "name": "Maharaj",
+      "category": "person",
+      "subcategory": "deity",
+      "description": "The central divine figure worshipped in the Swaminarayan Sampradaya, also referred to as Purushottam Narayan. He guided devotees, performed miracles, and established religious practices.",
+      "aliases": [
+        "Bhagwan Swaminarayan",
+        "Shriji Maharaj",
+        "Swaminarayan",
+        "Purushottam Narayan",
+        "Lord",
+        "Sahajanand Swami"
+      ]
+    },
+    {
+      "id": "maharaja_shirohi",
+      "name": "Maharaja of Shirohi",
+      "category": "person",
+      "subcategory": "historical_figure",
+      "description": "The ruler of Shirohi who was captivated by young Ladudanji's poetic recital and arranged for his further education.",
+      "aliases": [],
+      "chapter": 1
+    },
+    {
+      "id": "shirohi_maharaja",
+      "name": "Maharaja of Shirohi",
+      "category": "person",
+      "subcategory": "historical_figure",
+      "description": "The ruler of Shirohi who recognized Ladudanji's poetic talent and supported his further education.",
+      "aliases": [
+        "Maharaja"
+      ],
+      "chapter": 1
+    },
+    {
+      "id": "mahashankarbhai_dave",
+      "name": "Mahashankarbhai Dave",
+      "category": "person",
+      "subcategory": "devotee",
+      "description": "Father of Ganpatbhai, from Bharuch.",
+      "aliases": []
+    },
+    {
+      "id": "manjukeshanand_swami",
+      "name": "Manjukeshanand Swami",
+      "category": "person",
+      "subcategory": "sadhu",
+      "description": "One of Maharaj's eight most famous poet-sadhus, mentioned alongside Devanand Swami.",
+      "aliases": [],
+      "chapter": 2
+    },
+    {
+      "id": "merai_devotee",
+      "name": "Merai devotee",
+      "category": "person",
+      "subcategory": "devotee",
+      "description": "A devotee to whom Devanand Swami predicted his death and asked to make a wooden chair for carrying his body to the funeral pyre.",
+      "aliases": [],
+      "chapter": 2
+    },
+    {
+      "id": "miyaji",
+      "name": "Miyaji",
+      "category": "person",
+      "subcategory": "sadhu",
+      "description": "One of Maharaj's personal attendants whom Jhinabhai referenced as an example of those in eternal service to Maharaj.",
+      "aliases": [],
+      "chapter": 4
+    },
+    {
+      "id": "mota_swami",
+      "name": "Mota Swami",
+      "category": "person",
+      "subcategory": "sadhu",
+      "description": "The affectionate name given to Sadhu Yagnapriyadas because he took initiation at the late age of 70.",
+      "aliases": [
+        "Sadhu Yagnapriyadas",
+        "Ashabhai"
+      ]
+    },
+    {
+      "id": "motibhai",
+      "name": "Motibhai",
+      "category": "person",
+      "subcategory": "devotee",
+      "description": "A leading devotee who accompanied Swamishri and helped arrange money for the murtis.",
+      "aliases": []
+    },
+    {
+      "id": "motilal_fojdar",
+      "name": "Motilal Fojdar",
+      "category": "person",
+      "subcategory": "devotee",
+      "description": "A respected devotee in Mumbai to whom Nirgun Swami explained Shastriji Maharaj's greatness.",
+      "aliases": [],
+      "chapter": 8
+    },
+    {
+      "id": "muktanand_swami",
+      "name": "Muktanand Swami",
+      "category": "person",
+      "subcategory": "sadhu",
+      "description": "A saint who had told Joban about Maharaj's greatness and who swung Maharaj on the hindolo during the Holi festival.",
+      "aliases": []
+    },
+    {
+      "id": "mulji_brahmachari",
+      "name": "Mulji Brahmachari",
+      "category": "person",
+      "subcategory": "sadhu",
+      "description": "One of Maharaj's personal attendants whom Jhinabhai referenced as an example of those in eternal service to Maharaj.",
+      "aliases": [],
+      "chapter": 4
+    },
+    {
+      "id": "muljibhai",
+      "name": "Muljibhai",
+      "category": "person",
+      "subcategory": "devotee",
+      "description": "A devotee through whose association Jethabhai came to understand Bhagatji Maharaj's greatness.",
+      "aliases": []
+    },
+    {
+      "id": "munibawa",
+      "name": "Munibawa",
+      "category": "person",
+      "subcategory": "sadhu",
+      "description": "A profound scholar of Sanskrit and Vedanta philosophy who later became one of Maharaj's sadhus while keeping his original name.",
+      "aliases": []
+    },
+    {
+      "id": "nagar_brahmins",
+      "name": "Nagar Brahmins",
+      "category": "person",
+      "subcategory": "historical_figure",
+      "description": "A community that opposed the construction of the Junagadh mandir but later subsided their opposition.",
+      "aliases": [
+        "Nagars"
+      ]
+    },
+    {
+      "id": "naja_jogia",
+      "name": "Naja Jogia",
+      "category": "person",
+      "subcategory": "devotee",
+      "description": "A devotee who often spoke of Jhinabhai before Maharaj and wore a dhotiyu given by Jhinabhai in exchange for remembering him.",
+      "aliases": [],
+      "chapter": 4
+    },
+    {
+      "id": "nar_narayan_dev",
+      "name": "Nar-Narayan Dev",
+      "category": "person",
+      "subcategory": "deity",
+      "description": "Divine murtis that were consecrated in the Ahmedabad mandir.",
+      "aliases": []
+    },
+    {
+      "id": "natvar",
+      "name": "Natvar",
+      "category": "person",
+      "subcategory": "deity",
+      "description": "A form of the divine mentioned in Brahmanand's couplet about devotional surrender.",
+      "aliases": [],
+      "chapter": 1
+    },
+    {
+      "id": "junagadh_nawab",
+      "name": "nawab",
+      "category": "person",
+      "subcategory": "historical_figure",
+      "description": "The head administrator of Junagadh who was convinced by Brahmanand Swami of Maharaj's greatness and provided official backing for the mandir.",
+      "aliases": [],
+      "chapter": 1
+    },
+    {
+      "id": "nawab",
+      "name": "Nawab",
+      "category": "person",
+      "subcategory": "historical_figure",
+      "description": "The head of the royal court of Junagadh and the city's main administrator who respected Jhinabhai's devotion.",
+      "aliases": [],
+      "chapter": 4
+    },
+    {
+      "id": "nilkanth_varni",
+      "name": "Nilkanth Varni",
+      "category": "person",
+      "subcategory": "deity",
+      "description": "A form of Bhagwan Swaminarayan who visited Panchala along with Ramanand Swami when Jhinabhai was ten years old.",
+      "aliases": [],
+      "chapter": 4
+    },
+    {
+      "id": "nirgun_swami",
+      "name": "Nirgun Swami",
+      "category": "person",
+      "subcategory": "sadhu",
+      "description": "A dedicated sadhu who helped Satsang grow in Mumbai through letters and visits. He was stern by nature but also forgiving, and wrote extensive letters to devotees in Africa.",
+      "aliases": [
+        "Nirgundas Swami",
+        "Swami Nirgundasji",
+        "Nirgundasji"
+      ]
+    },
+    {
+      "id": "nirgundas_swami",
+      "name": "Nirgundas Swami",
+      "category": "person",
+      "subcategory": "sadhu",
+      "description": "One of three sadhus who spoke on the greatness of a true sadhu during the festival.",
+      "aliases": []
+    },
+    {
+      "id": "nirgundasji",
+      "name": "Nirgundasji",
+      "category": "person",
+      "subcategory": "sadhu",
+      "description": "A swami of the Swaminarayan Sampradaya mentioned in the contents as one of the biographical subjects.",
+      "aliases": [
+        "Swami Nirgundasji"
+      ],
+      "chapter": 7
+    },
+    {
+      "id": "nishkulanand_swami",
+      "name": "Nishkulanand Swami",
+      "category": "person",
+      "subcategory": "sadhu",
+      "description": "A saint who built a beautiful 12-sided hindolo for Maharaj and set it up in Jnanbaug for the Holi festival.",
+      "aliases": []
+    },
+    {
+      "id": "nityanand_swami",
+      "name": "Nityanand Swami",
+      "category": "person",
+      "subcategory": "sadhu",
+      "description": "A sadhu who questioned Shuk Muni about his reaction when Maharaj tore up his night's work.",
+      "aliases": []
+    },
+    {
+      "id": "pandit_bhattacharya",
+      "name": "Pandit Bhattacharya",
+      "category": "person",
+      "subcategory": "historical_figure",
+      "description": "A renowned pandit in Dhamadka who taught Ladudanji Sanskrit and music.",
+      "aliases": [
+        "Bhattacharya"
+      ],
+      "chapter": 1
+    },
+    {
+      "id": "paramhansas",
+      "name": "paramhansas",
+      "category": "person",
+      "subcategory": "sadhu",
+      "description": "A number of Bhagwan Swaminarayan's senior sadhus who were studying in Dabhan under a learned scholar and influenced Jagannath toward satsang.",
+      "aliases": []
+    },
+    {
+      "id": "parshads",
+      "name": "Parshads",
+      "category": "person",
+      "subcategory": "devotee",
+      "description": "Category of devotees who formed one of the circles during the raas dance, positioned between sadhus and regular devotees.",
+      "aliases": []
+    },
+    {
+      "id": "pragji_bhagat",
+      "name": "Pragji Bhagat",
+      "category": "person",
+      "subcategory": "sadhu",
+      "description": "A spiritual figure whom hostile sadhus could not speak against when Nirgun Swami was in Vartal.",
+      "aliases": []
+    },
+    {
+      "id": "prahlad",
+      "name": "Prahlad",
+      "category": "person",
+      "subcategory": "historical_figure",
+      "description": "A legendary devotee mentioned by Jhinabhai as an example of how divine care doesn't require parental requests when there is true devotion.",
+      "aliases": [],
+      "chapter": 4
+    },
+    {
+      "id": "pramukh_swami_maharaj",
+      "name": "Pramukh Swami Maharaj",
+      "category": "person",
+      "subcategory": "sadhu",
+      "description": "An important spiritual leader of BAPS, mentioned as the inspirer of the textbook series.",
+      "aliases": [
+        "HH Pramukh Swami Maharaj",
+        "Shastri Narayanswarupdasji"
+      ]
+    },
+    {
+      "id": "premanand_swami",
+      "name": "Premanand Swami",
+      "category": "person",
+      "subcategory": "sadhu",
+      "description": "One of Maharaj's eight most famous poet-sadhus, mentioned alongside Devanand Swami.",
+      "aliases": [],
+      "chapter": 2
+    },
+    {
+      "id": "pujari",
+      "name": "pujari",
+      "category": "person",
+      "subcategory": "devotee",
+      "description": "The priest who came to perform mangala arti at 4 a.m. and found Yagnapurushdasji and Jethabhai talking.",
+      "aliases": []
+    },
+    {
+      "id": "purushottam_narayan",
+      "name": "Purushottam Narayan",
+      "category": "person",
+      "subcategory": "deity",
+      "description": "Supreme form of God described as the cause of all avatars and manifest in human form.",
+      "aliases": []
+    },
+    {
+      "id": "radha_raman_dev",
+      "name": "Radha-Raman Dev",
+      "category": "person",
+      "subcategory": "deity",
+      "description": "Divine murtis that were consecrated in the Junagadh mandir.",
+      "aliases": []
+    },
+    {
+      "id": "radharamanprasad",
+      "name": "Radharamanprasad",
+      "category": "person",
+      "subcategory": "historical_figure",
+      "description": "Son of Acharya Lakshmiprasadji Maharaj whom Nirgun Swami was sent to bring from Chhapaiya.",
+      "aliases": []
+    },
+    {
+      "id": "raibai",
+      "name": "Raibai",
+      "category": "person",
+      "subcategory": "historical_figure",
+      "description": "Jivuba's mother-in-law who understood her spiritual desires and helped convince her son.",
+      "aliases": [],
+      "chapter": 6
+    },
+    {
+      "id": "raiji",
+      "name": "Raiji",
+      "category": "person",
+      "subcategory": "devotee",
+      "description": "A devotee who confronted Joban Pagi when he tried to enter Bapujibhai's home at night.",
+      "aliases": [],
+      "chapter": 5
+    },
+    {
+      "id": "ramanand_swami",
+      "name": "Ramanand Swami",
+      "category": "person",
+      "subcategory": "sadhu",
+      "description": "Sadguru who received both Ramanand Swami and Nilkanth Varni in his court in Panchala. He blessed Jhinabhai before passing away.",
+      "aliases": [
+        "Sadguru Ramanand Swami"
+      ],
+      "chapter": 4
+    },
+    {
+      "id": "rameshbhai_dave",
+      "name": "Rameshbhai Dave",
+      "category": "person",
+      "subcategory": "historical_figure",
+      "description": "Professor who assisted in the preparation of the Satsang Reader books.",
+      "aliases": [
+        "Prof. Rameshbhai Dave"
+      ]
+    },
+    {
+      "id": "ramji_keshav",
+      "name": "Ramji Keshav",
+      "category": "person",
+      "subcategory": "devotee",
+      "description": "A respected devotee in Mumbai to whom Nirgun Swami explained Shastriji Maharaj's greatness.",
+      "aliases": [],
+      "chapter": 8
+    },
+    {
+      "id": "ranchhoddas",
+      "name": "Ranchhoddas",
+      "category": "person",
+      "subcategory": "devotee",
+      "description": "One of Bapujibhai's eight sons.",
+      "aliases": []
+    },
+    {
+      "id": "ranchhodray",
+      "name": "Ranchhodray",
+      "category": "person",
+      "subcategory": "deity",
+      "description": "A deity at Dakor who granted darshan to Ashabhai in a dream and instructed him to take refuge in Bhagwan Swaminarayan.",
+      "aliases": []
+    },
+    {
+      "id": "rangbai",
+      "name": "Rangbai",
+      "category": "person",
+      "subcategory": "devotee",
+      "description": "Ranchhoddas's wife who served Maharaj with great love and arranged for his meals.",
+      "aliases": []
+    },
+    {
+      "id": "rantidev",
+      "name": "Rantidev",
+      "category": "person",
+      "subcategory": "historical_figure",
+      "description": "A legendary king who sacrificed everything in service of others, to whom Mota Swami was compared.",
+      "aliases": []
+    },
+    {
+      "id": "rao_kutch",
+      "name": "Rao of Kutch",
+      "category": "person",
+      "subcategory": "historical_figure",
+      "description": "The King of Kutch who hosted Ladudanji as a guest during his studies in Bhuj and tested his knowledge.",
+      "aliases": [],
+      "chapter": 1
+    },
+    {
+      "id": "rao_of_kutch",
+      "name": "Rao of Kutch",
+      "category": "person",
+      "subcategory": "historical_figure",
+      "description": "The King of Kutch who hosted Ladudanji during his studies and later tested his knowledge in the royal court.",
+      "aliases": [
+        "Rao",
+        "King of Kutch"
+      ],
+      "chapter": 1
+    },
+    {
+      "id": "raya_khatan",
+      "name": "Raya Khatan",
+      "category": "person",
+      "subcategory": "devotee",
+      "description": "A devotee who quickly brought milk and thuli to serve Maharaj before he left Balol.",
+      "aliases": []
+    },
+    {
+      "id": "royal_goldsmith",
+      "name": "Royal Goldsmith",
+      "category": "person",
+      "subcategory": "devotee",
+      "description": "A goldsmith in the Bhavnagar court who wore distinctive tilak and chandlo marks, inspiring Ladudanji's inquiry about Swaminarayan.",
+      "aliases": [
+        "Goldsmith"
+      ],
+      "chapter": 1
+    },
+    {
+      "id": "sadguru_balmukunddasji",
+      "name": "Sadguru Balmukunddasji",
+      "category": "person",
+      "subcategory": "sadhu",
+      "description": "A spiritual teacher whose discourses Jetha Bhagat listened to at Junagadh mandir.",
+      "aliases": []
+    },
+    {
+      "id": "sadguru_dharmaswarupdasji",
+      "name": "Sadguru Dharmaswarupdasji",
+      "category": "person",
+      "subcategory": "sadhu",
+      "description": "A spiritual teacher whose discourses Jetha Bhagat listened to at Junagadh mandir.",
+      "aliases": []
+    },
+    {
+      "id": "sadguru_jagatpavandas",
+      "name": "Sadguru Jagatpavandas",
+      "category": "person",
+      "subcategory": "sadhu",
+      "description": "A spiritual teacher who would visit Pij from nearby Dabhan along with Shastri Yogeshwardas.",
+      "aliases": []
+    },
+    {
+      "id": "sadguru_krishnacharandasji",
+      "name": "Sadguru Krishnacharandasji",
+      "category": "person",
+      "subcategory": "sadhu",
+      "description": "A spiritual teacher whose discourses Jetha Bhagat listened to at Junagadh mandir.",
+      "aliases": []
+    },
+    {
+      "id": "sadguru_narayandasji",
+      "name": "Sadguru Narayandasji",
+      "category": "person",
+      "subcategory": "sadhu",
+      "description": "A spiritual teacher whose discourses Jetha Bhagat listened to at Junagadh mandir.",
+      "aliases": []
+    },
+    {
+      "id": "sarasvati",
+      "name": "Sarasvati",
+      "category": "person",
+      "subcategory": "deity",
+      "description": "The goddess of learning who Bhagwan Shiv promised would reside in Devidan's heart.",
+      "aliases": []
+    },
+    {
+      "id": "shakaro_pagi",
+      "name": "Shakaro Pagi",
+      "category": "person",
+      "subcategory": "devotee",
+      "description": "One of Joban's three brothers.",
+      "aliases": []
+    },
+    {
+      "id": "shambhudanji",
+      "name": "Shambhudanji",
+      "category": "person",
+      "subcategory": "historical_figure",
+      "description": "The father of Ladudanji (Brahmanand Swami), who received divine inspiration through a dream.",
+      "aliases": [],
+      "chapter": 1
+    },
+    {
+      "id": "shastri_yogeshwardas",
+      "name": "Shastri Yogeshwardas",
+      "category": "person",
+      "subcategory": "sadhu",
+      "description": "A spiritual teacher who would visit Pij from nearby Dabhan and helped Jethabhai grow closer to Satsang.",
+      "aliases": []
+    },
+    {
+      "id": "shastriji_maharaj",
+      "name": "Shastriji Maharaj",
+      "category": "person",
+      "subcategory": "sadhu",
+      "description": "A revered spiritual leader and guru who is described as having unmatched greatness. He is the one whose 80th birthday was celebrated in Bochasan.",
+      "aliases": [
+        "Brahmaswarup Shastriji Maharaj",
+        "Motibhai's Swami",
+        "Swamishri",
+        "Shastriji Maharaj"
+      ],
+      "chapter": 8
+    },
+    {
+      "id": "shivji",
+      "name": "Shivji",
+      "category": "person",
+      "subcategory": "deity",
+      "description": "Hindu deity who appeared before Devidan and granted him darshan and a boon about Bhagwan Purushottam Narayan coming to his village.",
+      "aliases": [
+        "Bhagwan Shiv",
+        "Mahadev"
+      ]
+    },
+    {
+      "id": "shivshankarbhai",
+      "name": "Shivshankarbhai",
+      "category": "person",
+      "subcategory": "devotee",
+      "description": "A devotee who taught Jethabhai about Akshar-Purushottam upasana.",
+      "aliases": []
+    },
+    {
+      "id": "shri_krishna_bhagwan",
+      "name": "Shri Krishna Bhagwan",
+      "category": "person",
+      "subcategory": "deity",
+      "description": "Hindu deity mentioned in comparison to Maharaj's divine power, specifically regarding lifting Mount Govardhan with one finger.",
+      "aliases": []
+    },
+    {
+      "id": "shriji_maharaj",
+      "name": "Shriji Maharaj",
+      "category": "person",
+      "subcategory": "deity",
+      "description": "Another name for Bhagwan Swaminarayan, who came to Balol and initiated Devidan as a sadhu.",
+      "aliases": [
+        "Bhagwan Swaminarayan",
+        "Maharaj",
+        "Bhagwan Purushottam Narayan"
+      ]
+    },
+    {
+      "id": "shrijiswarupdas",
+      "name": "Shrijiswarupdas",
+      "category": "person",
+      "subcategory": "sadhu",
+      "description": "One of Shastriji Maharaj's sadhus who traveled with Nirgun Swami to Kashi.",
+      "aliases": [],
+      "chapter": 8
+    },
+    {
+      "id": "shuk_muni",
+      "name": "Shuk Muni",
+      "category": "person",
+      "subcategory": "sadhu",
+      "description": "A great sadhu from Dabhan who was described by Maharaj as his right hand and was a Sanskrit scholar who wrote many religious texts.",
+      "aliases": [
+        "Sadguru Shukanand Swami"
+      ]
+    },
+    {
+      "id": "shukanand_swami",
+      "name": "Shukanand Swami",
+      "category": "person",
+      "subcategory": "sadhu",
+      "description": "A Sadguru originally named Jagannath, born in 1799, who became a sadhu and served as Maharaj's secretary, known for his clear handwriting and devotion.",
+      "aliases": [
+        "Sadguru Shukanand Swami",
+        "Shuk Muni",
+        "Jagannath"
+      ],
+      "chapter": 3
+    },
+    {
+      "id": "somla_khachar",
+      "name": "Somla Khachar",
+      "category": "person",
+      "subcategory": "devotee",
+      "description": "A devotee who acted as an intermediary, conveying Jagannath's request to Maharaj to become a sadhu.",
+      "aliases": []
+    },
+    {
+      "id": "sundar_pagi",
+      "name": "Sundar Pagi",
+      "category": "person",
+      "subcategory": "devotee",
+      "description": "Joban's younger brother who refused to steal Maharaj's horse after having darshan.",
+      "aliases": []
+    },
+    {
+      "id": "sura_khachar",
+      "name": "Sura Khachar",
+      "category": "person",
+      "subcategory": "devotee",
+      "description": "Devotee who tried to cheer Maharaj along with others when he was disappointed with Jhinabhai's disobedience.",
+      "aliases": [],
+      "chapter": 4
+    },
+    {
+      "id": "swami",
+      "name": "Swami",
+      "category": "person",
+      "subcategory": "deity",
+      "description": "A divine figure mentioned alongside Maharaj who is pleased by the building of mandirs.",
+      "aliases": []
+    },
+    {
+      "id": "swami_jaga_bhagat",
+      "name": "Swami Jaga Bhagat",
+      "category": "person",
+      "subcategory": "sadhu",
+      "description": "One of Gunatitanand Swami's foremost disciples who resided in Junagadh and whose discourses Jetha Bhagat benefited from.",
+      "aliases": [
+        "Jaga Bhagat"
+      ]
+    },
+    {
+      "id": "swami_nirgundasji",
+      "name": "Swami Nirgundasji",
+      "category": "person",
+      "subcategory": "sadhu",
+      "description": "A sadhu whose story begins in the text, originally known as Jethabhai of Pij.",
+      "aliases": [
+        "Jethabhai"
+      ],
+      "chapter": 7
+    },
+    {
+      "id": "swami_yagnapriyadasji",
+      "name": "Swami Yagnapriyadasji",
+      "category": "person",
+      "subcategory": "sadhu",
+      "description": "A sadhu who is the subject of chapter 8, originally known as Ashabhai before taking vows.",
+      "aliases": [
+        "Ashabhai"
+      ],
+      "chapter": 8
+    },
+    {
+      "id": "swaminarayan",
+      "name": "Swaminarayan",
+      "category": "person",
+      "subcategory": "deity",
+      "description": "The central deity of the Swaminarayan Sampradaya, also known as Bhagwan Swaminarayan and Shriji Maharaj.",
+      "aliases": [
+        "Bhagwan Swaminarayan",
+        "Shriji Maharaj",
+        "Maharaj",
+        "Sahajānand",
+        "Swami Sahajanand",
+        "Sahajanand Swami"
+      ]
+    },
+    {
+      "id": "swamishri",
+      "name": "Swamishri",
+      "category": "person",
+      "subcategory": "sadhu",
+      "description": "A spiritual leader who accompanied Nirgun Swami on visits and was asked about what pleases Maharaj and Swami. He gave comfort to Nirgun Swami during his illness.",
+      "aliases": [
+        "Shastriji Maharaj"
+      ]
+    },
+    {
+      "id": "thakor_manubha",
+      "name": "Thakor Manubha",
+      "category": "person",
+      "subcategory": "historical_figure",
+      "description": "Jhinabhai's father, a Solanki Vaghela Rajput and descendant of King Siddharaj Jaysinh, who was a disciple of Ramanand Swami.",
+      "aliases": [],
+      "chapter": 4
+    },
+    {
+      "id": "thakorji",
+      "name": "Thakorji",
+      "category": "person",
+      "subcategory": "deity",
+      "description": "The deity for whom golden sinhasans were constructed in Atladara mandir.",
+      "aliases": []
+    },
+    {
+      "id": "ullasrambhai",
+      "name": "Ullasrambhai",
+      "category": "person",
+      "subcategory": "devotee",
+      "description": "A devotee who taught Jethabhai about Akshar-Purushottam upasana.",
+      "aliases": []
+    },
+    {
+      "id": "vasudev_narayan",
+      "name": "Vasudev-Narayan",
+      "category": "person",
+      "subcategory": "deity",
+      "description": "A deity for whom arti was performed at Dada Khachar's darbar.",
+      "aliases": [],
+      "chapter": 6
+    },
+    {
+      "id": "vignandas_swami",
+      "name": "Vignandas Swami",
+      "category": "person",
+      "subcategory": "sadhu",
+      "description": "One of Swamishri's sadhus who spoke on the greatness of a true sadhu during the festival at Sayajipura.",
+      "aliases": []
+    },
+    {
+      "id": "vishnu",
+      "name": "Vishnu",
+      "category": "person",
+      "subcategory": "deity",
+      "description": "A major Hindu deity whose avatars were mentioned in Shuk Muni's letter comparing them to Maharaj.",
+      "aliases": []
+    },
+    {
+      "id": "yagnapriyadasji",
+      "name": "Yagnapriyadasji",
+      "category": "person",
+      "subcategory": "sadhu",
+      "description": "A swami whose story appears to be beginning at the end of the text, introduced as the subject of chapter 8.",
+      "aliases": [
+        "Swami Yagnapriyadasji"
+      ],
+      "chapter": 8
+    },
+    {
+      "id": "yagnapurushdasji",
+      "name": "Yagnapurushdasji",
+      "category": "person",
+      "subcategory": "sadhu",
+      "description": "A spiritual leader studying in Rajkot whose fame spread widely within the Swaminarayan Sampradaya, later known as Shastriji Maharaj.",
+      "aliases": [
+        "Shastri Yagnapurushdasji",
+        "Shastriji Maharaj",
+        "Swamishri"
+      ],
+      "chapter": 8
+    },
+    {
+      "id": "yogeshwardas",
+      "name": "Yogeshwardas",
+      "category": "person",
+      "subcategory": "sadhu",
+      "description": "A shastri who would visit Pij from nearby Dabhan and helped Jethabhai grow closer to Satsang.",
+      "aliases": [
+        "Shastri Yogeshwardas"
+      ]
+    },
+    {
+      "id": "yogiji_maharaj",
+      "name": "Yogiji Maharaj",
+      "category": "person",
+      "subcategory": "sadhu",
+      "description": "A saint known for his innate saintliness and humility. Nirgun Swami would bow before him and encourage others to recognize his true nature.",
+      "aliases": [
+        "Brahmaswarup Yogiji Maharaj"
+      ]
+    },
+    {
+      "id": "ahmedabad",
+      "name": "Ahmedabad",
+      "category": "place",
+      "subcategory": "city",
+      "description": "A city where Brahmanand Swami built a grand mandir and the location of the acharya who performed murti-pratishtha.",
+      "aliases": [],
+      "chapter": 1
+    },
+    {
+      "id": "ahmedabad_mandir",
+      "name": "Ahmedabad mandir",
+      "category": "place",
+      "subcategory": "mandir",
+      "description": "The first mandir built by Maharaj, supervised by Brahmanand Swami, where Nar-Narayan Dev murtis were consecrated.",
+      "aliases": [],
+      "chapter": 1
+    },
+    {
+      "id": "ajva_road",
+      "name": "Ajva Road",
+      "category": "place",
+      "subcategory": "region",
+      "description": "A road near Vadodara where Swamishri advised devotees to purchase land when they decided to move from Sadhi.",
+      "aliases": []
+    },
+    {
+      "id": "akshar_ordi",
+      "name": "Akshar Ordi",
+      "category": "place",
+      "subcategory": "building",
+      "description": "A sacred building where Maharaj appeared to Bhaguji after passing away and where spiritual conversations took place.",
+      "aliases": []
+    },
+    {
+      "id": "akshar_purushottam_mandirs",
+      "name": "Akshar-Purushottam mandirs",
+      "category": "place",
+      "subcategory": "mandir",
+      "description": "Temples whose building pleases Maharaj and Swami, and devotees who offer seva towards building them are made brahmarup and taken to Akshardham.",
+      "aliases": [
+        "mandirs"
+      ]
+    },
+    {
+      "id": "akshardham",
+      "name": "Akshardham",
+      "category": "place",
+      "subcategory": "region",
+      "description": "The divine abode where devotees who serve in building mandirs are taken by Maharaj, and where Nirgun Swami took his place in eternal seva.",
+      "aliases": [
+        "Dham"
+      ]
+    },
+    {
+      "id": "anand",
+      "name": "Anand",
+      "category": "place",
+      "subcategory": "city",
+      "description": "A place where Nirgun Swami was brought with Swamishri's permission during his final illness, where continuous prayers and discourses were conducted.",
+      "aliases": []
+    },
+    {
+      "id": "assembly_hall",
+      "name": "assembly hall",
+      "category": "place",
+      "subcategory": "building",
+      "description": "A building constructed by Mota Swami at Atladara mandir.",
+      "aliases": []
+    },
+    {
+      "id": "atladara",
+      "name": "Atladara",
+      "category": "place",
+      "subcategory": "city",
+      "description": "A place where the Suvarna Mahotsav was held, during which Nirgun Swami's management skills shone through.",
+      "aliases": []
+    },
+    {
+      "id": "atladara_mandir",
+      "name": "Atladara mandir",
+      "category": "place",
+      "subcategory": "mandir",
+      "description": "A temple where Mota Swami put finishing touches including assembly hall, dining hall, grand gate and golden sinhasans.",
+      "aliases": []
+    },
+    {
+      "id": "badrikashram",
+      "name": "Badrikashram",
+      "category": "place",
+      "subcategory": "region",
+      "description": "One of the divine abodes offered by Maharaj to Jhinabhai as a destination after death.",
+      "aliases": [],
+      "chapter": 4
+    },
+    {
+      "id": "balol",
+      "name": "Balol",
+      "category": "place",
+      "subcategory": "city",
+      "description": "A village near Dholka where Jijibhai lived and where Devidan was born on 9 November 1802.",
+      "aliases": []
+    },
+    {
+      "id": "bharuch",
+      "name": "Bharuch",
+      "category": "place",
+      "subcategory": "city",
+      "description": "The city where Mahashankarbhai Dave and his son Ganpatbhai lived.",
+      "aliases": []
+    },
+    {
+      "id": "bhavnagar",
+      "name": "Bhavnagar",
+      "category": "place",
+      "subcategory": "city",
+      "description": "The kingdom ruled by King Vakhatsinh where Ladudanji gave an exceptional performance and learned about Swaminarayan.",
+      "aliases": [],
+      "chapter": 1
+    },
+    {
+      "id": "bhudej",
+      "name": "Bhudej",
+      "category": "place",
+      "subcategory": "city",
+      "description": "The village where devotee Khodabhai was from and where devotees went to inquire after Maharaj when he escaped from Vartal.",
+      "aliases": [
+        "Budhej"
+      ]
+    },
+    {
+      "id": "bhuj",
+      "name": "Bhuj",
+      "category": "place",
+      "subcategory": "city",
+      "description": "The city where Ladudanji studied Pingal Shastra and other poetic sciences for ten years under guru Abhaydanji.",
+      "aliases": [],
+      "chapter": 1
+    },
+    {
+      "id": "bochasan",
+      "name": "Bochasan",
+      "category": "place",
+      "subcategory": "city",
+      "description": "A place where festival preparations were made and where Shastriji Maharaj's 80th birthday celebrations took place.",
+      "aliases": [],
+      "chapter": 8
+    },
+    {
+      "id": "bochasan_mandir",
+      "name": "Bochasan mandir",
+      "category": "place",
+      "subcategory": "mandir",
+      "description": "A temple under construction in Bochasan that received financial support from Ashabhai and Ishwarbhai.",
+      "aliases": []
+    },
+    {
+      "id": "charotar",
+      "name": "Charotar",
+      "category": "place",
+      "subcategory": "region",
+      "description": "A region in Gujarat where Shastriji Maharaj conducted his vicharan.",
+      "aliases": [],
+      "chapter": 8
+    },
+    {
+      "id": "chhapaiya",
+      "name": "Chhapaiya",
+      "category": "place",
+      "subcategory": "city",
+      "description": "The place from where Nirgun Swami was sent to bring Radharamanprasad.",
+      "aliases": []
+    },
+    {
+      "id": "chhota_udepur",
+      "name": "Chhota Udepur",
+      "category": "place",
+      "subcategory": "city",
+      "description": "A place where Ashabhai purchased farm lands to ease his financial difficulties, against Swamishri's advice.",
+      "aliases": []
+    },
+    {
+      "id": "dabhan",
+      "name": "Dabhan",
+      "category": "place",
+      "subcategory": "city",
+      "description": "The place of origin for Shuk Muni, a mango tree, and a bullock that Maharaj praised as being very useful to him.",
+      "aliases": []
+    },
+    {
+      "id": "dada_khachar_darbar",
+      "name": "Dada Khachar's Darbar",
+      "category": "place",
+      "subcategory": "building",
+      "description": "The assembly hall in Gadhada where Swaminarayan held gatherings with sadhus and devotees under a neem tree.",
+      "aliases": [
+        "Darbar"
+      ],
+      "chapter": 6
+    },
+    {
+      "id": "dakor",
+      "name": "Dakor",
+      "category": "place",
+      "subcategory": "city",
+      "description": "A holy city where Ashabhai would go every Punam for darshan of Ranchhodray.",
+      "aliases": []
+    },
+    {
+      "id": "dhamadka",
+      "name": "Dhamadka",
+      "category": "place",
+      "subcategory": "city",
+      "description": "A town in Kutch where Ladudanji learned Sanskrit and music from Pandit Bhattacharya and first met Ramanand Swami.",
+      "aliases": [],
+      "chapter": 1
+    },
+    {
+      "id": "dharampur",
+      "name": "Dharampur",
+      "category": "place",
+      "subcategory": "city",
+      "description": "A place from which Maharaj was returning when he came to Vartal with Joban Pagi.",
+      "aliases": [],
+      "chapter": 5
+    },
+    {
+      "id": "dharmashala",
+      "name": "dharmashala",
+      "category": "place",
+      "subcategory": "building",
+      "description": "A rest house for sadhus that had been sanctified by Bhagwan Swaminarayan where Ashabhai first saw Shastriji Maharaj.",
+      "aliases": [],
+      "chapter": 8
+    },
+    {
+      "id": "dhingda",
+      "name": "Dhingda",
+      "category": "place",
+      "subcategory": "city",
+      "description": "A village mentioned alongside Balol, on whose outskirts the Sankaleshwar Mahadev mandir is located.",
+      "aliases": []
+    },
+    {
+      "id": "dholka",
+      "name": "Dholka",
+      "category": "place",
+      "subcategory": "city",
+      "description": "A place near which Balol is located, mentioned in connection with Devidan's birthplace.",
+      "aliases": []
+    },
+    {
+      "id": "dhrangadhra",
+      "name": "Dhrangadhra",
+      "category": "place",
+      "subcategory": "city",
+      "description": "One of the states where Ladudanji performed and was received with great honor.",
+      "aliases": [],
+      "chapter": 1
+    },
+    {
+      "id": "dining_hall",
+      "name": "dining hall",
+      "category": "place",
+      "subcategory": "building",
+      "description": "A building constructed by Mota Swami at Atladara mandir.",
+      "aliases": []
+    },
+    {
+      "id": "dwarka",
+      "name": "Dwarka",
+      "category": "place",
+      "subcategory": "city",
+      "description": "One of the states where Ladudanji performed and was received with great honor.",
+      "aliases": [],
+      "chapter": 1
+    },
+    {
+      "id": "east_africa",
+      "name": "East Africa",
+      "category": "place",
+      "subcategory": "region",
+      "description": "A region where Harmanbhai and Maganbhai established Satsang and where Nirgun Swami sent extensive letters to devotees.",
+      "aliases": [
+        "Africa"
+      ]
+    },
+    {
+      "id": "gadhada",
+      "name": "Gadhada",
+      "category": "place",
+      "subcategory": "city",
+      "description": "The village where Maharaj held assemblies and where Jagannath went to meet him, featuring locations like the neem tree and Radha Vav.",
+      "aliases": []
+    },
+    {
+      "id": "gadhada_mandir",
+      "name": "Gadhada mandir",
+      "category": "place",
+      "subcategory": "mandir",
+      "description": "A temple whose arti Swamishri mentioned they still had to perform when encouraging Nirgun Swami during his illness.",
+      "aliases": []
+    },
+    {
+      "id": "golok",
+      "name": "Golok",
+      "category": "place",
+      "subcategory": "region",
+      "description": "One of the divine abodes offered by Maharaj to Jhinabhai as a destination after death.",
+      "aliases": [],
+      "chapter": 4
+    },
+    {
+      "id": "government_depot",
+      "name": "government depot",
+      "category": "place",
+      "subcategory": "building",
+      "description": "A facility in Vadodara where Ishwarbhai had good contacts and could acquire festival supplies quickly.",
+      "aliases": []
+    },
+    {
+      "id": "gujarat",
+      "name": "Gujarat",
+      "category": "place",
+      "subcategory": "region",
+      "description": "The region where Joban and his brothers had made people tremble for years through banditry, and where they later served as Maharaj's bodyguards.",
+      "aliases": [],
+      "chapter": 5
+    },
+    {
+      "id": "india",
+      "name": "India",
+      "category": "place",
+      "subcategory": "region",
+      "description": "The country that was taken over by the British, affecting the religious practices of the Sampradaya.",
+      "aliases": []
+    },
+    {
+      "id": "jaipur",
+      "name": "Jaipur",
+      "category": "place",
+      "subcategory": "city",
+      "description": "A city from where murtis were required for Sarangpur mandir.",
+      "aliases": []
+    },
+    {
+      "id": "jamnagar",
+      "name": "Jamnagar",
+      "category": "place",
+      "subcategory": "city",
+      "description": "One of the states where Ladudanji performed and was received with great honor.",
+      "aliases": [],
+      "chapter": 1
+    },
+    {
+      "id": "jesangpura",
+      "name": "Jesangpura",
+      "category": "place",
+      "subcategory": "city",
+      "description": "A place where Ashabhai purchased land with Swamishri's permission after deciding to move from Sadhi.",
+      "aliases": []
+    },
+    {
+      "id": "jetalpur",
+      "name": "Jetalpur",
+      "category": "place",
+      "subcategory": "city",
+      "description": "A town near Balol where Bhagwan Swaminarayan completed a yagna before visiting Balol.",
+      "aliases": []
+    },
+    {
+      "id": "jnanbaug",
+      "name": "Jnanbaug",
+      "category": "place",
+      "subcategory": "building",
+      "description": "A location in Vartal where the 12-sided hindolo was set up for the Holi festival and where Rangotsav was celebrated.",
+      "aliases": []
+    },
+    {
+      "id": "joban_house",
+      "name": "Joban Pagi's home",
+      "category": "place",
+      "subcategory": "building",
+      "description": "Joban's house in Vartal where Maharaj stayed on the first floor during the Fuldol festival celebrations.",
+      "aliases": [],
+      "chapter": 5
+    },
+    {
+      "id": "junagadh",
+      "name": "Junagadh",
+      "category": "place",
+      "subcategory": "city",
+      "description": "A city where Jhinabhai fell gravely ill and eventually passed away. Maharaj promised to build a mandir there for devotees of the Sorath region.",
+      "aliases": [],
+      "chapter": 4
+    },
+    {
+      "id": "junagadh_mandir",
+      "name": "Junagadh mandir",
+      "category": "place",
+      "subcategory": "mandir",
+      "description": "A mandir built in Junagadh where Radha-Raman Dev murtis were consecrated and Gunatitanand Swami was appointed as mahant.",
+      "aliases": []
+    },
+    {
+      "id": "kala_bhavan_technical_institute",
+      "name": "Kala Bhavan Technical Institute",
+      "category": "place",
+      "subcategory": "building",
+      "description": "The educational institute in Vadodara where Jethabhai came to study.",
+      "aliases": []
+    },
+    {
+      "id": "kariyani",
+      "name": "Kariyani",
+      "category": "place",
+      "subcategory": "city",
+      "description": "A place where Abhal Khachar first had darshan of Sahajanand Swami.",
+      "aliases": []
+    },
+    {
+      "id": "kashi",
+      "name": "Kashi",
+      "category": "place",
+      "subcategory": "city",
+      "description": "A holy city where Nirgun Swami traveled after recovering from his injuries.",
+      "aliases": []
+    },
+    {
+      "id": "khan_village",
+      "name": "Khan",
+      "category": "place",
+      "subcategory": "city",
+      "description": "The village in the Shirohi region of present-day Rajasthan where Ladudanji was born on February 8, 1772.",
+      "aliases": [
+        "Village of Khan"
+      ],
+      "chapter": 1
+    },
+    {
+      "id": "khan",
+      "name": "Khan",
+      "category": "place",
+      "subcategory": "city",
+      "description": "The hometown of Ladudanji's uncle, where his family lived.",
+      "aliases": [],
+      "chapter": 1
+    },
+    {
+      "id": "khandesh",
+      "name": "Khandesh",
+      "category": "place",
+      "subcategory": "region",
+      "description": "A region outside Gujarat where Nirgun Swami traveled annually to spread satsang among Gujarati immigrants.",
+      "aliases": []
+    },
+    {
+      "id": "khodiyar_mata_mandir",
+      "name": "Khodiyar Mata mandir",
+      "category": "place",
+      "subcategory": "mandir",
+      "description": "A temple dedicated to the goddess Khodiyar Mata that Maharaj visited and where he sprinkled gulal on the deity's murti.",
+      "aliases": []
+    },
+    {
+      "id": "koyli",
+      "name": "Koyli",
+      "category": "place",
+      "subcategory": "city",
+      "description": "A place where another marvellous festival was held, inspired by Ashabhai and Ishwarbhai.",
+      "aliases": []
+    },
+    {
+      "id": "kundal",
+      "name": "Kundal",
+      "category": "place",
+      "subcategory": "city",
+      "description": "Place where Amara Patgar and his son Hathiya Patgar lived.",
+      "aliases": []
+    },
+    {
+      "id": "kutch",
+      "name": "Kutch",
+      "category": "place",
+      "subcategory": "region",
+      "description": "The region ruled by the Rao where Ladudanji stayed as a guest during his studies in Bhuj.",
+      "aliases": [],
+      "chapter": 1
+    },
+    {
+      "id": "lakshmi_vadi",
+      "name": "Lakshmi Vadi",
+      "category": "place",
+      "subcategory": "building",
+      "description": "A farm belonging to Dada Khachar and his family in Gadhada where Maharaj frequently visited and sat under a mango tree.",
+      "aliases": [],
+      "chapter": 6
+    },
+    {
+      "id": "mahelav",
+      "name": "Mahelav",
+      "category": "place",
+      "subcategory": "city",
+      "description": "A place where Shuk Muni came after celebrating a festival in Vartal and gave vartman to Dungarbhai.",
+      "aliases": []
+    },
+    {
+      "id": "mahuva",
+      "name": "Mahuva",
+      "category": "place",
+      "subcategory": "city",
+      "description": "The destination where Jethabhai and Ganpatbhai safely reached by boat to have darshan of Bhagatji Maharaj.",
+      "aliases": []
+    },
+    {
+      "id": "mahuva_mandir",
+      "name": "Mahuva mandir",
+      "category": "place",
+      "subcategory": "mandir",
+      "description": "Temple in Mahuva where sadhus and brahmacharis resided and where Jethabhai would listen to discourses.",
+      "aliases": []
+    },
+    {
+      "id": "mandir",
+      "name": "mandir",
+      "category": "place",
+      "subcategory": "mandir",
+      "description": "The temple where Jijibhai and Devidan went daily to worship Shivji.",
+      "aliases": [
+        "temple"
+      ]
+    },
+    {
+      "id": "mandirs",
+      "name": "Mandirs",
+      "category": "place",
+      "subcategory": "mandir",
+      "description": "Temples that Maharaj decided to build as part of his lasting legacy, following Muktanand Swami's advice.",
+      "aliases": []
+    },
+    {
+      "id": "mandvi",
+      "name": "Mandvi",
+      "category": "place",
+      "subcategory": "city",
+      "description": "A town in Kutch where Maharaj arranged a grand procession for Brahmanand Swami and where Khaiyo Khatri lived.",
+      "aliases": [],
+      "chapter": 1
+    },
+    {
+      "id": "mangrol",
+      "name": "Mangrol",
+      "category": "place",
+      "subcategory": "city",
+      "description": "A town where Jhinabhai went and learned about Kamalshi Vanjha's illness.",
+      "aliases": [],
+      "chapter": 4
+    },
+    {
+      "id": "mount_govardhan",
+      "name": "Mount Govardhan",
+      "category": "place",
+      "subcategory": "region",
+      "description": "A mountain that Shri Krishna Bhagwan propped up with one finger, used as comparison to Maharaj's divine power.",
+      "aliases": []
+    },
+    {
+      "id": "muli",
+      "name": "Muli",
+      "category": "place",
+      "subcategory": "city",
+      "description": "The location where Brahmanand Swami was instructed to build a mandir and where he eventually resided and passed away.",
+      "aliases": [],
+      "chapter": 1
+    },
+    {
+      "id": "muli_mandir",
+      "name": "Muli mandir",
+      "category": "place",
+      "subcategory": "mandir",
+      "description": "The temple where Devanand Swami became mahant after Brahmanand Swami, completing its construction and increasing its prosperity.",
+      "aliases": [],
+      "chapter": 1
+    },
+    {
+      "id": "mumbai",
+      "name": "Mumbai",
+      "category": "place",
+      "subcategory": "city",
+      "description": "A city where Nirgun Swami helped Satsang grow through inspirational letters and visits. He was brought here for treatment during his illness.",
+      "aliases": []
+    },
+    {
+      "id": "mumbai_mandir",
+      "name": "Mumbai mandir",
+      "category": "place",
+      "subcategory": "mandir",
+      "description": "Temple in Mumbai where Jetha Bhagat served as kothari.",
+      "aliases": []
+    },
+    {
+      "id": "munibawa_ashram",
+      "name": "Munibawa's ashram",
+      "category": "place",
+      "subcategory": "building",
+      "description": "The ashram in Surat where Brahmanand Swami studied Sanskrit under Munibawa.",
+      "aliases": [],
+      "chapter": 1
+    },
+    {
+      "id": "nadiad",
+      "name": "Nadiad",
+      "category": "place",
+      "subcategory": "city",
+      "description": "The original birthplace of Jagannath (Shukanand Swami) before his family settled in Dabhan.",
+      "aliases": [],
+      "chapter": 3
+    },
+    {
+      "id": "nagher",
+      "name": "Nagher",
+      "category": "place",
+      "subcategory": "region",
+      "description": "The region where Panchala village is located in Sorath, the southern part of Saurashtra.",
+      "aliases": []
+    },
+    {
+      "id": "neem_tree",
+      "name": "Neem Tree",
+      "category": "place",
+      "subcategory": "building",
+      "description": "The tree under which Maharaj was seated in assembly at Dada Khachar's darbar when he announced the coming of a mukta from Dabhan.",
+      "aliases": [],
+      "chapter": 6
+    },
+    {
+      "id": "nawab_palace",
+      "name": "palace",
+      "category": "place",
+      "subcategory": "building",
+      "description": "The nawab's palace in Junagadh where Maharaj and his sadhus were ceremoniously received.",
+      "aliases": []
+    },
+    {
+      "id": "panchala",
+      "name": "Panchala",
+      "category": "place",
+      "subcategory": "city",
+      "description": "City where Ramanand Swami held court and where Jhinabhai lived. Site of grand festivals and the famous Fuldol celebration of 1823.",
+      "aliases": [],
+      "chapter": 4
+    },
+    {
+      "id": "pen",
+      "name": "Pen",
+      "category": "place",
+      "subcategory": "city",
+      "description": "A village a short distance from Mumbai where Nirgun Swami was taken for treatment during his illness.",
+      "aliases": []
+    },
+    {
+      "id": "pij",
+      "name": "Pij",
+      "category": "place",
+      "subcategory": "city",
+      "description": "Village near Nadiad where Jethabhai was born and where Shastri Yogeshwardas and Sadguru Jagatpavandas would visit.",
+      "aliases": []
+    },
+    {
+      "id": "puj_mandir",
+      "name": "Pij mandir",
+      "category": "place",
+      "subcategory": "mandir",
+      "description": "The temple in Pij where Bhagatji Maharaj appeared and granted darshan to Jethabhai.",
+      "aliases": []
+    },
+    {
+      "id": "pij_mandir",
+      "name": "Pij mandir",
+      "category": "place",
+      "subcategory": "mandir",
+      "description": "Temple in Pij where Bhagatji Maharaj first appeared before Jethabhai, granting him darshan.",
+      "aliases": []
+    },
+    {
+      "id": "piplad",
+      "name": "Piplad",
+      "category": "place",
+      "subcategory": "city",
+      "description": "A place with a well where Maharaj stopped to bathe after visiting the Khodiyar Mata mandir.",
+      "aliases": []
+    },
+    {
+      "id": "pradakshina_area",
+      "name": "pradakshina area",
+      "category": "place",
+      "subcategory": "mandir",
+      "description": "The area behind the mandir where circumambulation takes place, where Yagnapurushdasji and Jethabhai were talking.",
+      "aliases": []
+    },
+    {
+      "id": "pune",
+      "name": "Pune",
+      "category": "place",
+      "subcategory": "city",
+      "description": "A distant city mentioned by Joban as the extent of his former banditry activities, from Vartal all the way to Pune.",
+      "aliases": [],
+      "chapter": 5
+    },
+    {
+      "id": "purushottampura",
+      "name": "Purushottampura",
+      "category": "place",
+      "subcategory": "city",
+      "description": "A place about three kilometers from Radhu where Ashabhai owned a farm and lived, where his house was destroyed by fire.",
+      "aliases": []
+    },
+    {
+      "id": "radha_vav",
+      "name": "Radha Vav",
+      "category": "place",
+      "subcategory": "building",
+      "description": "A step well on the outskirts of Gadhada where Maharaj went to meet the incoming mukta from Dabhan.",
+      "aliases": []
+    },
+    {
+      "id": "radhu",
+      "name": "Radhu",
+      "category": "place",
+      "subcategory": "city",
+      "description": "A place where Ashabhai bought land with Swamishri's guidance and where a month-long parayan was organized.",
+      "aliases": []
+    },
+    {
+      "id": "rajasthan",
+      "name": "Rajasthan",
+      "category": "place",
+      "subcategory": "region",
+      "description": "The region where Brahmanand Swami's family returned after accepting his decision to become a sadhu.",
+      "aliases": [],
+      "chapter": 1
+    },
+    {
+      "id": "rajkot",
+      "name": "Rajkot",
+      "category": "place",
+      "subcategory": "city",
+      "description": "City where Yagnapurushdasji was studying.",
+      "aliases": []
+    },
+    {
+      "id": "ramanandi_mandir",
+      "name": "Ramanandi mandir",
+      "category": "place",
+      "subcategory": "mandir",
+      "description": "A temple in Sadhi village that was managed by brothers Ashabhai and Ishwarbhai.",
+      "aliases": []
+    },
+    {
+      "id": "river_bank",
+      "name": "river bank",
+      "category": "place",
+      "subcategory": "building",
+      "description": "The location where Devanand Swami's body was taken for his final rites to be performed.",
+      "aliases": [],
+      "chapter": 2
+    },
+    {
+      "id": "river_ghela",
+      "name": "River Ghela",
+      "category": "place",
+      "subcategory": "region",
+      "description": "The river where sadhus would bathe in the morning as part of their daily rituals.",
+      "aliases": [
+        "Unmatt Ganga"
+      ]
+    },
+    {
+      "id": "river_malan",
+      "name": "River Malan",
+      "category": "place",
+      "subcategory": "region",
+      "description": "River in Mahuva where Jethabhai would accompany Bhagatji Maharaj for bathing.",
+      "aliases": []
+    },
+    {
+      "id": "royal_court_junagadh",
+      "name": "Royal Court of Junagadh",
+      "category": "place",
+      "subcategory": "building",
+      "description": "The court where darbars gathered with entertainment, alcohol, and where Jhinabhai sat aloof from worldly pleasures.",
+      "aliases": [],
+      "chapter": 4
+    },
+    {
+      "id": "shirohi_royal_court",
+      "name": "Royal Court of Shirohi",
+      "category": "place",
+      "subcategory": "building",
+      "description": "The court hall where young Ladudanji performed his poetic recital before the Maharaja and captivated the audience.",
+      "aliases": [],
+      "chapter": 1
+    },
+    {
+      "id": "shirohi_court",
+      "name": "Royal Court of Shirohi",
+      "category": "place",
+      "subcategory": "building",
+      "description": "The royal court where young Ladudanji first performed his poetry and gained recognition.",
+      "aliases": [
+        "Shirohi Court"
+      ],
+      "chapter": 1
+    },
+    {
+      "id": "sadhi",
+      "name": "Sadhi",
+      "category": "place",
+      "subcategory": "city",
+      "description": "A village near Vadodara where brothers Ashabhai and Ishwarbhai lived and managed a Ramanandi mandir.",
+      "aliases": []
+    },
+    {
+      "id": "sankaleshwar_mahadev",
+      "name": "Sankaleshwar Mahadev",
+      "category": "place",
+      "subcategory": "mandir",
+      "description": "A small, beautiful mandir dedicated to Bhagwan Shiv located on the outskirts of Balol and Dhingda villages.",
+      "aliases": []
+    },
+    {
+      "id": "sarangpur",
+      "name": "Sarangpur",
+      "category": "place",
+      "subcategory": "city",
+      "description": "Location of a mandir under construction that received support from Ashabhai and Ishwarbhai.",
+      "aliases": []
+    },
+    {
+      "id": "sarangpur_mandir",
+      "name": "Sarangpur mandir",
+      "category": "place",
+      "subcategory": "mandir",
+      "description": "A temple where murti-pratishtha was fast approaching and for which money was needed for murtis from Jaipur.",
+      "aliases": []
+    },
+    {
+      "id": "saurashtra",
+      "name": "Saurashtra",
+      "category": "place",
+      "subcategory": "region",
+      "description": "A region in Gujarat where Sorath (the southern part) is located, which contains Panchala village.",
+      "aliases": []
+    },
+    {
+      "id": "sayajipura",
+      "name": "Sayajipura",
+      "category": "place",
+      "subcategory": "city",
+      "description": "Location of Ashabhai's farm where a grand festival was held instead of the simple ponk feast originally planned.",
+      "aliases": []
+    },
+    {
+      "id": "shahibaug",
+      "name": "Shahibaug",
+      "category": "place",
+      "subcategory": "city",
+      "description": "The area in Ahmedabad where Swaminarayan Aksharpith publisher is located.",
+      "aliases": []
+    },
+    {
+      "id": "shirohi",
+      "name": "Shirohi",
+      "category": "place",
+      "subcategory": "region",
+      "description": "A region in present-day Rajasthan where Brahmanand Swami was born and where the royal court was located.",
+      "aliases": [
+        "Shirohi region"
+      ],
+      "chapter": 1
+    },
+    {
+      "id": "shvetdvip",
+      "name": "Shvetdvip",
+      "category": "place",
+      "subcategory": "region",
+      "description": "One of the divine abodes offered by Maharaj to Jhinabhai as a destination after death.",
+      "aliases": [],
+      "chapter": 4
+    },
+    {
+      "id": "sorath",
+      "name": "Sorath",
+      "category": "place",
+      "subcategory": "region",
+      "description": "A region in Gujarat where Bhagwan Swaminarayan came after traveling across India.",
+      "aliases": []
+    },
+    {
+      "id": "sorath_region",
+      "name": "Sorath Region",
+      "category": "place",
+      "subcategory": "region",
+      "description": "A geographical area for whose devotees Jhinabhai requested that a mandir be built in Junagadh.",
+      "aliases": [],
+      "chapter": 4
+    },
+    {
+      "id": "stable",
+      "name": "stable",
+      "category": "place",
+      "subcategory": "building",
+      "description": "The place where Maharaj's horse rested, covered by thick growth of a banyan tree, where Joban attempted the theft.",
+      "aliases": []
+    },
+    {
+      "id": "surat",
+      "name": "Surat",
+      "category": "place",
+      "subcategory": "city",
+      "description": "A city where Brahmanand Swami went to study Sanskrit in Munibawa's ashram and where Maharaj was later invited.",
+      "aliases": [],
+      "chapter": 1
+    },
+    {
+      "id": "umreth",
+      "name": "Umreth",
+      "category": "place",
+      "subcategory": "city",
+      "description": "A place from where the yogi (Nilkanth Varni) came to Vartal.",
+      "aliases": []
+    },
+    {
+      "id": "unmatt_ganga",
+      "name": "Unmatt Ganga",
+      "category": "place",
+      "subcategory": "region",
+      "description": "Another name for the River Ghela where Bhagwan Swaminarayan met Jivuba.",
+      "aliases": [
+        "River Ghela"
+      ],
+      "chapter": 6
+    },
+    {
+      "id": "vadhwan",
+      "name": "Vadhwan",
+      "category": "place",
+      "subcategory": "city",
+      "description": "Location of a mandir where Akshar-Purushottam murtis were installed with Ashabhai's help in preparations.",
+      "aliases": []
+    },
+    {
+      "id": "vadhwan_mandir",
+      "name": "Vadhwan mandir",
+      "category": "place",
+      "subcategory": "mandir",
+      "description": "A temple where Akshar-Purushottam murtis were installed with preparations assisted by Ashabhai.",
+      "aliases": []
+    },
+    {
+      "id": "vadodara",
+      "name": "Vadodara",
+      "category": "place",
+      "subcategory": "city",
+      "description": "A kingdom that Maharaj mentioned as one of the worldly offerings he could give Jhinabhai, before offering the superior Akshardham.",
+      "aliases": [],
+      "chapter": 4
+    },
+    {
+      "id": "vadodara_mandir",
+      "name": "Vadodara mandir",
+      "category": "place",
+      "subcategory": "mandir",
+      "description": "The temple in Vadodara where Jethabhai met Shastri Yagnapurushdasji and came daily.",
+      "aliases": []
+    },
+    {
+      "id": "vaikunth",
+      "name": "Vaikunth",
+      "category": "place",
+      "subcategory": "region",
+      "description": "One of the divine abodes offered by Maharaj to Jhinabhai as a destination after death.",
+      "aliases": [],
+      "chapter": 4
+    },
+    {
+      "id": "vartal",
+      "name": "Vartal",
+      "category": "place",
+      "subcategory": "city",
+      "description": "A village where Maharaj celebrated Holi festival at Joban's request and where a mandir was built. Joban's home was located here.",
+      "aliases": []
+    },
+    {
+      "id": "vartal_mandir",
+      "name": "Vartal mandir",
+      "category": "place",
+      "subcategory": "mandir",
+      "description": "A temple in Vartal for which Maharaj performed the groundbreaking ceremony in April 1822 and which Joban helped construct.",
+      "aliases": []
+    },
+    {
+      "id": "vaso",
+      "name": "Vaso",
+      "category": "place",
+      "subcategory": "city",
+      "description": "A village where Joban Pagi visited and where Kashiyabhai lived, who was amazed at Joban's transformation.",
+      "aliases": [],
+      "chapter": 4
+    }
+  ],
+  "metadata": {
+    "extractedAt": "2026-01-25T18:35:19.855Z",
+    "sourceFile": "SatsangReaderPart1.txt",
+    "totalEntities": 588
+  }
+}

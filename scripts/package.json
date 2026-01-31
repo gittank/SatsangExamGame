@@ -1,0 +1,26 @@
+{
+  "name": "sse-master-mind-scripts",
+  "version": "1.0.0",
+  "description": "Seeding scripts for SSE Master Mind - 20 Questions Game",
+  "type": "module",
+  "scripts": {
+    "extract-entities": "tsx extract_entities.ts",
+    "extract-exam-questions": "tsx extract_exam_questions.ts",
+    "build-embeddings": "tsx build_embeddings.ts",
+    "find-answers": "tsx find_answers.ts",
+    "create-binary-questions": "tsx create_binary_questions.ts",
+    "generate-matrix": "tsx generate_matrix.ts",
+    "build-tree": "tsx build_tree.ts",
+    "validate-tree": "tsx validate_tree.ts",
+    "seed-all": "tsx seed_all.ts"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.18.0",
+    "sql.js": "^1.13.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.16",
+    "tsx": "^4.7.0",
+    "typescript": "^5.3.3"
+  }
+}

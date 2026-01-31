@@ -1,0 +1,10 @@
+node_modules/
+dist/
+*.db
+anthropic_api_key
+.env
+.env.*
+.DS_Store
+20q-reference/
+pravesh/
+archive/

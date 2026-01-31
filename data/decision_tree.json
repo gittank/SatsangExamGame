@@ -1,0 +1,647 @@
+{
+  "tree": {
+    "type": "question",
+    "questionId": 16,
+    "questionText": "Did this person meet Bhagwan Swaminarayan directly?",
+    "yesChild": {
+      "type": "question",
+      "questionId": 104,
+      "questionText": "Did this person never doubt the divine actions of Maharaj?",
+      "yesChild": {
+        "type": "question",
+        "questionId": 145,
+        "questionText": "Have this person's compositions become popular in the Sampraday?",
+        "yesChild": {
+          "type": "question",
+          "questionId": 45,
+          "questionText": "Did this person accept a life of renunciation because of his boundless sentiment towards Shastriji Maharaj's Sanstha?",
+          "yesChild": {
+            "type": "question",
+            "questionId": 14,
+            "questionText": "Is this associated with poetry or writing?",
+            "yesChild": {
+              "type": "question",
+              "questionId": 22,
+              "questionText": "Did this person write Satsangijivan Hetu Tika?",
+              "yesChild": {
+                "type": "question",
+                "questionId": 60,
+                "questionText": "Were this person's eyes opened when listening to Yagnapurushdasji speak about Akshar-Purushottam?",
+                "yesChild": {
+                  "type": "question",
+                  "questionId": 5,
+                  "questionText": "Is this a sadhu (monk/saint)?",
+                  "yesChild": {
+                    "type": "entity",
+                    "entityId": "premanand_swami"
+                  },
+                  "noChild": {
+                    "type": "entity",
+                    "entityId": "dalpatram"
+                  }
+                },
+                "noChild": {
+                  "type": "question",
+                  "questionId": 11,
+                  "questionText": "Is this in Gujarat?",
+                  "yesChild": {
+                    "type": "question",
+                    "questionId": 13,
+                    "questionText": "Is this associated with music, singing, or raag?",
+                    "yesChild": {
+                      "type": "question",
+                      "questionId": 15,
+                      "questionText": "Is this associated with building or construction?",
+                      "yesChild": {
+                        "type": "entity",
+                        "entityId": "acharya_maharaj"
+                      },
+                      "noChild": {
+                        "type": "entity",
+                        "entityId": "jagannath"
+                      }
+                    },
+                    "noChild": {
+                      "type": "empty"
+                    }
+                  },
+                  "noChild": {
+                    "type": "empty"
+                  }
+                }
+              },
+              "noChild": {
+                "type": "question",
+                "questionId": 5,
+                "questionText": "Is this a sadhu (monk/saint)?",
+                "yesChild": {
+                  "type": "entity",
+                  "entityId": "dayanand_swami"
+                },
+                "noChild": {
+                  "type": "entity",
+                  "entityId": "jhinabhai_darbar"
+                }
+              }
+            },
+            "noChild": {
+              "type": "entity",
+              "entityId": "kamalshi_vanjha"
+            }
+          },
+          "noChild": {
+            "type": "question",
+            "questionId": 54,
+            "questionText": "Did this person's compositions become popular because they use simple language and everyday examples to explain spiritual teachings?",
+            "yesChild": {
+              "type": "question",
+              "questionId": 11,
+              "questionText": "Is this in Gujarat?",
+              "yesChild": {
+                "type": "question",
+                "questionId": 13,
+                "questionText": "Is this associated with music, singing, or raag?",
+                "yesChild": {
+                  "type": "question",
+                  "questionId": 15,
+                  "questionText": "Is this associated with building or construction?",
+                  "yesChild": {
+                    "type": "question",
+                    "questionId": 18,
+                    "questionText": "Is this related to BAPS Swaminarayan Sanstha?",
+                    "yesChild": {
+                      "type": "entity",
+                      "entityId": "devidan"
+                    },
+                    "noChild": {
+                      "type": "entity",
+                      "entityId": "brahmanand_swami"
+                    }
+                  },
+                  "noChild": {
+                    "type": "empty"
+                  }
+                },
+                "noChild": {
+                  "type": "entity",
+                  "entityId": "devanand_swami"
+                }
+              },
+              "noChild": {
+                "type": "entity",
+                "entityId": "bhumanand_swami"
+              }
+            },
+            "noChild": {
+              "type": "question",
+              "questionId": 5,
+              "questionText": "Is this a sadhu (monk/saint)?",
+              "yesChild": {
+                "type": "question",
+                "questionId": 19,
+                "questionText": "Was this person originally from a different faith or background before joining Satsang?",
+                "yesChild": {
+                  "type": "entity",
+                  "entityId": "manjukeshanand_swami"
+                },
+                "noChild": {
+                  "type": "entity",
+                  "entityId": "shukanand_swami"
+                }
+              },
+              "noChild": {
+                "type": "entity",
+                "entityId": "merai_devotee"
+              }
+            }
+          }
+        },
+        "noChild": {
+          "type": "question",
+          "questionId": 131,
+          "questionText": "Did this person maintain celibate vows despite being married?",
+          "yesChild": {
+            "type": "question",
+            "questionId": 79,
+            "questionText": "Did this person pray to be taken to Akshardham in their last moments?",
+            "yesChild": {
+              "type": "question",
+              "questionId": 7,
+              "questionText": "Is this a female?",
+              "yesChild": {
+                "type": "question",
+                "questionId": 18,
+                "questionText": "Is this related to BAPS Swaminarayan Sanstha?",
+                "yesChild": {
+                  "type": "entity",
+                  "entityId": "adiba"
+                },
+                "noChild": {
+                  "type": "question",
+                  "questionId": 24,
+                  "questionText": "Did this person say 'I want to observe celibacy and devote myself to the Lord' to her mother-in-law Raibai?",
+                  "yesChild": {
+                    "type": "entity",
+                    "entityId": "jivuba"
+                  },
+                  "noChild": {
+                    "type": "entity",
+                    "entityId": "laduba"
+                  }
+                }
+              },
+              "noChild": {
+                "type": "question",
+                "questionId": 14,
+                "questionText": "Is this associated with poetry or writing?",
+                "yesChild": {
+                  "type": "entity",
+                  "entityId": "hathisinh"
+                },
+                "noChild": {
+                  "type": "entity",
+                  "entityId": "royal_goldsmith"
+                }
+              }
+            },
+            "noChild": {
+              "type": "entity",
+              "entityId": "gangaba"
+            }
+          },
+          "noChild": {
+            "type": "question",
+            "questionId": 5,
+            "questionText": "Is this a sadhu (monk/saint)?",
+            "yesChild": {
+              "type": "entity",
+              "entityId": "ramanand_swami"
+            },
+            "noChild": {
+              "type": "question",
+              "questionId": 19,
+              "questionText": "Was this person originally from a different faith or background before joining Satsang?",
+              "yesChild": {
+                "type": "entity",
+                "entityId": "sundar_pagi"
+              },
+              "noChild": {
+                "type": "question",
+                "questionId": 90,
+                "questionText": "Did this person say 'Can't these rafters and bamboos be removed?' to Dada Khachar?",
+                "yesChild": {
+                  "type": "entity",
+                  "entityId": "dada_khachar"
+                },
+                "noChild": {
+                  "type": "entity",
+                  "entityId": "bhaguji"
+                }
+              }
+            }
+          }
+        }
+      },
+      "noChild": {
+        "type": "question",
+        "questionId": 6,
+        "questionText": "Is this a devotee (householder/layperson)?",
+        "yesChild": {
+          "type": "question",
+          "questionId": 19,
+          "questionText": "Was this person originally from a different faith or background before joining Satsang?",
+          "yesChild": {
+            "type": "question",
+            "questionId": 59,
+            "questionText": "Did this person say 'Please have pity on me. Please free me from my sins.' to Shriji Maharaj?",
+            "yesChild": {
+              "type": "entity",
+              "entityId": "joban_pagi"
+            },
+            "noChild": {
+              "type": "question",
+              "questionId": 140,
+              "questionText": "Did this person mistake Brahmanand Swami for Bhagwan Swaminarayan during their first meeting?",
+              "yesChild": {
+                "type": "entity",
+                "entityId": "khaiyo_khatri"
+              },
+              "noChild": {
+                "type": "entity",
+                "entityId": "ardeshar_kotwal"
+              }
+            }
+          },
+          "noChild": {
+            "type": "question",
+            "questionId": 7,
+            "questionText": "Is this a female?",
+            "yesChild": {
+              "type": "entity",
+              "entityId": "raibai"
+            },
+            "noChild": {
+              "type": "question",
+              "questionId": 14,
+              "questionText": "Is this associated with poetry or writing?",
+              "yesChild": {
+                "type": "entity",
+                "entityId": "naja_jogia"
+              },
+              "noChild": {
+                "type": "question",
+                "questionId": 18,
+                "questionText": "Is this related to BAPS Swaminarayan Sanstha?",
+                "yesChild": {
+                  "type": "entity",
+                  "entityId": "bhagatji_maharaj"
+                },
+                "noChild": {
+                  "type": "question",
+                  "questionId": 29,
+                  "questionText": "Did this person say 'Has he not thus turned an ass into a cow?' when questioning Joban Pagi about his transformation?",
+                  "yesChild": {
+                    "type": "entity",
+                    "entityId": "kashiyabhai"
+                  },
+                  "noChild": {
+                    "type": "question",
+                    "questionId": 78,
+                    "questionText": "Did this person barge into a room with a sword and accuse someone of hiding a bawa in the darbar?",
+                    "yesChild": {
+                      "type": "entity",
+                      "entityId": "abhal_khachar"
+                    },
+                    "noChild": {
+                      "type": "entity",
+                      "entityId": "somla_khachar"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "noChild": {
+          "type": "question",
+          "questionId": 15,
+          "questionText": "Is this associated with building or construction?",
+          "yesChild": {
+            "type": "question",
+            "questionId": 5,
+            "questionText": "Is this a sadhu (monk/saint)?",
+            "yesChild": {
+              "type": "question",
+              "questionId": 14,
+              "questionText": "Is this associated with poetry or writing?",
+              "yesChild": {
+                "type": "entity",
+                "entityId": "nishkulanand_swami"
+              },
+              "noChild": {
+                "type": "entity",
+                "entityId": "nityanand_swami"
+              }
+            },
+            "noChild": {
+              "type": "entity",
+              "entityId": "bhagwan_swaminarayan"
+            }
+          },
+          "noChild": {
+            "type": "question",
+            "questionId": 14,
+            "questionText": "Is this associated with poetry or writing?",
+            "yesChild": {
+              "type": "question",
+              "questionId": 19,
+              "questionText": "Was this person originally from a different faith or background before joining Satsang?",
+              "yesChild": {
+                "type": "entity",
+                "entityId": "munibawa"
+              },
+              "noChild": {
+                "type": "entity",
+                "entityId": "muktanand_swami"
+              }
+            },
+            "noChild": {
+              "type": "question",
+              "questionId": 5,
+              "questionText": "Is this a sadhu (monk/saint)?",
+              "yesChild": {
+                "type": "question",
+                "questionId": 18,
+                "questionText": "Is this related to BAPS Swaminarayan Sanstha?",
+                "yesChild": {
+                  "type": "entity",
+                  "entityId": "gunatitanand_swami"
+                },
+                "noChild": {
+                  "type": "entity",
+                  "entityId": "akhandanand_swami"
+                }
+              },
+              "noChild": {
+                "type": "entity",
+                "entityId": "king_vakhatsinh"
+              }
+            }
+          }
+        }
+      }
+    },
+    "noChild": {
+      "type": "question",
+      "questionId": 15,
+      "questionText": "Is this associated with building or construction?",
+      "yesChild": {
+        "type": "question",
+        "questionId": 38,
+        "questionText": "Did this person say 'This loss has come in the way of our work' about the fire at this person's home?",
+        "yesChild": {
+          "type": "entity",
+          "entityId": "shastriji_maharaj"
+        },
+        "noChild": {
+          "type": "question",
+          "questionId": 104,
+          "questionText": "Did this person never doubt the divine actions of Maharaj?",
+          "yesChild": {
+            "type": "entity",
+            "entityId": "yogiji_maharaj"
+          },
+          "noChild": {
+            "type": "entity",
+            "entityId": "pramukh_swami_maharaj"
+          }
+        }
+      },
+      "noChild": {
+        "type": "question",
+        "questionId": 17,
+        "questionText": "Is this from the modern era (after 1900)?",
+        "yesChild": {
+          "type": "question",
+          "questionId": 5,
+          "questionText": "Is this a sadhu (monk/saint)?",
+          "yesChild": {
+            "type": "question",
+            "questionId": 6,
+            "questionText": "Is this a devotee (householder/layperson)?",
+            "yesChild": {
+              "type": "entity",
+              "entityId": "yagnapriyadasji"
+            },
+            "noChild": {
+              "type": "question",
+              "questionId": 34,
+              "questionText": "Did this person take initiation into the sadhu fold because he was unable to part with Shastriji Maharaj?",
+              "yesChild": {
+                "type": "entity",
+                "entityId": "nirgundasji"
+              },
+              "noChild": {
+                "type": "entity",
+                "entityId": "mahant_swami_maharaj"
+              }
+            }
+          },
+          "noChild": {
+            "type": "question",
+            "questionId": 99,
+            "questionText": "Did this person arrange for money for murtis needed for Sarangpur mandir despite facing severe damage at Purushottarpura?",
+            "yesChild": {
+              "type": "entity",
+              "entityId": "motibhai"
+            },
+            "noChild": {
+              "type": "entity",
+              "entityId": "krishnaji_ada"
+            }
+          }
+        },
+        "noChild": {
+          "type": "entity",
+          "entityId": "jaga_bhagat"
+        }
+      }
+    }
+  },
+  "questionMap": {
+    "1": "Is this a person?",
+    "2": "Is this an object or item?",
+    "3": "Is this a concept or religious term?",
+    "4": "Is this an event or incident?",
+    "5": "Is this a sadhu (monk/saint)?",
+    "6": "Is this a devotee (householder/layperson)?",
+    "7": "Is this a female?",
+    "8": "Is this a deity or divine figure?",
+    "9": "Is this a mandir (temple)?",
+    "10": "Is this a city or town?",
+    "11": "Is this in Gujarat?",
+    "12": "Is this from the glossary section?",
+    "13": "Is this associated with music, singing, or raag?",
+    "14": "Is this associated with poetry or writing?",
+    "15": "Is this associated with building or construction?",
+    "16": "Did this person meet Bhagwan Swaminarayan directly?",
+    "17": "Is this from the modern era (after 1900)?",
+    "18": "Is this related to BAPS Swaminarayan Sanstha?",
+    "19": "Was this person originally from a different faith or background before joining Satsang?",
+    "20": "Was this person a disciple of Devanand Swami?",
+    "21": "Did this person write Shikshapatri Anvayarth Tika?",
+    "22": "Did this person write Satsangijivan Hetu Tika?",
+    "23": "Did this person celebrate the Holi Festival in this location because of Joban Pagi's request?",
+    "24": "Did this person say 'I want to observe celibacy and devote myself to the Lord' to her mother-in-law Raibai?",
+    "25": "Did this person say 'Maharaj, I was composing poems not dozing' when caught appearing to doze during an assembly?",
+    "26": "Did this person compose Narayan Kavach?",
+    "27": "Was Kaveeshwar Dalpatram a student of this poet?",
+    "28": "Did this person lift Kamalshi's cot on his shoulder when Kamalshi was too weak to walk?",
+    "29": "Did this person say 'Has he not thus turned an ass into a cow?' when questioning Joban Pagi about his transformation?",
+    "30": "Did this person say 'To have served my sadhu was as good as having served me'?",
+    "31": "Did this person say 'This Jogi Maharaj is a great sadhu who cannot be easily known in his true features'?",
+    "32": "Did this person request Maharaj to make him a sadhu after being moved by Jivuba's spiritual wisdom?",
+    "33": "Are this person's kirtans famous as 'lashes'?",
+    "34": "Did this person take initiation into the sadhu fold because he was unable to part with Shastriji Maharaj?",
+    "35": "Did this person compile the Vachanamrut and Satsangijivan scriptures?",
+    "36": "Was this person called by the names Motiba and Punamatiba?",
+    "37": "Did this person say 'His importance is not dependent on the seat' about this person?",
+    "38": "Did this person say 'This loss has come in the way of our work' about the fire at this person's home?",
+    "39": "Did this person write the Shikshapatri Anvayarth Tika and Satsangijivan Hetu Tika?",
+    "40": "Was this person envious of Swaminarayan in Vaso?",
+    "41": "Did this person speak about following dharma according to his commands when asking this person for assistance with Vartal mandir construction?",
+    "42": "Did this person say 'I want to observe celibacy and devote myself to the worship of God' to her mother-in-law Raibai?",
+    "43": "Did this person ask for money for murtis required from Jaipur for Sarangpur mandir when Ashabhai's house and wealth were reduced to ashes?",
+    "44": "Did this person give Ladudanji the name Shrirangdas when initiating him into the sadhu fold?",
+    "45": "Did this person accept a life of renunciation because of his boundless sentiment towards Shastriji Maharaj's Sanstha?",
+    "46": "Did this person stop talking to his sister because she lied about having pepper available for Kamalshibhai?",
+    "47": "Did this person enlighten Jethabhai about the Akshar and Purushottam principle?",
+    "48": "Are this person's compositions popularly known as 'the lashes' of Devanand Swami?",
+    "49": "Did this person say 'If he does not become your devotee you will not look after him even if I ask you to' when speaking about his son Hathisinh?",
+    "50": "Was this person deeply pained because his entire home was destroyed in a fire caused by his young son dropping a burning matchstick?",
+    "51": "Did this person often quote the verse 'Re rang sahit Harine ratie' by Brahmanand?",
+    "52": "Did Bhagatji say 'I want to make you well today. Come, let me take you in my arms' to Jethabhai?",
+    "53": "Did this person question Joban Pagi about what he saw in Swaminarayan that made him walk proudly with a tilak mark?",
+    "54": "Did this person's compositions become popular because they use simple language and everyday examples to explain spiritual teachings?",
+    "55": "Did this person consecrate his own murti at Vartal mandir?",
+    "56": "Was this person known as Motiba because she was Abhal Khachar's eldest child?",
+    "57": "Was this person also called Punamatiba because she was born on the day of punam?",
+    "58": "Did this person say 'Lose some weight. Fast a bit.' to this person?",
+    "59": "Did this person say 'Please have pity on me. Please free me from my sins.' to Shriji Maharaj?",
+    "60": "Were this person's eyes opened when listening to Yagnapurushdasji speak about Akshar-Purushottam?",
+    "61": "Did this person call this person a true yati after he calmed an untamed horse in Junagadh?",
+    "62": "Were cotton, grams, wheat and other crops burnt when this person's home caught fire?",
+    "63": "Did this person pray 'Please forgive me if I have ever done anything wrong... Now take me to Akshardham' to Shastriji Maharaj?",
+    "64": "Did this person say 'If he becomes your devotee, you will look after him, whether I ask you to or not' about his son Hathisinh?",
+    "65": "Did this person personally lift this person's bier to honor their selfless devotion?",
+    "66": "Did this person explain the Akshar Purushottam upasana to Jethabhai of Pij?",
+    "67": "Did this person say 'They are pleased by the building of Akshar Purushottam mandirs'?",
+    "68": "Did this person offer dandvats on the outskirts of Mahuva to avoid being seen by sadhus and brahmacharis?",
+    "69": "Did this person help carry sick Kamalshi's cot as a fourth laborer despite being a respected darbar?",
+    "70": "Did this person go to Pune to rob?",
+    "71": "Did this person teach the famous poet Dalpatram?",
+    "72": "Did this person say 'Gunatitanand Swami's greatness is not due to the seat. He is eternally great.'?",
+    "73": "Did this person ask for forgiveness and to be taken to Akshardham in their final moments?",
+    "74": "Did this person ask Shriji Maharaj to keep them forever in service like Bhaguj?",
+    "75": "Was this person named Mota Swami after initiation?",
+    "76": "Did this person ask 'Where did this pepper come from?' to their sister Adiba?",
+    "77": "Did this person say 'Take this sukhdi and use it today to freshen your mouth.' to Shuk Muni?",
+    "78": "Did this person barge into a room with a sword and accuse someone of hiding a bawa in the darbar?",
+    "79": "Did this person pray to be taken to Akshardham in their last moments?",
+    "80": "Did this person say 'The ash has run out' which caused their husband to pass away instantly?",
+    "81": "Did this person accept the life of renunciation despite being wealthy and having an expanding family with grandchildren?",
+    "82": "Did this person say 'Do you still want to see a miracle?'?",
+    "83": "Did this person test Swaminarayan's divinity by demanding four specific wishes be fulfilled?",
+    "84": "Did this person want Maharaj to place a rose garland around his neck and show the 16 divine signs on his feet?",
+    "85": "Did this person apologize to this person after witnessing a divine darshan during her worship?",
+    "86": "Did this person understand this person's greatness as Akshar after Maharaj revealed it to him many times?",
+    "87": "Did this person often go to stay with Gunatitanand Swami in Junagadh after Maharaj passed away?",
+    "88": "Did Bhagatji say 'I want to make you well today, come, let me take' to this person?",
+    "89": "Did this person's spirit fade away to Akshardham after experiencing shock when told the sacred ash had run out?",
+    "90": "Did this person say 'Can't these rafters and bamboos be removed?' to Dada Khachar?",
+    "91": "Did this person return shivering after bathing in the River Ghela, prompting Maharaj to want to make a fire?",
+    "92": "Did this person say 'To have served my sadhu is as good as having' in reference to Jivuba's selfless seva?",
+    "93": "Did this person leave Vadtal Mandir because he was unable to part with Shastriji Maharaj?",
+    "94": "Did this person break his ekadashi fast by eating sukhdi before completing his morning worship rituals?",
+    "95": "Was this person also known by the names Motiba, Punamatiba, and Jaya?",
+    "96": "Did Swamishri say 'Your intellect, knowledge and ability will shine only in saffron clothes' to this person?",
+    "97": "Did this person have the exceptional skill of instantly composing poems even while dozing?",
+    "98": "Did this person transform from being the most-wanted bandit to a devotee of Swaminarayan?",
+    "99": "Did this person arrange for money for murtis needed for Sarangpur mandir despite facing severe damage at Purushottarpura?",
+    "100": "Was this person married to Hathiya Patgar, son of Amara Patgar of Kundala?",
+    "101": "Was this person born in Mumbai?",
+    "102": "Did this person's wife say 'It (ash) is exhausted' when asked about ash?",
+    "103": "Did this person stop talking with his sister Adiba because she claimed there was pepper in the house when it was needed for serving Kamalshibhai?",
+    "104": "Did this person never doubt the divine actions of Maharaj?",
+    "105": "Did this person supervise the construction of the first mandir in Ahmedabad and obtain an unlimited deed from General Gordon?",
+    "106": "Did this person decide to set up an establishment with mandirs, sadhus, and scriptures in Vartal?",
+    "107": "Did this person take bhagwati diksha in Samvat 1953 at the behest of Bhagatji Maharaj?",
+    "108": "Did this person write 'Saheb sarikha shethiya...' to Maharaj?",
+    "109": "Did this person say 'Otherwise I shall cut you into pieces with this sword' to his daughter Jivuba?",
+    "110": "Did this person say 'Can't these rafters and bamboos supporting the roof be removed?' when Shuk Muni returned shivering from bathing in River Ghela?",
+    "111": "Did this person break his fast by eating sukhdi after staying up all night writing a letter?",
+    "112": "Did this person break his fast at River Ghela?",
+    "113": "Was this person amazed to see Joban Pagi transformed from a bandit to a devotee?",
+    "114": "Did this person walk around with a tilak-chandlo on his forehead and a mala around his neck after transformation?",
+    "115": "Is Sundar Pagi one of this person's brothers?",
+    "116": "Did this person tell her mother-in-law 'I wish to remain celibate and worship God'?",
+    "117": "Did this person insist that Shriji Maharaj's female devotees accompany Maharaj from Gadhada to Panchala?",
+    "118": "Are Motiba, Punamatiba and Jaya other names for this person?",
+    "119": "Did this person receive bhagwati diksha on Vasant Panchmi, Samvat 1962?",
+    "120": "Did Acharya Kunjavihariprasadji Maharaj of Vadhwan give diksha to this person?",
+    "121": "Did this person entrust the responsibility of completing the Atladra Mandir to this person?",
+    "122": "Did this person transform this person from being the most-wanted bandit by putting a kanthi around his neck?",
+    "123": "Did this person embrace Jethabhai after reading his thoughts about feeling better?",
+    "124": "Did this person say 'I want to make you better today' before embracing someone?",
+    "125": "Did this person learn pingal shastra from Brahmanand Swami?",
+    "126": "Did this person go to Khodiyar Mata?",
+    "127": "Did this person become a 'Kavishwar' (great poet) with blessings?",
+    "128": "Did this person write the commentary on the Shikshapatri?",
+    "129": "Did this person avoid reading letters from home to maintain his spiritual peace?",
+    "130": "Was this person married to Hathiya Patgar of Kundal?",
+    "131": "Did this person maintain celibate vows despite being married?",
+    "132": "Did this person request only a mandir in the Sorath region when asked what he wanted for himself?",
+    "133": "Are this person's compositions popularly known as 'lashes'?",
+    "134": "Did this person write the Sati Gita?",
+    "135": "Did this person learn music from Premanand Swami?",
+    "136": "Did this person celebrate Holi at Vartal because he was pleased with Joban Pagi's service?",
+    "137": "Did this person say 'My dear child, whom are you worshipping?' to his daughter Jivuba?",
+    "138": "Did this person offer sukhdi to Shukmuni to break his ekadashi fast?",
+    "139": "Did this person sit in Bhagwan Swaminarayan's place during the debate with Khaiyo Khatri?",
+    "140": "Did this person mistake Brahmanand Swami for Bhagwan Swaminarayan during their first meeting?",
+    "141": "Did this person insist on bringing female devotees from Gadhada to Panchala against Maharaj's wishes?",
+    "142": "Was this person always by Shastriji Maharaj's side during satsang activities?",
+    "143": "Did this famous Indian poet become Devanand Swami's disciple after listening to his kirtans?",
+    "144": "Did this person prepare sanjivani medicine for Maharaj?",
+    "145": "Have this person's compositions become popular in the Sampraday?",
+    "146": "Did this person compose the Hari Gita?",
+    "147": "Did this person say 'His greatness is not due to the seat' to Shuk Muni about Gunatitanand Swami?",
+    "148": "In the Sarvamangal Stotra, does the name 'Hemantarchastutipritay Namaha' pay tribute to Maharaj's affection for this person?",
+    "149": "Did this person write the Shikshapatri Anvayarth Tika?",
+    "150": "Did Shivji say 'Sarasvati, the goddess of learning, will reside in your heart' to this person?",
+    "151": "Did this person say 'You still wish to see a miracle?' to Kashiyabhai?",
+    "152": "Did this person say 'You're hiding a bawa in the darbar!' to Jivuba?",
+    "153": "Did this person say 'My dear child, who is this that you worship?' to Jivuba?",
+    "154": "Did this person work in Khandesh to keep devotees engaged with Swamishri?",
+    "155": "Did this person write the Updesh Chintamani Chandravala?",
+    "156": "Did this person give Shukmuni sukhdi to freshen his mouth and break his ekadashi fast?",
+    "157": "Did this person ask for a mandir to be built in Junagadh for the devotees of the Sorath region?",
+    "158": "Did this person say 'If five footsteps of kumkum show up at the entrance to your home tomorrow, believe what' to a Merai devotee?",
+    "159": "Did this person refuse to read letters from home because it would disturb his peace while doing satsang?",
+    "160": "Is this person's affection remembered in the 'Sarvamangal Stotra' through the name 'Hemantãrchã-stuti-pritãya Namaha'?",
+    "161": "Did this person often sing the bhajan 'Re rang sahit Harine ratie, re hãk vãge pãchhã nav hathie'?",
+    "162": "Did this person make a deed for land in Ahmedabad from General Gordon?",
+    "163": "Did this person say 'I wish to remain celibate and worship God' to her mother-in-law Raibai?",
+    "164": "Did this person become closer to Shastriji Maharaj after witnessing his departure from Vartal mandir?",
+    "165": "Did this person come down from her chariot and walk barefooted after seeing Akhandanand Swami suffering from diarrhea?",
+    "166": "Did this person think 'How nice it would be if such a yogi were to stay with us' when bowing down before a great yogi?"
+  },
+  "metadata": {
+    "builtAt": "2026-01-28T20:00:52.724Z",
+    "algorithm": "ID3 with priority-weighted question selection",
+    "totalEntities": 50,
+    "totalQuestions": 166,
+    "maxDepth": 10,
+    "avgDepth": 6.48
+  }
+}

@@ -1,0 +1,2673 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "text": "Who was the poet, Dalpatram, a disciple of ?",
+      "type": "short_answer",
+      "questionNumber": "Q.10.1",
+      "sourceFile": "pravesh-1-Feb1998.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 2,
+      "text": "What boon did Bhagatji Maharaj bestow upon",
+      "type": "short_answer",
+      "questionNumber": "Q.10.2",
+      "sourceFile": "pravesh-1-Feb1998.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 3,
+      "text": "What three things had been very helpful to",
+      "type": "short_answer",
+      "questionNumber": "Q.10.4",
+      "sourceFile": "pravesh-1-Feb1998.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 4,
+      "text": "Who initiated Vipra Jagannath ?",
+      "type": "short_answer",
+      "questionNumber": "Q.10.5",
+      "sourceFile": "pravesh-1-Feb1998.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 5,
+      "text": "Name any two of Brahmanand Swami's literary",
+      "type": "short_answer",
+      "questionNumber": "Q.10.6",
+      "sourceFile": "pravesh-1-Feb1998.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 6,
+      "text": "\"I want to observe celibacy and devote myself",
+      "type": "who_said",
+      "questionNumber": "Q.7.1",
+      "sourceFile": "pravesh-1-Feb1998.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 7,
+      "text": "\"This smaller sadhu sitting on the ground is the",
+      "type": "who_said",
+      "questionNumber": "Q.7.2",
+      "sourceFile": "pravesh-1-Feb1998.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 8,
+      "text": "\"I shall be going away to dham (to God's",
+      "type": "who_said",
+      "questionNumber": "Q.7.3",
+      "sourceFile": "pravesh-1-Feb1998.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 9,
+      "text": "I had written it just to please Maharaj.",
+      "type": "who_said",
+      "questionNumber": "Q.7.4",
+      "sourceFile": "pravesh-1-Feb1998.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 10,
+      "text": "Maharaj celebrated the Holi Festival in Vadtal.",
+      "type": "give_reasons",
+      "questionNumber": "Q.8.1",
+      "sourceFile": "pravesh-1-Feb1998.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 11,
+      "text": "Maharaj soon recovered from His illness in",
+      "type": "give_reasons",
+      "questionNumber": "Q.8.2",
+      "sourceFile": "pravesh-1-Feb1998.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 12,
+      "text": "Shastriji Maharaj was greatly pleased with",
+      "type": "give_reasons",
+      "questionNumber": "Q.8.3",
+      "sourceFile": "pravesh-1-Feb1998.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 13,
+      "text": "The haribhaktas felt deep respect and",
+      "type": "give_reasons",
+      "questionNumber": "Q.8.4",
+      "sourceFile": "pravesh-1-Feb1998.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 14,
+      "text": "\"I want to obeserve celibacy and devote myself to the",
+      "type": "who_said",
+      "questionNumber": "Q.7.1",
+      "sourceFile": "pravesh-1-Feb1999.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 15,
+      "text": "Maharaj, I was composing poems not dozing.",
+      "type": "who_said",
+      "questionNumber": "Q.7.2",
+      "sourceFile": "pravesh-1-Feb1999.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 16,
+      "text": "\"I had written it just to please Maharaj, and He pleased",
+      "type": "who_said",
+      "questionNumber": "Q.7.3",
+      "sourceFile": "pravesh-1-Feb1999.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 17,
+      "text": "It is not wise to show devotion out of frustration.",
+      "type": "who_said",
+      "questionNumber": "Q.7.4",
+      "sourceFile": "pravesh-1-Feb1999.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 18,
+      "text": "Gunatitanand Swami explains the greatness of",
+      "type": "give_reasons",
+      "questionNumber": "Q.8.2",
+      "sourceFile": "pravesh-1-Feb1999.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 19,
+      "text": "Ashabhai's understanding.",
+      "type": "give_reasons",
+      "questionNumber": "Q.8.3",
+      "sourceFile": "pravesh-1-Feb1999.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 20,
+      "text": "Naja Jogia often remembered Jheenabhai before Maharaj.",
+      "type": "give_reasons",
+      "questionNumber": "Q.9.1",
+      "sourceFile": "pravesh-1-Feb2000.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 21,
+      "text": "Joban Pagi wept profusely and wet Maharaj’s feet with tears.",
+      "type": "give_reasons",
+      "questionNumber": "Q.9.2",
+      "sourceFile": "pravesh-1-Feb2000.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 22,
+      "text": "Jeevuba walked from Kariyani to Gadhada.",
+      "type": "give_reasons",
+      "questionNumber": "Q.9.3",
+      "sourceFile": "pravesh-1-Feb2000.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 23,
+      "text": "Narayan Kavach was composed by Shukanand Swami.",
+      "type": "give_reasons",
+      "questionNumber": "Q.9.1",
+      "sourceFile": "pravesh-1-Feb2000.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 24,
+      "text": "Maharaj! Why did you strike me",
+      "type": "give_reasons",
+      "questionNumber": "Q.9.2",
+      "sourceFile": "pravesh-1-Feb2000.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 25,
+      "text": "Kaveeshwar Dalpatram was a student of which poet?",
+      "type": "give_reasons",
+      "questionNumber": "Q.9.1",
+      "sourceFile": "pravesh-1-Feb2000.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 26,
+      "text": "Who gave darshan to Ashabhai in his dream and what was he told?",
+      "type": "give_reasons",
+      "questionNumber": "Q.9.2",
+      "sourceFile": "pravesh-1-Feb2000.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 27,
+      "text": "Who’s cot did Jheenabhai lift on his shoulder?",
+      "type": "give_reasons",
+      "questionNumber": "Q.9.3",
+      "sourceFile": "pravesh-1-Feb2000.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 28,
+      "text": "What did Maharaj offer Shukmuni to clean his mouth with?",
+      "type": "give_reasons",
+      "questionNumber": "Q.9.4",
+      "sourceFile": "pravesh-1-Feb2000.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 29,
+      "text": "“Take this sukhdi and clean your mouth with its fragrance.”",
+      "type": "who_said",
+      "questionNumber": "Q.7.1",
+      "sourceFile": "pravesh-1-Feb2001.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 30,
+      "text": "“This is our tilak and this is my ideal sadhu.”",
+      "type": "who_said",
+      "questionNumber": "Q.7.2",
+      "sourceFile": "pravesh-1-Feb2001.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 31,
+      "text": "“Has he not thus turned an ass into a cow?”",
+      "type": "who_said",
+      "questionNumber": "Q.7.3",
+      "sourceFile": "pravesh-1-Feb2001.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 32,
+      "text": "“To have served my sadhu was as good as having served me.”",
+      "type": "who_said",
+      "questionNumber": "Q.7.4",
+      "sourceFile": "pravesh-1-Feb2001.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 33,
+      "text": "“This Jogi Maharaj is a great sadhu who cannot be easily known in his true features.”",
+      "type": "who_said",
+      "questionNumber": "Q.7.5",
+      "sourceFile": "pravesh-1-Feb2001.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 34,
+      "text": "Jinabai stopped talking to Adiba.",
+      "type": "give_reasons",
+      "questionNumber": "Q.8.1",
+      "sourceFile": "pravesh-1-Feb2001.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 35,
+      "text": "Joban Pagi's spirit faded away.",
+      "type": "give_reasons",
+      "questionNumber": "Q.8.2",
+      "sourceFile": "pravesh-1-Feb2001.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 36,
+      "text": "Ladu Barot requested Maharaj to make him a sadhu.",
+      "type": "give_reasons",
+      "questionNumber": "Q.8.3",
+      "sourceFile": "pravesh-1-Feb2001.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 37,
+      "text": "By what name are Devanand Swami's kirtans famous?",
+      "type": "short_answer",
+      "questionNumber": "Q.10.1",
+      "sourceFile": "pravesh-1-Feb2001.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 38,
+      "text": "What did Jinabai ask from Maharaj?",
+      "type": "short_answer",
+      "questionNumber": "Q.10.2",
+      "sourceFile": "pravesh-1-Feb2001.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 39,
+      "text": "What three things of Dabhan were very useful to Maharaj?",
+      "type": "short_answer",
+      "questionNumber": "Q.10.3",
+      "sourceFile": "pravesh-1-Feb2001.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 40,
+      "text": "What did Ranchhodrai tell Ashabhai when he appeared in his dream?",
+      "type": "short_answer",
+      "questionNumber": "Q.10.4",
+      "sourceFile": "pravesh-1-Feb2001.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 41,
+      "text": "“Reduce your body. Observe fasts.”",
+      "type": "who_said",
+      "questionNumber": "Q.7.1",
+      "sourceFile": "pravesh-1-Feb2002.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 42,
+      "text": "“I had written it just to please Maharaj.”",
+      "type": "who_said",
+      "questionNumber": "Q.7.2",
+      "sourceFile": "pravesh-1-Feb2002.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 43,
+      "text": "“Such a wonderful service at a time of such personal crisis!”",
+      "type": "who_said",
+      "questionNumber": "Q.7.3",
+      "sourceFile": "pravesh-1-Feb2002.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 44,
+      "text": "“I am worshipping Purushottam Narayan personified.”",
+      "type": "who_said",
+      "questionNumber": "Q.7.4",
+      "sourceFile": "pravesh-1-Feb2002.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 45,
+      "text": "Shriji Maharaj struck Brahmanand Swami on his head with a berkho.",
+      "type": "give_reasons",
+      "questionNumber": "Q.8.1",
+      "sourceFile": "pravesh-1-Feb2002.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 46,
+      "text": "Jetha Bhagat took initiation into the sadhu fold.",
+      "type": "give_reasons",
+      "questionNumber": "Q.8.2",
+      "sourceFile": "pravesh-1-Feb2002.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 47,
+      "text": "Maharaj lifted Jhinabhai’s bier.",
+      "type": "give_reasons",
+      "questionNumber": "Q.8.3",
+      "sourceFile": "pravesh-1-Feb2002.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 48,
+      "text": "Write the names of any two scriptures compiled by Shukanand Swami.",
+      "type": "short_answer",
+      "questionNumber": "Q.10.1",
+      "sourceFile": "pravesh-1-Feb2002.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 49,
+      "text": "Who composed, “Dhanya aajni gadhi re....”?",
+      "type": "short_answer",
+      "questionNumber": "Q.10.2",
+      "sourceFile": "pravesh-1-Feb2002.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 50,
+      "text": "Write any two names by which Jivuba was called.",
+      "type": "short_answer",
+      "questionNumber": "Q.10.3",
+      "sourceFile": "pravesh-1-Feb2002.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 51,
+      "text": "“I shall be going away to dham tomorrow. So, prepare the wooden carrier for me to be",
+      "type": "who_said",
+      "questionNumber": "Q.7.1",
+      "sourceFile": "pravesh-1-Feb2003.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 52,
+      "text": "“This child will render great services to the Sampraday.”",
+      "type": "who_said",
+      "questionNumber": "Q.7.2",
+      "sourceFile": "pravesh-1-Feb2003.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 53,
+      "text": "“You have been sitting here since yesterday noon.”",
+      "type": "who_said",
+      "questionNumber": "Q.7.3",
+      "sourceFile": "pravesh-1-Feb2003.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 54,
+      "text": "“His importance is not dependent on the seat.”",
+      "type": "who_said",
+      "questionNumber": "Q.7.4",
+      "sourceFile": "pravesh-1-Feb2003.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 55,
+      "text": "“This loss has come in the way of our work.”",
+      "type": "who_said",
+      "questionNumber": "Q.7.5",
+      "sourceFile": "pravesh-1-Feb2003.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 56,
+      "text": "Munibawa became a disciple of Maharaj.",
+      "type": "give_reasons",
+      "questionNumber": "Q.8.1",
+      "sourceFile": "pravesh-1-Feb2003.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 57,
+      "text": "Joban Pagi went to Dabhan.",
+      "type": "give_reasons",
+      "questionNumber": "Q.8.2",
+      "sourceFile": "pravesh-1-Feb2003.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 58,
+      "text": "Jhinabhai did not read the letters that had come from Panchala.",
+      "type": "give_reasons",
+      "questionNumber": "Q.8.3",
+      "sourceFile": "pravesh-1-Feb2003.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 59,
+      "text": "Name any two literary contributions of Brahmanand Swami.",
+      "type": "short_answer",
+      "questionNumber": "Q.10.1",
+      "sourceFile": "pravesh-1-Feb2003.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 60,
+      "text": "In Vaso, who was envious of Swaminarayan?",
+      "type": "short_answer",
+      "questionNumber": "Q.10.2",
+      "sourceFile": "pravesh-1-Feb2003.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 61,
+      "text": "By whose blessings did Dalpatram become Kavishwar (a great poet)?",
+      "type": "short_answer",
+      "questionNumber": "Q.10.3",
+      "sourceFile": "pravesh-1-Feb2003.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 62,
+      "text": "Whose presence in Vartal prevented anyone uttering the words 'Ja' or 'Pra'?",
+      "type": "short_answer",
+      "questionNumber": "Q.10.4",
+      "sourceFile": "pravesh-1-Feb2003.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 63,
+      "text": "“Then let us hear your poem.”",
+      "type": "who_said",
+      "questionNumber": "Q.7.1",
+      "sourceFile": "pravesh-1-Feb2004.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 64,
+      "text": "“A man who may be spending a lot of money and building mandirs but not observing religious",
+      "type": "who_said",
+      "questionNumber": "Q.7.2",
+      "sourceFile": "pravesh-1-Feb2004.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 65,
+      "text": "“You will be convinced when you see five footsteps of vermillion on the threshold of your house.”",
+      "type": "who_said",
+      "questionNumber": "Q.7.3",
+      "sourceFile": "pravesh-1-Feb2004.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 66,
+      "text": "“I want to observe celibacy and devote myself to the worship of God.”",
+      "type": "who_said",
+      "questionNumber": "Q.7.4",
+      "sourceFile": "pravesh-1-Feb2004.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 67,
+      "text": "“If you offer me sumptuous meals I shall recover from my illness.”",
+      "type": "who_said",
+      "questionNumber": "Q.7.5",
+      "sourceFile": "pravesh-1-Feb2004.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 68,
+      "text": "When Ashabhai's house and wealth were reduced to ashes, Shastriji Maharaj asked for money",
+      "type": "short_answer",
+      "questionNumber": "Q.10.1",
+      "sourceFile": "pravesh-1-Feb2004.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 69,
+      "text": "Shriji Maharaj initiated Ladudanji into the sadhu fold and gave him what name?",
+      "type": "short_answer",
+      "questionNumber": "Q.10.2",
+      "sourceFile": "pravesh-1-Feb2004.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 70,
+      "text": "“Bapu, it was Sahajanand Swami, our Lord.”",
+      "type": "who_said",
+      "questionNumber": "Q.7.1",
+      "sourceFile": "pravesh-1-Feb2006.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 71,
+      "text": "“Because you were dozing.”",
+      "type": "who_said",
+      "questionNumber": "Q.7.2",
+      "sourceFile": "pravesh-1-Feb2006.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 72,
+      "text": "“You will be convinced when you see five footsteps of vermillion on the threshhold",
+      "type": "who_said",
+      "questionNumber": "Q.7.3",
+      "sourceFile": "pravesh-1-Feb2006.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 73,
+      "text": "“The letters have come but I have not read them. If I read them I would be worried.” 2 Marks",
+      "type": "who_said",
+      "questionNumber": "Q.7.4",
+      "sourceFile": "pravesh-1-Feb2006.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 74,
+      "text": "“I have to go on a pilgrimage. On return I shall come and surely stay with you.”",
+      "type": "who_said",
+      "questionNumber": "Q.7.5",
+      "sourceFile": "pravesh-1-Feb2006.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 75,
+      "text": "Nirgun Swami was totally free from any desire.",
+      "type": "give_reasons",
+      "questionNumber": "Q.8.1",
+      "sourceFile": "pravesh-1-Feb2006.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 76,
+      "text": "Ashabhai accepted a life of renunciation.",
+      "type": "give_reasons",
+      "questionNumber": "Q.8.2",
+      "sourceFile": "pravesh-1-Feb2006.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 77,
+      "text": "Jhinabhai stopped talking to his sister.",
+      "type": "give_reasons",
+      "questionNumber": "Q.8.3",
+      "sourceFile": "pravesh-1-Feb2006.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 78,
+      "text": "What was Shukanand Swami's childhood name?",
+      "type": "short_answer",
+      "questionNumber": "Q.10.1",
+      "sourceFile": "pravesh-1-Feb2006.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 79,
+      "text": "Who enlightened Jethabhai about the Akshar and Purushottam principle?",
+      "type": "short_answer",
+      "questionNumber": "Q.10.2",
+      "sourceFile": "pravesh-1-Feb2006.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 80,
+      "text": "At what age did Ashabhai take bhagvati diksha?",
+      "type": "short_answer",
+      "questionNumber": "Q.10.3",
+      "sourceFile": "pravesh-1-Feb2006.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 81,
+      "text": "To whom did Jivuba explain Sankhya-dharma?",
+      "type": "short_answer",
+      "questionNumber": "Q.10.4",
+      "sourceFile": "pravesh-1-Feb2006.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 82,
+      "text": "What are Devanand Swami's compositions popularly known as?",
+      "type": "short_answer",
+      "questionNumber": "Q.10.5",
+      "sourceFile": "pravesh-1-Feb2006.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 83,
+      "text": "“If he does not become your devotee you will not look after him even if",
+      "type": "who_said",
+      "questionNumber": "Q.7.1",
+      "sourceFile": "pravesh-1-Feb2007.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 84,
+      "text": "“Building mandirs dedicated to Akshar Purushottam, will alone please",
+      "type": "who_said",
+      "questionNumber": "Q.7.2",
+      "sourceFile": "pravesh-1-Feb2007.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 85,
+      "text": "“The rule shall not be changed. Reduce your body.\"",
+      "type": "who_said",
+      "questionNumber": "Q.7.3",
+      "sourceFile": "pravesh-1-Feb2007.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 86,
+      "text": "Joban wept profusely and wetted Shriji Maharaj's feet with his tears.",
+      "type": "give_reasons",
+      "questionNumber": "Q.8.1",
+      "sourceFile": "pravesh-1-Feb2007.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 87,
+      "text": "Abhel Khachar was deeply pained.",
+      "type": "give_reasons",
+      "questionNumber": "Q.8.2",
+      "sourceFile": "pravesh-1-Feb2007.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 88,
+      "text": "Which kirtan did Ladudanji compose when he first met Shriji Maharaj in Gadhada?",
+      "type": "short_answer",
+      "questionNumber": "Q.10.1",
+      "sourceFile": "pravesh-1-Feb2007.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 89,
+      "text": "Who composed the 'Satsangijivan Hetu Tikka'?",
+      "type": "short_answer",
+      "questionNumber": "Q.10.2",
+      "sourceFile": "pravesh-1-Feb2007.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 90,
+      "text": "Why did Joban's spirit depart?",
+      "type": "short_answer",
+      "questionNumber": "Q.10.3",
+      "sourceFile": "pravesh-1-Feb2007.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 91,
+      "text": "Who was regarded as a symbol of love and unity?",
+      "type": "short_answer",
+      "questionNumber": "Q.10.4",
+      "sourceFile": "pravesh-1-Feb2007.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 92,
+      "text": "“You will be convinced when you see fine footsteps of vermilion on",
+      "type": "who_said",
+      "questionNumber": "Q.7.1",
+      "sourceFile": "pravesh-1-Feb2008.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 93,
+      "text": "“I consider physical service more worthy than service by money.”",
+      "type": "who_said",
+      "questionNumber": "Q.7.2",
+      "sourceFile": "pravesh-1-Feb2008.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 94,
+      "text": "“My God! You have been sitting here since yesterday noon.\"",
+      "type": "who_said",
+      "questionNumber": "Q.7.3",
+      "sourceFile": "pravesh-1-Feb2008.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 95,
+      "text": "A doll made of salt ventured to fathom the depth of the water and in the process,",
+      "type": "give_reasons",
+      "questionNumber": "Q.8.1",
+      "sourceFile": "pravesh-1-Feb2008.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 96,
+      "text": "Ashabhai was initiated into satsang by Sadhu Dharmanandandas.",
+      "type": "give_reasons",
+      "questionNumber": "Q.8.2",
+      "sourceFile": "pravesh-1-Feb2008.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 97,
+      "text": "What did Joban Pagi think to himself when he saw the great sage sitting on",
+      "type": "short_answer",
+      "questionNumber": "Q.10.1",
+      "sourceFile": "pravesh-1-Feb2008.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 98,
+      "text": "Who did Shriji Maharaj refer to as his own hands and feet?",
+      "type": "short_answer",
+      "questionNumber": "Q.10.2",
+      "sourceFile": "pravesh-1-Feb2008.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 99,
+      "text": "Which verse did Nirgundas Swami often quote?",
+      "type": "short_answer",
+      "questionNumber": "Q.10.3",
+      "sourceFile": "pravesh-1-Feb2008.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 100,
+      "text": "What boon did Bhagatji Maharaj bestow upon Jethabhai?",
+      "type": "short_answer",
+      "questionNumber": "Q.10.4",
+      "sourceFile": "pravesh-1-Feb2008.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 101,
+      "text": "“I want to make you well today. Come, let me take you in my arms.”",
+      "type": "who_said",
+      "questionNumber": "Q.7.1",
+      "sourceFile": "pravesh-1-Feb2009.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 102,
+      "text": "“What did you see in Swaminarayan that you are proudly going about with a bold tilak mark",
+      "type": "who_said",
+      "questionNumber": "Q.7.2",
+      "sourceFile": "pravesh-1-Feb2009.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 103,
+      "text": "“I want to observe celibacy and devote myself to the worship of God.\"",
+      "type": "who_said",
+      "questionNumber": "Q.7.3",
+      "sourceFile": "pravesh-1-Feb2009.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 104,
+      "text": "“I walked twice the number of steps which Jheenabhai walked when he carried",
+      "type": "who_said",
+      "questionNumber": "Q.7.4",
+      "sourceFile": "pravesh-1-Feb2009.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 105,
+      "text": "Devanand Swami's compositions have become popular in the Sampraday as",
+      "type": "give_reasons",
+      "questionNumber": "Q.8.1",
+      "sourceFile": "pravesh-1-Feb2009.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 106,
+      "text": "Where did Shriji Maharaj consecrate his own murti and what name did he give it? 1 Mark",
+      "type": "short_answer",
+      "questionNumber": "Q.10.1",
+      "sourceFile": "pravesh-1-Feb2009.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 107,
+      "text": "Which three things from Dabhan did Shriji Maharaj find useful?",
+      "type": "short_answer",
+      "questionNumber": "Q.10.2",
+      "sourceFile": "pravesh-1-Feb2009.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 108,
+      "text": "Which shastra did Shastriji Maharaj refer to in order to convince Jethabhai of",
+      "type": "short_answer",
+      "questionNumber": "Q.10.3",
+      "sourceFile": "pravesh-1-Feb2009.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 109,
+      "text": "Jivuba was known by which three other names?",
+      "type": "short_answer",
+      "questionNumber": "Q.10.4",
+      "sourceFile": "pravesh-1-Feb2009.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 110,
+      "text": "When did Shriji Maharaj organize a grand yagna in Dabhan?",
+      "type": "short_answer",
+      "questionNumber": "Q.10.5",
+      "sourceFile": "pravesh-1-Feb2009.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 111,
+      "text": "“I wish that you show us your divine powers, just as Lord Krishna had shown his.”",
+      "type": "who_said",
+      "questionNumber": "Q.7.1",
+      "sourceFile": "pravesh-1-Feb2010.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 112,
+      "text": "“Lose some weight. Fast a bit.”",
+      "type": "who_said",
+      "questionNumber": "Q.7.2",
+      "sourceFile": "pravesh-1-Feb2010.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 113,
+      "text": "“Please have pity on me. Please free me from my sins.”",
+      "type": "who_said",
+      "questionNumber": "Q.7.3",
+      "sourceFile": "pravesh-1-Feb2010.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 114,
+      "text": "Jethabhai's eyes were opened.",
+      "type": "give_reasons",
+      "questionNumber": "Q.8.1",
+      "sourceFile": "pravesh-1-Feb2010.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 115,
+      "text": "Shriji Maharaj used to call Brahmanand Swami a true yati.",
+      "type": "give_reasons",
+      "questionNumber": "Q.8.2",
+      "sourceFile": "pravesh-1-Feb2010.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 116,
+      "text": "What did Raiji say while challenging Joban Pagi?",
+      "type": "short_answer",
+      "questionNumber": "Q.10.1",
+      "sourceFile": "pravesh-1-Feb2010.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 117,
+      "text": "When Ashabhai's home caught on fire, which crops were burnt?",
+      "type": "short_answer",
+      "questionNumber": "Q.10.2",
+      "sourceFile": "pravesh-1-Feb2010.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 118,
+      "text": "In his final illness what was Nirgun Swami's prayer to Shastriji Maharaj?",
+      "type": "short_answer",
+      "questionNumber": "Q.10.3",
+      "sourceFile": "pravesh-1-Feb2010.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 119,
+      "text": "After Shriji Maharaj returned to Akshardham, how did Joban Pagi keep his mind",
+      "type": "short_answer",
+      "questionNumber": "Q.10.4",
+      "sourceFile": "pravesh-1-Feb2010.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 120,
+      "text": "“If he becomes your devotee, you will look after him, whether I ask you to or not.”",
+      "type": "who_said",
+      "questionNumber": "Q.7.1",
+      "sourceFile": "pravesh-1-Feb2011.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 121,
+      "text": "“In this world, there is not even an inch of land where there is any God other than you.”",
+      "type": "who_said",
+      "questionNumber": "Q.7.2",
+      "sourceFile": "pravesh-1-Feb2011.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 122,
+      "text": "“We still have to do arti of Gadhada mandir.”",
+      "type": "who_said",
+      "questionNumber": "Q.7.3",
+      "sourceFile": "pravesh-1-Feb2011.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 123,
+      "text": "Shriji Maharaj himself lifted Jhinabhai's bier.",
+      "type": "give_reasons",
+      "questionNumber": "Q.8.1",
+      "sourceFile": "pravesh-1-Feb2011.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 124,
+      "text": "Ladudanji's family decided to go to Gadhada.",
+      "type": "give_reasons",
+      "questionNumber": "Q.8.2",
+      "sourceFile": "pravesh-1-Feb2011.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 125,
+      "text": "What did Ranchodray tell Ashabhai in his dream?",
+      "type": "short_answer",
+      "questionNumber": "Q.10.1",
+      "sourceFile": "pravesh-1-Feb2011.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 126,
+      "text": "With Devanand Swami's blessings what did Dalpatram become?",
+      "type": "short_answer",
+      "questionNumber": "Q.10.2",
+      "sourceFile": "pravesh-1-Feb2011.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 127,
+      "text": "Who explained the Akshar Purushottam upasana to Jethabhai of Pij?",
+      "type": "short_answer",
+      "questionNumber": "Q.10.3",
+      "sourceFile": "pravesh-1-Feb2011.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 128,
+      "text": "Who made Munibawa a satsangi?",
+      "type": "short_answer",
+      "questionNumber": "Q.10.4",
+      "sourceFile": "pravesh-1-Feb2011.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 129,
+      "text": "“There is no choice but for me to stay here with you.”",
+      "type": "who_said",
+      "questionNumber": "Q.7.1",
+      "sourceFile": "pravesh-1-Feb2012.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 130,
+      "text": "“What if I were to give your Jhina the kingdom of Junagadh?”",
+      "type": "who_said",
+      "questionNumber": "Q.7.2",
+      "sourceFile": "pravesh-1-Feb2012.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 131,
+      "text": "“They are pleased by the building of Akshar Purushottam mandirs.”",
+      "type": "who_said",
+      "questionNumber": "Q.7.3",
+      "sourceFile": "pravesh-1-Feb2012.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 132,
+      "text": "Joban passed away there and then.",
+      "type": "give_reasons",
+      "questionNumber": "Q.8.1",
+      "sourceFile": "pravesh-1-Feb2012.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 133,
+      "text": "Abhel Khachar’s doubts were cleared.",
+      "type": "give_reasons",
+      "questionNumber": "Q.8.2",
+      "sourceFile": "pravesh-1-Feb2012.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 134,
+      "text": "In which town did Shriji Maharaj make Brahmanand Swami sit on his seat?",
+      "type": "short_answer",
+      "questionNumber": "Q.10.1",
+      "sourceFile": "pravesh-1-Feb2012.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 135,
+      "text": "Thinking of Bhagatji, why did Jethabhai offer dandvats on the outskirts of Mahuva",
+      "type": "short_answer",
+      "questionNumber": "Q.10.2",
+      "sourceFile": "pravesh-1-Feb2012.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 136,
+      "text": "Up to which city did Joban Pagi go to rob?",
+      "type": "short_answer",
+      "questionNumber": "Q.10.3",
+      "sourceFile": "pravesh-1-Feb2012.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 137,
+      "text": "Which famous poet did Devanand Swami teach?",
+      "type": "short_answer",
+      "questionNumber": "Q.10.4",
+      "sourceFile": "pravesh-1-Feb2012.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 138,
+      "text": "“Bhagwan Purushottam Narayan himself will come to your village.”",
+      "type": "who_said",
+      "questionNumber": "Q.7.1",
+      "sourceFile": "pravesh-1-Feb2013.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 139,
+      "text": "“Gunatitanand Swami’s greatness is not due to the seat. He is eternally great.”",
+      "type": "who_said",
+      "questionNumber": "Q.7.2",
+      "sourceFile": "pravesh-1-Feb2013.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 140,
+      "text": "“Please forgive me if I have ever done anything wrong or if I have ever not",
+      "type": "who_said",
+      "questionNumber": "Q.7.3",
+      "sourceFile": "pravesh-1-Feb2013.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 141,
+      "text": "On seeing Jivuba returning home, Abhel Khachar was left speechless.",
+      "type": "give_reasons",
+      "questionNumber": "Q.8.1",
+      "sourceFile": "pravesh-1-Feb2013.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 142,
+      "text": "Ranchhodray granted darshan to Ashabhai in a dream.",
+      "type": "give_reasons",
+      "questionNumber": "Q.8.2",
+      "sourceFile": "pravesh-1-Feb2013.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 143,
+      "text": "How did Jivuba explain the futility on the world and its affairs through religion to",
+      "type": "short_answer",
+      "questionNumber": "Q.10.1",
+      "sourceFile": "pravesh-1-Feb2013.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 144,
+      "text": "What blessings did Shukmuni give to Dungarbhai when he gave him vartman?",
+      "type": "short_answer",
+      "questionNumber": "Q.10.2",
+      "sourceFile": "pravesh-1-Feb2013.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 145,
+      "text": "What was Jhinabhai’s reply when Shriji Maharaj asked, “Which Dham do you wish",
+      "type": "short_answer",
+      "questionNumber": "Q.10.3",
+      "sourceFile": "pravesh-1-Feb2013.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 146,
+      "text": "Who initiated Ashabhai and what was he named?",
+      "type": "short_answer",
+      "questionNumber": "Q.10.4",
+      "sourceFile": "pravesh-1-Feb2013.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 147,
+      "text": "“Where did this pepper come from?”",
+      "type": "who_said",
+      "questionNumber": "Q.7.1",
+      "sourceFile": "pravesh-1-Feb2014.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 148,
+      "text": "“If you wish for liberation, take refuge in Bhagwan Swaminarayan.”",
+      "type": "who_said",
+      "questionNumber": "Q.7.2",
+      "sourceFile": "pravesh-1-Feb2014.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 149,
+      "text": "“Take this sukhdi and use it today to freshen your mouth.”",
+      "type": "who_said",
+      "questionNumber": "Q.7.3",
+      "sourceFile": "pravesh-1-Feb2014.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 150,
+      "text": "Jetha Bhagat wore saffron clothes.",
+      "type": "give_reasons",
+      "questionNumber": "Q.8.2",
+      "sourceFile": "pravesh-1-Feb2014.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 151,
+      "text": "What did Abhel Khachar tell Jivuba when he barged into the room with a sword?",
+      "type": "short_answer",
+      "questionNumber": "Q.10.1",
+      "sourceFile": "pravesh-1-Feb2014.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 152,
+      "text": "At whose house did Shriji Maharaj sit on the yoke of the cart and eat milk and thuli? 1 Mark",
+      "type": "short_answer",
+      "questionNumber": "Q.10.2",
+      "sourceFile": "pravesh-1-Feb2014.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 153,
+      "text": "What were the names of Joban Pagi's brothers?",
+      "type": "short_answer",
+      "questionNumber": "Q.10.3",
+      "sourceFile": "pravesh-1-Feb2014.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 154,
+      "text": "In his last moments, what did Nirgun Swami pray for to Shastriji Maharaj?",
+      "type": "short_answer",
+      "questionNumber": "Q.10.4",
+      "sourceFile": "pravesh-1-Feb2014.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 155,
+      "text": "\"Leave this humbug, if your Lord is real let",
+      "type": "who_said",
+      "questionNumber": "Q.7.1",
+      "sourceFile": "pravesh-1-July1998.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 156,
+      "text": "\"Have you been talking on since then ? You",
+      "type": "who_said",
+      "questionNumber": "Q.7.2",
+      "sourceFile": "pravesh-1-July1998.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 157,
+      "text": "\"Lord Purushottam Narayan himself will come",
+      "type": "who_said",
+      "questionNumber": "Q.7.3",
+      "sourceFile": "pravesh-1-July1998.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 158,
+      "text": "It is exhausted.",
+      "type": "who_said",
+      "questionNumber": "Q.7.4",
+      "sourceFile": "pravesh-1-July1998.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 159,
+      "text": "Munibawa's doubts disaappeared.",
+      "type": "give_reasons",
+      "questionNumber": "Q.8.1",
+      "sourceFile": "pravesh-1-July1998.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 160,
+      "text": "Joban Pagi wetted Maharaj's feet with tears.",
+      "type": "give_reasons",
+      "questionNumber": "Q.8.2",
+      "sourceFile": "pravesh-1-July1998.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 161,
+      "text": "Ashabhai accepted the life of renunciation.",
+      "type": "give_reasons",
+      "questionNumber": "Q.8.3",
+      "sourceFile": "pravesh-1-July1998.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 162,
+      "text": "Jeevuba, with her attendant, set off walking,",
+      "type": "give_reasons",
+      "questionNumber": "Q.8.4",
+      "sourceFile": "pravesh-1-July1998.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 163,
+      "text": "But we want to give Akshardharm to Jinabhai.",
+      "type": "who_said",
+      "questionNumber": "Q.7.1",
+      "sourceFile": "pravesh-1-July1999.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 164,
+      "text": "Do you still want to see a miracle?",
+      "type": "who_said",
+      "questionNumber": "Q.7.2",
+      "sourceFile": "pravesh-1-July1999.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 165,
+      "text": "Because you were dozing.",
+      "type": "who_said",
+      "questionNumber": "Q.7.3",
+      "sourceFile": "pravesh-1-July1999.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 166,
+      "text": "\"Take this sukhdi and clean your mouth with its",
+      "type": "who_said",
+      "questionNumber": "Q.7.4",
+      "sourceFile": "pravesh-1-July1999.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 167,
+      "text": "Ladudanji wanted Maharaj to fulfil his conditions.",
+      "type": "give_reasons",
+      "questionNumber": "Q.8.1",
+      "sourceFile": "pravesh-1-July1999.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 168,
+      "text": "Abhel Khachar apologised to Jivuba.",
+      "type": "give_reasons",
+      "questionNumber": "Q.8.2",
+      "sourceFile": "pravesh-1-July1999.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 169,
+      "text": "Shuk Muni understood the greatness of",
+      "type": "give_reasons",
+      "questionNumber": "Q.8.3",
+      "sourceFile": "pravesh-1-July1999.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 170,
+      "text": "Jinabhai stopped talking to Adiba.",
+      "type": "give_reasons",
+      "questionNumber": "Q.8.4",
+      "sourceFile": "pravesh-1-July1999.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 171,
+      "text": "What did Jobanpagi think to himself on his first",
+      "type": "short_answer",
+      "questionNumber": "Q.10.1",
+      "sourceFile": "pravesh-1-July1999.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 172,
+      "text": "Jetha Bhagat was the kothari of which temple?",
+      "type": "short_answer",
+      "questionNumber": "Q.10.2",
+      "sourceFile": "pravesh-1-July1999.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 173,
+      "text": "Under what name are Devanand Swami's",
+      "type": "short_answer",
+      "questionNumber": "Q.10.3",
+      "sourceFile": "pravesh-1-July1999.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 174,
+      "text": "“I want to observe celibacy and devote my life to",
+      "type": "who_said",
+      "questionNumber": "Q.7.1",
+      "sourceFile": "pravesh-1-July2000.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 175,
+      "text": "“I want to make you well today, come, let me take",
+      "type": "who_said",
+      "questionNumber": "Q.7.2",
+      "sourceFile": "pravesh-1-July2000.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 176,
+      "text": "“Please build a mandir here for the benefit of the",
+      "type": "who_said",
+      "questionNumber": "Q.7.3",
+      "sourceFile": "pravesh-1-July2000.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 177,
+      "text": "“Take him to Muktanand Swami, he will initiate",
+      "type": "who_said",
+      "questionNumber": "Q.7.4",
+      "sourceFile": "pravesh-1-July2000.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 178,
+      "text": "Joban Pagi’s spirit faded away to Akshardham.",
+      "type": "give_reasons",
+      "questionNumber": "Q.8.1",
+      "sourceFile": "pravesh-1-July2000.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 179,
+      "text": "Munibawa accepted initiation from Maharaj.",
+      "type": "give_reasons",
+      "questionNumber": "Q.8.2",
+      "sourceFile": "pravesh-1-July2000.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 180,
+      "text": "Shastriji Maharaj took Ashabhai in his arms and",
+      "type": "give_reasons",
+      "questionNumber": "Q.8.3",
+      "sourceFile": "pravesh-1-July2000.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 181,
+      "text": "Nirgun Swami wrote a letter of sweet rebuke to a",
+      "type": "give_reasons",
+      "questionNumber": "Q.8.4",
+      "sourceFile": "pravesh-1-July2000.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 182,
+      "text": "By the desire of which two brothers did Shastriji",
+      "type": "short_answer",
+      "questionNumber": "Q.10.1",
+      "sourceFile": "pravesh-1-July2000.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 183,
+      "text": "Do not be in a hurry to come to dham.",
+      "type": "who_said",
+      "questionNumber": "Q.7.1",
+      "sourceFile": "pravesh-1-July2001.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 184,
+      "text": "\"You will be convinced when you see five footsteps",
+      "type": "who_said",
+      "questionNumber": "Q.7.2",
+      "sourceFile": "pravesh-1-July2001.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 185,
+      "text": "Can't these rafters and bamboos be removed?",
+      "type": "who_said",
+      "questionNumber": "Q.7.3",
+      "sourceFile": "pravesh-1-July2001.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 186,
+      "text": "\"To have served my sadhu is as good as having",
+      "type": "who_said",
+      "questionNumber": "Q.7.4",
+      "sourceFile": "pravesh-1-July2001.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 187,
+      "text": "Shriji Maharaj told Joban to serve him \"physically\".",
+      "type": "give_reasons",
+      "questionNumber": "Q.8.1",
+      "sourceFile": "pravesh-1-July2001.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 188,
+      "text": "Kothari Jetha bhagat left Vadtal Mandir.",
+      "type": "give_reasons",
+      "questionNumber": "Q.8.2",
+      "sourceFile": "pravesh-1-July2001.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 189,
+      "text": "Shukmuni broke his fast by eating sukhdi before",
+      "type": "give_reasons",
+      "questionNumber": "Q.8.4",
+      "sourceFile": "pravesh-1-July2001.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 190,
+      "text": "Why did Shriji Maharaj lift Jinabhai's body when",
+      "type": "short_answer",
+      "questionNumber": "Q.10.1",
+      "sourceFile": "pravesh-1-July2001.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 191,
+      "text": "What did Ramchandra say when he gave darshan",
+      "type": "short_answer",
+      "questionNumber": "Q.10.2",
+      "sourceFile": "pravesh-1-July2001.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 192,
+      "text": "What other name was Jivuba known by?",
+      "type": "short_answer",
+      "questionNumber": "Q.10.3",
+      "sourceFile": "pravesh-1-July2001.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 193,
+      "text": "“Take this sukhdi and clean your mouth.”",
+      "type": "who_said",
+      "questionNumber": "Q.7.1",
+      "sourceFile": "pravesh-1-July2002.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 194,
+      "text": "“Your intellect, knowledge and ability will shine only in saffron clothes.”",
+      "type": "who_said",
+      "questionNumber": "Q.7.2",
+      "sourceFile": "pravesh-1-July2002.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 195,
+      "text": "“I shall be going away to Akshardham tomorrow.”",
+      "type": "who_said",
+      "questionNumber": "Q.7.3",
+      "sourceFile": "pravesh-1-July2002.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 196,
+      "text": "Ebhel Khachar rushed to beat Jivuba.",
+      "type": "give_reasons",
+      "questionNumber": "Q.8.1",
+      "sourceFile": "pravesh-1-July2002.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 197,
+      "text": "Nirgun Swami placed the blanket at Shastriji Maharaj’s feet.",
+      "type": "give_reasons",
+      "questionNumber": "Q.8.2",
+      "sourceFile": "pravesh-1-July2002.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 198,
+      "text": "What name did Maharaj give to Devidan after initiation?",
+      "type": "short_answer",
+      "questionNumber": "Q.10.1",
+      "sourceFile": "pravesh-1-July2002.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 199,
+      "text": "What of Dabhan would Maharaj remember?",
+      "type": "short_answer",
+      "questionNumber": "Q.10.2",
+      "sourceFile": "pravesh-1-July2002.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 200,
+      "text": "Whose life was a symbol of love and unity?",
+      "type": "short_answer",
+      "questionNumber": "Q.10.3",
+      "sourceFile": "pravesh-1-July2002.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 201,
+      "text": "Brahmanand Swami’s skill of composing poems instantly.",
+      "type": "short_answer",
+      "questionNumber": "Q.10.1",
+      "sourceFile": "pravesh-1-July2002.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 202,
+      "text": "Joban Pagi’s transformation.",
+      "type": "short_answer",
+      "questionNumber": "Q.10.2",
+      "sourceFile": "pravesh-1-July2002.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 203,
+      "text": "Ashabhai’s services even in adverse conditions.",
+      "type": "short_answer",
+      "questionNumber": "Q.10.3",
+      "sourceFile": "pravesh-1-July2002.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 204,
+      "text": "Devanand Swami initiated Dungar Bhakta into the Fellowship.",
+      "type": "true_false",
+      "questionNumber": "Q.12.1",
+      "sourceFile": "pravesh-1-July2002.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 205,
+      "text": "By Brahmanand Swami’s blessings, Dalpatram became ‘kaveeshwar’.",
+      "type": "true_false",
+      "questionNumber": "Q.12.2",
+      "sourceFile": "pravesh-1-July2002.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 206,
+      "text": "Jivuba was married to Amara Patgar of Kundala.",
+      "type": "true_false",
+      "questionNumber": "Q.12.3",
+      "sourceFile": "pravesh-1-July2002.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 207,
+      "text": "Jethabhai was born in Mumbai.",
+      "type": "true_false",
+      "questionNumber": "Q.12.4",
+      "sourceFile": "pravesh-1-July2002.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 208,
+      "text": "“It (ash) is exhausted.”",
+      "type": "who_said",
+      "questionNumber": "Q.7.1",
+      "sourceFile": "pravesh-1-July2003.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 209,
+      "text": "“That one sitting on the raised seat is a fake Brahma.”",
+      "type": "who_said",
+      "questionNumber": "Q.7.2",
+      "sourceFile": "pravesh-1-July2003.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 210,
+      "text": "“You should not send such money to me.”",
+      "type": "who_said",
+      "questionNumber": "Q.7.3",
+      "sourceFile": "pravesh-1-July2003.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 211,
+      "text": "A bright light came out from Maharaj's right great toe.",
+      "type": "give_reasons",
+      "questionNumber": "Q.8.1",
+      "sourceFile": "pravesh-1-July2003.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 212,
+      "text": "Jinabhai stopped talking with his sister, Adiba.",
+      "type": "give_reasons",
+      "questionNumber": "Q.8.2",
+      "sourceFile": "pravesh-1-July2003.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 213,
+      "text": "In Satsang, whose life was like that of Rantidev?",
+      "type": "short_answer",
+      "questionNumber": "Q.10.1",
+      "sourceFile": "pravesh-1-July2003.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 214,
+      "text": "What blessings did Shukmuni Swami give to Dungar bhakta?",
+      "type": "short_answer",
+      "questionNumber": "Q.10.2",
+      "sourceFile": "pravesh-1-July2003.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 215,
+      "text": "On whose insistnace did Maharaj come to Vartal?",
+      "type": "short_answer",
+      "questionNumber": "Q.10.3",
+      "sourceFile": "pravesh-1-July2003.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 216,
+      "text": "Who initiated Ashabhai into bhagwati diksha?",
+      "type": "short_answer",
+      "questionNumber": "Q.10.4",
+      "sourceFile": "pravesh-1-July2003.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 217,
+      "text": "Shukanand Swami never doubted the divine actions of Maharaj.",
+      "type": "short_answer",
+      "questionNumber": "Q.10.1",
+      "sourceFile": "pravesh-1-July2003.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 218,
+      "text": "Brahmanand Swami's contribution in the construction of mandirs.",
+      "type": "short_answer",
+      "questionNumber": "Q.10.2",
+      "sourceFile": "pravesh-1-July2003.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 219,
+      "text": "Nirgundas Swami's contributions for the spread of Satsang.",
+      "type": "short_answer",
+      "questionNumber": "Q.10.3",
+      "sourceFile": "pravesh-1-July2003.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 220,
+      "text": "In Vartal, Maharaj decided to set up an establishment with mandirs, sadhus, scriptures and",
+      "type": "true_false",
+      "questionNumber": "Q.12.1",
+      "sourceFile": "pravesh-1-July2003.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 221,
+      "text": "At the behest of Bhagatji Maharaj, Jethabhai took bhagwati diksha in Samvat 1953.",
+      "type": "true_false",
+      "questionNumber": "Q.12.2",
+      "sourceFile": "pravesh-1-July2003.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 222,
+      "text": "Joban Pagi's name is linked with that of Maharaj, 'He Mantarchastutipriyaya Namaha'.",
+      "type": "true_false",
+      "questionNumber": "Q.12.3",
+      "sourceFile": "pravesh-1-July2003.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 223,
+      "text": "Devanand Swami wrote to Maharaj, 'Saheb sarikha shethiya...'",
+      "type": "true_false",
+      "questionNumber": "Q.12.4",
+      "sourceFile": "pravesh-1-July2003.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 224,
+      "text": "“Otherwise I shall cut you into pieces with this sword.”",
+      "type": "who_said",
+      "questionNumber": "Q.7.1",
+      "sourceFile": "pravesh-1-July2004.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 225,
+      "text": "“You shall always be blessed by God and the sadhus.”",
+      "type": "who_said",
+      "questionNumber": "Q.7.2",
+      "sourceFile": "pravesh-1-July2004.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 226,
+      "text": "“Can't these rafters and bamboos supporting the roof be removed?”",
+      "type": "who_said",
+      "questionNumber": "Q.7.3",
+      "sourceFile": "pravesh-1-July2004.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 227,
+      "text": "Shukmuni broke his fast by eating sukhdi.",
+      "type": "give_reasons",
+      "questionNumber": "Q.8.1",
+      "sourceFile": "pravesh-1-July2004.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 228,
+      "text": "Seeing Joban Pagi, Kasiabhai was amazed.",
+      "type": "give_reasons",
+      "questionNumber": "Q.8.2",
+      "sourceFile": "pravesh-1-July2004.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 229,
+      "text": "Name any TWO of Joban Pagi's brothers.",
+      "type": "short_answer",
+      "questionNumber": "Q.10.1",
+      "sourceFile": "pravesh-1-July2004.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 230,
+      "text": "What did Jivuba politely tell her mother-in-law, Raiba?",
+      "type": "short_answer",
+      "questionNumber": "Q.10.2",
+      "sourceFile": "pravesh-1-July2004.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 231,
+      "text": "Name TWO mandirs in which Jetha Bhagat served as Kothari.",
+      "type": "short_answer",
+      "questionNumber": "Q.10.3",
+      "sourceFile": "pravesh-1-July2004.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 232,
+      "text": "Which three things of Dabhan had been very useful to Shriji Maharaj?",
+      "type": "short_answer",
+      "questionNumber": "Q.10.4",
+      "sourceFile": "pravesh-1-July2004.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 233,
+      "text": "Devanand Swami's musical talent.",
+      "type": "short_answer",
+      "questionNumber": "Q.10.1",
+      "sourceFile": "pravesh-1-July2004.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 234,
+      "text": "Jinabhai's attachment to Shriji Maharaj's devotees.",
+      "type": "short_answer",
+      "questionNumber": "Q.10.2",
+      "sourceFile": "pravesh-1-July2004.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 235,
+      "text": "Ashabhai's service despite a personal difficulties.",
+      "type": "short_answer",
+      "questionNumber": "Q.10.3",
+      "sourceFile": "pravesh-1-July2004.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 236,
+      "text": "Shriji Maharaj said to Joban Pagi, \"Dharma is my friend. Whoever violates dharma even a little",
+      "type": "true_false",
+      "questionNumber": "Q.12.1",
+      "sourceFile": "pravesh-1-July2004.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 237,
+      "text": "Jivuba's other names were Motiba, Punamatiba and Jaya.",
+      "type": "true_false",
+      "questionNumber": "Q.12.2",
+      "sourceFile": "pravesh-1-July2004.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 238,
+      "text": "On Vasant Panchmi, Samvat 1962, Acharya Viharilalji Maharaj gave bhagwati diksha to",
+      "type": "true_false",
+      "questionNumber": "Q.12.3",
+      "sourceFile": "pravesh-1-July2004.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 239,
+      "text": "Shastriji Maharaj entrusted the responsibility of completing the Atladra Mandir to Ashabhai",
+      "type": "true_false",
+      "questionNumber": "Q.12.4",
+      "sourceFile": "pravesh-1-July2004.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 240,
+      "text": "Jivuba's unflinching devotion for Thakorji.",
+      "type": "short_answer",
+      "questionNumber": "Q.10.1",
+      "sourceFile": "pravesh-1-July2005.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 241,
+      "text": "Joban Pagi is transformed.",
+      "type": "short_answer",
+      "questionNumber": "Q.10.2",
+      "sourceFile": "pravesh-1-July2005.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 242,
+      "text": "A doll made of salt merges in water.",
+      "type": "short_answer",
+      "questionNumber": "Q.10.3",
+      "sourceFile": "pravesh-1-July2005.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 243,
+      "text": "“There is a confusion in my mind which you have to remove.”",
+      "type": "who_said",
+      "questionNumber": "Q.7.1",
+      "sourceFile": "pravesh-1-July2006.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 244,
+      "text": "“Let us see what sort of God he is.”",
+      "type": "who_said",
+      "questionNumber": "Q.7.2",
+      "sourceFile": "pravesh-1-July2006.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 245,
+      "text": "Bhagatji Maharaj embraced Jethabhai.",
+      "type": "give_reasons",
+      "questionNumber": "Q.8.1",
+      "sourceFile": "pravesh-1-July2006.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 246,
+      "text": "Shukmuni contracted a fever every night.",
+      "type": "give_reasons",
+      "questionNumber": "Q.8.2",
+      "sourceFile": "pravesh-1-July2006.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 247,
+      "text": "How many times did Maharaj embrace Jhinabhai for serving Kamalshi Vanza?",
+      "type": "short_answer",
+      "questionNumber": "Q.10.1",
+      "sourceFile": "pravesh-1-July2006.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 248,
+      "text": "From whom did Devanand Swami learn pingal shastra?",
+      "type": "short_answer",
+      "questionNumber": "Q.10.2",
+      "sourceFile": "pravesh-1-July2006.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 249,
+      "text": "Where and when was Nirgundas Swami born?",
+      "type": "short_answer",
+      "questionNumber": "Q.10.3",
+      "sourceFile": "pravesh-1-July2006.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 250,
+      "text": "Why did Joban Pagi's spirit fade away?",
+      "type": "short_answer",
+      "questionNumber": "Q.10.4",
+      "sourceFile": "pravesh-1-July2006.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 251,
+      "text": "Surrender of Joban Pagi.",
+      "type": "write_about",
+      "questionNumber": "Q.11.1",
+      "sourceFile": "pravesh-1-July2006.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 252,
+      "text": "Jinabhai's oneness with the devotees.",
+      "type": "write_about",
+      "questionNumber": "Q.11.2",
+      "sourceFile": "pravesh-1-July2006.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 253,
+      "text": "Divine nectar given by Maharaj to Swami Nirgundas.",
+      "type": "write_about",
+      "questionNumber": "Q.11.3",
+      "sourceFile": "pravesh-1-July2006.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 254,
+      "text": "The attraction of the body is due to beautiful clothes and ornaments.",
+      "type": "true_false",
+      "questionNumber": "Q.12.1",
+      "sourceFile": "pravesh-1-July2006.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 255,
+      "text": "Maharaj went to Khodiyar Mata.",
+      "type": "true_false",
+      "questionNumber": "Q.12.2",
+      "sourceFile": "pravesh-1-July2006.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 256,
+      "text": "Dalpatram became a \"Kavishwar\" (a great poet) with the blessings",
+      "type": "true_false",
+      "questionNumber": "Q.12.3",
+      "sourceFile": "pravesh-1-July2006.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 257,
+      "text": "Brahmanand Swami wrote the commentary on the Shikshapatri.",
+      "type": "true_false",
+      "questionNumber": "Q.12.4",
+      "sourceFile": "pravesh-1-July2006.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 258,
+      "text": "“You will see fine footsteps of vermillion on the threshold of your house.”",
+      "type": "who_said",
+      "questionNumber": "Q.7.1",
+      "sourceFile": "pravesh-1-July2007.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 259,
+      "text": "“Today this goddess has become a haribhakta.”",
+      "type": "who_said",
+      "questionNumber": "Q.7.2",
+      "sourceFile": "pravesh-1-July2007.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 260,
+      "text": "Shriji Maharaj told Shukmuni Swami not to bring the seat.",
+      "type": "give_reasons",
+      "questionNumber": "Q.8.1",
+      "sourceFile": "pravesh-1-July2007.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 261,
+      "text": "Jhinabhai did not read the letters he received from home.",
+      "type": "give_reasons",
+      "questionNumber": "Q.8.2",
+      "sourceFile": "pravesh-1-July2007.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 262,
+      "text": "Munibawa becomes a satsangi.",
+      "type": "write_about",
+      "questionNumber": "Q.9.1",
+      "sourceFile": "pravesh-1-July2007.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 263,
+      "text": "Swami Yagnapriyadasji's devotion towards his guru.",
+      "type": "write_about",
+      "questionNumber": "Q.9.2",
+      "sourceFile": "pravesh-1-July2007.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 264,
+      "text": "Jivuba's renunciation and disinterest in married life.",
+      "type": "write_about",
+      "questionNumber": "Q.9.3",
+      "sourceFile": "pravesh-1-July2007.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 265,
+      "text": "Why did Shriji Maharaj call Shrirangdas by the name of Brahmanand?",
+      "type": "short_answer",
+      "questionNumber": "Q.10.1",
+      "sourceFile": "pravesh-1-July2007.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 266,
+      "text": "What was Swami Yagnapriyadasji's name before he became a sadhu?",
+      "type": "short_answer",
+      "questionNumber": "Q.10.2",
+      "sourceFile": "pravesh-1-July2007.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 267,
+      "text": "Why did Jheenabhai not make any recommendations to Shriji Maharaj for his",
+      "type": "short_answer",
+      "questionNumber": "Q.10.3",
+      "sourceFile": "pravesh-1-July2007.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 268,
+      "text": "What have Devanand Swami's compositions become popularly known as",
+      "type": "short_answer",
+      "questionNumber": "Q.10.4",
+      "sourceFile": "pravesh-1-July2007.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 269,
+      "text": "Shukanand Swami wrote the Sati Gita.",
+      "type": "true_false",
+      "questionNumber": "Q.12.1",
+      "sourceFile": "pravesh-1-July2007.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 270,
+      "text": "Devanand Swami learnt music from Premanand Swami",
+      "type": "true_false",
+      "questionNumber": "Q.12.2",
+      "sourceFile": "pravesh-1-July2007.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 271,
+      "text": "Pleased with Joban Pagi's service Shriji Maharaj celebrated the Holi",
+      "type": "true_false",
+      "questionNumber": "Q.12.3",
+      "sourceFile": "pravesh-1-July2007.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 272,
+      "text": "“Swaminarayan Bhagwan manifests today through his choicest disciple.”",
+      "type": "who_said",
+      "questionNumber": "Q.7.1",
+      "sourceFile": "pravesh-1-July2008.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 273,
+      "text": "“My dear child, whom are you worshipping?”",
+      "type": "who_said",
+      "questionNumber": "Q.7.2",
+      "sourceFile": "pravesh-1-July2008.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 274,
+      "text": "Shukmuni ate sukhdi before having his bath.",
+      "type": "give_reasons",
+      "questionNumber": "Q.8.1",
+      "sourceFile": "pravesh-1-July2008.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 275,
+      "text": "Jivuba walked barefoot in the scorching heat.",
+      "type": "give_reasons",
+      "questionNumber": "Q.8.2",
+      "sourceFile": "pravesh-1-July2008.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 276,
+      "text": "The scriptural debate with Khaiyo Khatri.",
+      "type": "write_about",
+      "questionNumber": "Q.9.1",
+      "sourceFile": "pravesh-1-July2008.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 277,
+      "text": "Jhinabhai's affection for God's devotees.",
+      "type": "write_about",
+      "questionNumber": "Q.9.2",
+      "sourceFile": "pravesh-1-July2008.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 278,
+      "text": "Nirgundas Swami's contribution to the spread of satsang.",
+      "type": "write_about",
+      "questionNumber": "Q.9.3",
+      "sourceFile": "pravesh-1-July2008.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 279,
+      "text": "After listening to Devanand Swami's kirtans, who became his disciple?",
+      "type": "short_answer",
+      "questionNumber": "Q.10.1",
+      "sourceFile": "pravesh-1-July2008.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 280,
+      "text": "Whose life reminded everyone of Rantidev?",
+      "type": "short_answer",
+      "questionNumber": "Q.10.2",
+      "sourceFile": "pravesh-1-July2008.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 281,
+      "text": "Who initiated Shastriji Maharaj into the satsang fellowship?",
+      "type": "short_answer",
+      "questionNumber": "Q.10.3",
+      "sourceFile": "pravesh-1-July2008.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 282,
+      "text": "Which medicine did Brahmanand Swami prepare for Maharaj?",
+      "type": "short_answer",
+      "questionNumber": "Q.10.4",
+      "sourceFile": "pravesh-1-July2008.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 283,
+      "text": "Shriji Maharaj initiated Jagannath of Dabhan and named him",
+      "type": "true_false",
+      "questionNumber": "Q.12.1",
+      "sourceFile": "pravesh-1-July2008.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 284,
+      "text": "Before Jethabhai came into Satsang, he used to go to Dakor every punam",
+      "type": "true_false",
+      "questionNumber": "Q.12.2",
+      "sourceFile": "pravesh-1-July2008.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 285,
+      "text": "Devanand Swami's compositions have beome popular in the Sampraday",
+      "type": "true_false",
+      "questionNumber": "Q.12.3",
+      "sourceFile": "pravesh-1-July2008.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 286,
+      "text": "Brahmanand Swami composed the Hari Gita.",
+      "type": "true_false",
+      "questionNumber": "Q.12.4",
+      "sourceFile": "pravesh-1-July2008.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 287,
+      "text": "“If you wish for your liberation, take refuge in Bhagwan Swaminarayan.”",
+      "type": "who_said",
+      "questionNumber": "Q.7.1",
+      "sourceFile": "pravesh-1-July2009.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 288,
+      "text": "“I have a dilemma that you have to solve.”",
+      "type": "who_said",
+      "questionNumber": "Q.7.2",
+      "sourceFile": "pravesh-1-July2009.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 289,
+      "text": "“His greatness is not due to the seat.”",
+      "type": "who_said",
+      "questionNumber": "Q.7.3",
+      "sourceFile": "pravesh-1-July2009.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 290,
+      "text": "Shastriji Maharaj hugged Ashabhai.",
+      "type": "give_reasons",
+      "questionNumber": "Q.8.2",
+      "sourceFile": "pravesh-1-July2009.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 291,
+      "text": "What blessing did Shuk Muni give to Dungar Bhagat after offering him vartman?",
+      "type": "short_answer",
+      "questionNumber": "Q.10.1",
+      "sourceFile": "pravesh-1-July2009.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 292,
+      "text": "In the Sarvamangal Stotra, the name 'Hemantarchastutipritay Namaha' pays",
+      "type": "short_answer",
+      "questionNumber": "Q.10.2",
+      "sourceFile": "pravesh-1-July2009.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 293,
+      "text": "What were Shastriji Maharaj's words that penetrated Jethabhai's heart and",
+      "type": "short_answer",
+      "questionNumber": "Q.10.3",
+      "sourceFile": "pravesh-1-July2009.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 294,
+      "text": "List any four literary works by Brahmanand Swami?",
+      "type": "short_answer",
+      "questionNumber": "Q.10.4",
+      "sourceFile": "pravesh-1-July2009.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 295,
+      "text": "“Sarasvati, the goddess of learning, will reside in your heart.”",
+      "type": "who_said",
+      "questionNumber": "Q.7.1",
+      "sourceFile": "pravesh-1-July2010.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 296,
+      "text": "“You still wish to see a miracle?”",
+      "type": "who_said",
+      "questionNumber": "Q.7.2",
+      "sourceFile": "pravesh-1-July2010.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 297,
+      "text": "“You're hiding a bawa in the darbar!”",
+      "type": "who_said",
+      "questionNumber": "Q.7.3",
+      "sourceFile": "pravesh-1-July2010.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 298,
+      "text": "Even though Shriji Maharaj left for Panchala, he turned back for Gadhada.",
+      "type": "give_reasons",
+      "questionNumber": "Q.8.1",
+      "sourceFile": "pravesh-1-July2010.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 299,
+      "text": "Ashabhai and Ishwarbhai decided to leave Sadhi and move elsewhere.",
+      "type": "give_reasons",
+      "questionNumber": "Q.8.2",
+      "sourceFile": "pravesh-1-July2010.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 300,
+      "text": "At what age and from whose hands did Ashabhai receive diksha?",
+      "type": "short_answer",
+      "questionNumber": "Q.10.1",
+      "sourceFile": "pravesh-1-July2010.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 301,
+      "text": "Who composed the 'Satsangijivan Hetu Tika'?",
+      "type": "short_answer",
+      "questionNumber": "Q.10.2",
+      "sourceFile": "pravesh-1-July2010.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 302,
+      "text": "On whose forehead did Shriji Maharaj applying a tilak-chandlo to show the sadhus? 1 Mark",
+      "type": "short_answer",
+      "questionNumber": "Q.10.3",
+      "sourceFile": "pravesh-1-July2010.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 303,
+      "text": "Who was Devanand Swami's student?",
+      "type": "short_answer",
+      "questionNumber": "Q.10.4",
+      "sourceFile": "pravesh-1-July2010.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 304,
+      "text": "“My dear child, who is this that you worship?”",
+      "type": "who_said",
+      "questionNumber": "Q.7.1",
+      "sourceFile": "pravesh-1-July2011.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 305,
+      "text": "“If you believe me to be a great Sadhu, do not go,\" Your problems will go away. I will slip them",
+      "type": "who_said",
+      "questionNumber": "Q.7.2",
+      "sourceFile": "pravesh-1-July2011.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 306,
+      "text": "“You shall forever be blessed by God and his holy sadhu.”",
+      "type": "who_said",
+      "questionNumber": "Q.7.3",
+      "sourceFile": "pravesh-1-July2011.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 307,
+      "text": "Shukmuni brushed his teeth by eating sukhdi.",
+      "type": "give_reasons",
+      "questionNumber": "Q.8.1",
+      "sourceFile": "pravesh-1-July2011.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 308,
+      "text": "Nawab was convinced that Jhinabhai is truely in love with God and has conquered his senses.",
+      "type": "give_reasons",
+      "questionNumber": "Q.8.2",
+      "sourceFile": "pravesh-1-July2011.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 309,
+      "text": "Which satsangi's life was like that of Rantidev?",
+      "type": "short_answer",
+      "questionNumber": "Q.10.1",
+      "sourceFile": "pravesh-1-July2011.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 310,
+      "text": "What does Shriji Maharaj say in praise of Shukmuni Swami in Vachanamrut",
+      "type": "short_answer",
+      "questionNumber": "Q.10.2",
+      "sourceFile": "pravesh-1-July2011.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 311,
+      "text": "What did Jhinabhai's ask for when Maharaj granted him a wish?",
+      "type": "short_answer",
+      "questionNumber": "Q.10.3",
+      "sourceFile": "pravesh-1-July2011.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 312,
+      "text": "“If five footsteps of kumkum show up at the entrance to your home tomorrow, believe what",
+      "type": "who_said",
+      "questionNumber": "Q.7.1",
+      "sourceFile": "pravesh-1-July2012.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 313,
+      "text": "“I come from a family of disrepute. I am crooked, worthless, and foolish.”",
+      "type": "who_said",
+      "questionNumber": "Q.7.2",
+      "sourceFile": "pravesh-1-July2012.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 314,
+      "text": "“Only one powerful enough to give would have the courage to ask at such a time.”",
+      "type": "who_said",
+      "questionNumber": "Q.7.3",
+      "sourceFile": "pravesh-1-July2012.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 315,
+      "text": "Jivuba was recognized by four names.",
+      "type": "give_reasons",
+      "questionNumber": "Q.8.1",
+      "sourceFile": "pravesh-1-July2012.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 316,
+      "text": "Jhinabhai, who had come to do satsang, would not read the letters that came from his home.",
+      "type": "give_reasons",
+      "questionNumber": "Q.8.2",
+      "sourceFile": "pravesh-1-July2012.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 317,
+      "text": "Upon meeting Shriji Maharaj for the first time, which kirtan did Ladudanji compose?",
+      "type": "short_answer",
+      "questionNumber": "Q.10.1",
+      "sourceFile": "pravesh-1-July2012.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 318,
+      "text": "How is Jhinabhai’s affection for Shriji Maharaj remembered in the 'Sarvamangal Stotra'? 1 Mark",
+      "type": "short_answer",
+      "questionNumber": "Q.10.2",
+      "sourceFile": "pravesh-1-July2012.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 319,
+      "text": "Which bhajan would Nirgundas Swami often sing?",
+      "type": "short_answer",
+      "questionNumber": "Q.10.3",
+      "sourceFile": "pravesh-1-July2012.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 320,
+      "text": "From whom did Brahmanand Swami make a deed for the land in Ahmedabad?",
+      "type": "short_answer",
+      "questionNumber": "Q.10.4",
+      "sourceFile": "pravesh-1-July2012.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 321,
+      "text": "“There is no sadhu like him, and there is no God like me.”",
+      "type": "who_said",
+      "questionNumber": "Q.7.2",
+      "sourceFile": "pravesh-1-July2013.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 322,
+      "text": "“I wish to remain celibate and worship God.”",
+      "type": "who_said",
+      "questionNumber": "Q.7.3",
+      "sourceFile": "pravesh-1-July2013.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 323,
+      "text": "Ashabhai became closer than ever to Shastriji Maharaj.",
+      "type": "give_reasons",
+      "questionNumber": "Q.8.1",
+      "sourceFile": "pravesh-1-July2013.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 324,
+      "text": "Jivuba came down from her chariot and walked barefooted.",
+      "type": "give_reasons",
+      "questionNumber": "Q.8.2",
+      "sourceFile": "pravesh-1-July2013.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 325,
+      "text": "What was Devanand Swami's childhood name?",
+      "type": "short_answer",
+      "questionNumber": "Q.10.1",
+      "sourceFile": "pravesh-1-July2013.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 326,
+      "text": "List any four well known literary works by Brahmanand Swami?",
+      "type": "short_answer",
+      "questionNumber": "Q.10.2",
+      "sourceFile": "pravesh-1-July2013.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 327,
+      "text": "How great was Nirgun Swami's influence in Vartal?",
+      "type": "short_answer",
+      "questionNumber": "Q.10.3",
+      "sourceFile": "pravesh-1-July2013.txt",
+      "section": "satsang_reader"
+    },
+    {
+      "id": 328,
+      "text": "Which feelings developed within Joban Pagi when he bowed down a great yogi?",
+      "type": "short_answer",
+      "questionNumber": "Q.10.4",
+      "sourceFile": "pravesh-1-July2013.txt",
+      "section": "satsang_reader"
+    }
+  ],
+  "metadata": {
+    "extractedAt": "2026-01-25T18:35:20.546Z",
+    "totalQuestions": 328,
+    "sourceFiles": [
+      "pravesh-1-Feb1998.txt",
+      "pravesh-1-Feb1999.txt",
+      "pravesh-1-Feb2000.txt",
+      "pravesh-1-Feb2001.txt",
+      "pravesh-1-Feb2002.txt",
+      "pravesh-1-Feb2003.txt",
+      "pravesh-1-Feb2004.txt",
+      "pravesh-1-Feb2006.txt",
+      "pravesh-1-Feb2007.txt",
+      "pravesh-1-Feb2008.txt",
+      "pravesh-1-Feb2009.txt",
+      "pravesh-1-Feb2010.txt",
+      "pravesh-1-Feb2011.txt",
+      "pravesh-1-Feb2012.txt",
+      "pravesh-1-Feb2013.txt",
+      "pravesh-1-Feb2014.txt",
+      "pravesh-1-July1998.txt",
+      "pravesh-1-July1999.txt",
+      "pravesh-1-July2000.txt",
+      "pravesh-1-July2001.txt",
+      "pravesh-1-July2002.txt",
+      "pravesh-1-July2003.txt",
+      "pravesh-1-July2004.txt",
+      "pravesh-1-July2005.txt",
+      "pravesh-1-July2006.txt",
+      "pravesh-1-July2007.txt",
+      "pravesh-1-July2008.txt",
+      "pravesh-1-July2009.txt",
+      "pravesh-1-July2010.txt",
+      "pravesh-1-July2011.txt",
+      "pravesh-1-July2012.txt",
+      "pravesh-1-July2013.txt"
+    ],
+    "byType": {
+      "short_answer": 117,
+      "who_said": 102,
+      "give_reasons": 77,
+      "true_false": 23,
+      "write_about": 9
+    }
+  }
+}

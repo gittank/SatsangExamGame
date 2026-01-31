@@ -1,0 +1,457 @@
+{
+  "type": "question",
+  "questionId": 16,
+  "yesChild": {
+    "type": "question",
+    "questionId": 104,
+    "yesChild": {
+      "type": "question",
+      "questionId": 145,
+      "yesChild": {
+        "type": "question",
+        "questionId": 45,
+        "yesChild": {
+          "type": "question",
+          "questionId": 14,
+          "yesChild": {
+            "type": "question",
+            "questionId": 22,
+            "yesChild": {
+              "type": "question",
+              "questionId": 60,
+              "yesChild": {
+                "type": "question",
+                "questionId": 5,
+                "yesChild": {
+                  "type": "entity",
+                  "entityId": 41
+                },
+                "noChild": {
+                  "type": "entity",
+                  "entityId": 12
+                }
+              },
+              "noChild": {
+                "type": "question",
+                "questionId": 11,
+                "yesChild": {
+                  "type": "question",
+                  "questionId": 13,
+                  "yesChild": {
+                    "type": "question",
+                    "questionId": 15,
+                    "yesChild": {
+                      "type": "entity",
+                      "entityId": 2
+                    },
+                    "noChild": {
+                      "type": "entity",
+                      "entityId": 20
+                    }
+                  },
+                  "noChild": {
+                    "type": "empty"
+                  }
+                },
+                "noChild": {
+                  "type": "empty"
+                }
+              }
+            },
+            "noChild": {
+              "type": "question",
+              "questionId": 5,
+              "yesChild": {
+                "type": "entity",
+                "entityId": 13
+              },
+              "noChild": {
+                "type": "entity",
+                "entityId": 21
+              }
+            }
+          },
+          "noChild": {
+            "type": "entity",
+            "entityId": 24
+          }
+        },
+        "noChild": {
+          "type": "question",
+          "questionId": 54,
+          "yesChild": {
+            "type": "question",
+            "questionId": 11,
+            "yesChild": {
+              "type": "question",
+              "questionId": 13,
+              "yesChild": {
+                "type": "question",
+                "questionId": 15,
+                "yesChild": {
+                  "type": "question",
+                  "questionId": 18,
+                  "yesChild": {
+                    "type": "entity",
+                    "entityId": 15
+                  },
+                  "noChild": {
+                    "type": "entity",
+                    "entityId": 10
+                  }
+                },
+                "noChild": {
+                  "type": "empty"
+                }
+              },
+              "noChild": {
+                "type": "entity",
+                "entityId": 14
+              }
+            },
+            "noChild": {
+              "type": "entity",
+              "entityId": 9
+            }
+          },
+          "noChild": {
+            "type": "question",
+            "questionId": 5,
+            "yesChild": {
+              "type": "question",
+              "questionId": 19,
+              "yesChild": {
+                "type": "entity",
+                "entityId": 31
+              },
+              "noChild": {
+                "type": "entity",
+                "entityId": 46
+              }
+            },
+            "noChild": {
+              "type": "entity",
+              "entityId": 32
+            }
+          }
+        }
+      },
+      "noChild": {
+        "type": "question",
+        "questionId": 131,
+        "yesChild": {
+          "type": "question",
+          "questionId": 79,
+          "yesChild": {
+            "type": "question",
+            "questionId": 7,
+            "yesChild": {
+              "type": "question",
+              "questionId": 18,
+              "yesChild": {
+                "type": "entity",
+                "entityId": 3
+              },
+              "noChild": {
+                "type": "question",
+                "questionId": 24,
+                "yesChild": {
+                  "type": "entity",
+                  "entityId": 22
+                },
+                "noChild": {
+                  "type": "entity",
+                  "entityId": 29
+                }
+              }
+            },
+            "noChild": {
+              "type": "question",
+              "questionId": 14,
+              "yesChild": {
+                "type": "entity",
+                "entityId": 18
+              },
+              "noChild": {
+                "type": "entity",
+                "entityId": 44
+              }
+            }
+          },
+          "noChild": {
+            "type": "entity",
+            "entityId": 16
+          }
+        },
+        "noChild": {
+          "type": "question",
+          "questionId": 5,
+          "yesChild": {
+            "type": "question",
+            "questionId": 8,
+            "yesChild": {
+              "type": "entity",
+              "entityId": 8
+            },
+            "noChild": {
+              "type": "entity",
+              "entityId": 43
+            }
+          },
+          "noChild": {
+            "type": "question",
+            "questionId": 19,
+            "yesChild": {
+              "type": "entity",
+              "entityId": 48
+            },
+            "noChild": {
+              "type": "question",
+              "questionId": 90,
+              "yesChild": {
+                "type": "entity",
+                "entityId": 11
+              },
+              "noChild": {
+                "type": "entity",
+                "entityId": 7
+              }
+            }
+          }
+        }
+      }
+    },
+    "noChild": {
+      "type": "question",
+      "questionId": 6,
+      "yesChild": {
+        "type": "question",
+        "questionId": 19,
+        "yesChild": {
+          "type": "question",
+          "questionId": 59,
+          "yesChild": {
+            "type": "entity",
+            "entityId": 23
+          },
+          "noChild": {
+            "type": "question",
+            "questionId": 140,
+            "yesChild": {
+              "type": "entity",
+              "entityId": 26
+            },
+            "noChild": {
+              "type": "question",
+              "questionId": 13,
+              "yesChild": {
+                "type": "entity",
+                "entityId": 10
+              },
+              "noChild": {
+                "type": "entity",
+                "entityId": 5
+              }
+            }
+          }
+        },
+        "noChild": {
+          "type": "question",
+          "questionId": 7,
+          "yesChild": {
+            "type": "entity",
+            "entityId": 42
+          },
+          "noChild": {
+            "type": "question",
+            "questionId": 14,
+            "yesChild": {
+              "type": "entity",
+              "entityId": 36
+            },
+            "noChild": {
+              "type": "question",
+              "questionId": 18,
+              "yesChild": {
+                "type": "entity",
+                "entityId": 6
+              },
+              "noChild": {
+                "type": "question",
+                "questionId": 29,
+                "yesChild": {
+                  "type": "entity",
+                  "entityId": 25
+                },
+                "noChild": {
+                  "type": "question",
+                  "questionId": 78,
+                  "yesChild": {
+                    "type": "entity",
+                    "entityId": 1
+                  },
+                  "noChild": {
+                    "type": "entity",
+                    "entityId": 47
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "noChild": {
+        "type": "question",
+        "questionId": 15,
+        "yesChild": {
+          "type": "question",
+          "questionId": 5,
+          "yesChild": {
+            "type": "question",
+            "questionId": 14,
+            "yesChild": {
+              "type": "question",
+              "questionId": 13,
+              "yesChild": {
+                "type": "entity",
+                "entityId": 10
+              },
+              "noChild": {
+                "type": "entity",
+                "entityId": 38
+              }
+            },
+            "noChild": {
+              "type": "question",
+              "questionId": 8,
+              "yesChild": {
+                "type": "entity",
+                "entityId": 8
+              },
+              "noChild": {
+                "type": "entity",
+                "entityId": 39
+              }
+            }
+          },
+          "noChild": {
+            "type": "entity",
+            "entityId": 8
+          }
+        },
+        "noChild": {
+          "type": "question",
+          "questionId": 14,
+          "yesChild": {
+            "type": "question",
+            "questionId": 19,
+            "yesChild": {
+              "type": "question",
+              "questionId": 5,
+              "yesChild": {
+                "type": "entity",
+                "entityId": 35
+              },
+              "noChild": {
+                "type": "entity",
+                "entityId": 10
+              }
+            },
+            "noChild": {
+              "type": "entity",
+              "entityId": 34
+            }
+          },
+          "noChild": {
+            "type": "question",
+            "questionId": 5,
+            "yesChild": {
+              "type": "question",
+              "questionId": 18,
+              "yesChild": {
+                "type": "entity",
+                "entityId": 17
+              },
+              "noChild": {
+                "type": "entity",
+                "entityId": 4
+              }
+            },
+            "noChild": {
+              "type": "entity",
+              "entityId": 27
+            }
+          }
+        }
+      }
+    }
+  },
+  "noChild": {
+    "type": "question",
+    "questionId": 15,
+    "yesChild": {
+      "type": "question",
+      "questionId": 38,
+      "yesChild": {
+        "type": "entity",
+        "entityId": 45
+      },
+      "noChild": {
+        "type": "question",
+        "questionId": 104,
+        "yesChild": {
+          "type": "entity",
+          "entityId": 50
+        },
+        "noChild": {
+          "type": "entity",
+          "entityId": 40
+        }
+      }
+    },
+    "noChild": {
+      "type": "question",
+      "questionId": 17,
+      "yesChild": {
+        "type": "question",
+        "questionId": 5,
+        "yesChild": {
+          "type": "question",
+          "questionId": 6,
+          "yesChild": {
+            "type": "entity",
+            "entityId": 49
+          },
+          "noChild": {
+            "type": "question",
+            "questionId": 34,
+            "yesChild": {
+              "type": "entity",
+              "entityId": 37
+            },
+            "noChild": {
+              "type": "entity",
+              "entityId": 30
+            }
+          }
+        },
+        "noChild": {
+          "type": "question",
+          "questionId": 99,
+          "yesChild": {
+            "type": "entity",
+            "entityId": 33
+          },
+          "noChild": {
+            "type": "entity",
+            "entityId": 28
+          }
+        }
+      },
+      "noChild": {
+        "type": "entity",
+        "entityId": 19
+      }
+    }
+  }
+}

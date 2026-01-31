@@ -1,0 +1,1837 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "text": "Is this a person?",
+      "type": "generic",
+      "category": "category",
+      "source": "generated"
+    },
+    {
+      "id": 2,
+      "text": "Is this an object or item?",
+      "type": "generic",
+      "category": "category",
+      "source": "generated"
+    },
+    {
+      "id": 3,
+      "text": "Is this a concept or religious term?",
+      "type": "generic",
+      "category": "category",
+      "source": "generated"
+    },
+    {
+      "id": 4,
+      "text": "Is this an event or incident?",
+      "type": "generic",
+      "category": "category",
+      "source": "generated"
+    },
+    {
+      "id": 5,
+      "text": "Is this a sadhu (monk/saint)?",
+      "type": "generic",
+      "category": "subcategory",
+      "source": "generated"
+    },
+    {
+      "id": 6,
+      "text": "Is this a devotee (householder/layperson)?",
+      "type": "generic",
+      "category": "subcategory",
+      "source": "generated"
+    },
+    {
+      "id": 7,
+      "text": "Is this a female?",
+      "type": "generic",
+      "category": "subcategory",
+      "source": "generated"
+    },
+    {
+      "id": 8,
+      "text": "Is this a deity or divine figure?",
+      "type": "generic",
+      "category": "subcategory",
+      "source": "generated"
+    },
+    {
+      "id": 9,
+      "text": "Is this a mandir (temple)?",
+      "type": "generic",
+      "category": "subcategory",
+      "source": "generated"
+    },
+    {
+      "id": 10,
+      "text": "Is this a city or town?",
+      "type": "generic",
+      "category": "subcategory",
+      "source": "generated"
+    },
+    {
+      "id": 11,
+      "text": "Is this in Gujarat?",
+      "type": "generic",
+      "category": "subcategory",
+      "source": "generated"
+    },
+    {
+      "id": 12,
+      "text": "Is this from the glossary section?",
+      "type": "generic",
+      "category": "chapter",
+      "source": "generated"
+    },
+    {
+      "id": 13,
+      "text": "Is this associated with music, singing, or raag?",
+      "type": "generic",
+      "category": "attribute",
+      "source": "generated"
+    },
+    {
+      "id": 14,
+      "text": "Is this associated with poetry or writing?",
+      "type": "generic",
+      "category": "attribute",
+      "source": "generated"
+    },
+    {
+      "id": 15,
+      "text": "Is this associated with building or construction?",
+      "type": "generic",
+      "category": "attribute",
+      "source": "generated"
+    },
+    {
+      "id": 16,
+      "text": "Did this person meet Bhagwan Swaminarayan directly?",
+      "type": "generic",
+      "category": "attribute",
+      "source": "generated"
+    },
+    {
+      "id": 17,
+      "text": "Is this from the modern era (after 1900)?",
+      "type": "generic",
+      "category": "attribute",
+      "source": "generated"
+    },
+    {
+      "id": 18,
+      "text": "Is this related to BAPS Swaminarayan Sanstha?",
+      "type": "generic",
+      "category": "attribute",
+      "source": "generated"
+    },
+    {
+      "id": 19,
+      "text": "Was this person originally from a different faith or background before joining Satsang?",
+      "type": "generic",
+      "category": "attribute",
+      "source": "generated"
+    },
+    {
+      "id": 20,
+      "text": "Was this person a disciple of Devanand Swami?",
+      "type": "exam_style",
+      "category": "relationship",
+      "relatedEntities": [
+        "Dalpatram",
+        "Devanand Swami"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 21,
+      "text": "Did this person write Shikshapatri Anvayarth Tika?",
+      "type": "exam_style",
+      "category": "attribute",
+      "relatedEntities": [
+        "Brahmanand Swami",
+        "Shikshapatri Anvayarth Tika"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 22,
+      "text": "Did this person write Satsangijivan Hetu Tika?",
+      "type": "exam_style",
+      "category": "attribute",
+      "relatedEntities": [
+        "Brahmanand Swami",
+        "Satsangijivan Hetu Tika"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 23,
+      "text": "Did this person celebrate the Holi Festival in this location because of Joban Pagi's request?",
+      "type": "exam_style",
+      "category": "event",
+      "relatedEntities": [
+        "Maharaj",
+        "Joban Pagi",
+        "Vadtal",
+        "Holi Festival"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 24,
+      "text": "Did this person say 'I want to observe celibacy and devote myself to the Lord' to her mother-in-law Raibai?",
+      "type": "exam_style",
+      "category": "who_said",
+      "relatedEntities": [
+        "Jivuba",
+        "Raibai"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 25,
+      "text": "Did this person say 'Maharaj, I was composing poems not dozing' when caught appearing to doze during an assembly?",
+      "type": "exam_style",
+      "category": "who_said",
+      "relatedEntities": [
+        "Brahmanand Swami",
+        "Maharaj"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 26,
+      "text": "Did this person compose Narayan Kavach?",
+      "type": "exam_style",
+      "category": "attribute",
+      "relatedEntities": [
+        "Shukanand Swami",
+        "Narayan Kavach"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 27,
+      "text": "Was Kaveeshwar Dalpatram a student of this poet?",
+      "type": "exam_style",
+      "category": "relationship",
+      "relatedEntities": [
+        "Kaveeshwar Dalpatram",
+        "Devanand Swami"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 28,
+      "text": "Did this person lift Kamalshi's cot on his shoulder when Kamalshi was too weak to walk?",
+      "type": "exam_style",
+      "category": "action",
+      "relatedEntities": [
+        "Jhinabhai",
+        "Kamalshi"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 29,
+      "text": "Did this person say 'Has he not thus turned an ass into a cow?' when questioning Joban Pagi about his transformation?",
+      "type": "exam_style",
+      "category": "who_said",
+      "relatedEntities": [
+        "Kashiyabhai",
+        "Joban Pagi",
+        "Swaminarayan"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 30,
+      "text": "Did this person say 'To have served my sadhu was as good as having served me'?",
+      "type": "exam_style",
+      "category": "who_said",
+      "relatedEntities": [
+        "Maharaj",
+        "Jivuba",
+        "sadhu"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 31,
+      "text": "Did this person say 'This Jogi Maharaj is a great sadhu who cannot be easily known in his true features'?",
+      "type": "exam_style",
+      "category": "who_said",
+      "relatedEntities": [
+        "Nirgun Swami",
+        "Yogiji Maharaj"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 32,
+      "text": "Did this person request Maharaj to make him a sadhu after being moved by Jivuba's spiritual wisdom?",
+      "type": "exam_style",
+      "category": "action",
+      "relatedEntities": [
+        "Ladu Barot",
+        "Ladudan Barot",
+        "Maharaj",
+        "Jivuba"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 33,
+      "text": "Are this person's kirtans famous as 'lashes'?",
+      "type": "exam_style",
+      "category": "attribute",
+      "relatedEntities": [
+        "Devanand Swami"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 34,
+      "text": "Did this person take initiation into the sadhu fold because he was unable to part with Shastriji Maharaj?",
+      "type": "exam_style",
+      "category": "action",
+      "relatedEntities": [
+        "Jetha Bhagat",
+        "Shastriji Maharaj",
+        "Yagnapurushdasji"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 35,
+      "text": "Did this person compile the Vachanamrut and Satsangijivan scriptures?",
+      "type": "exam_style",
+      "category": "action",
+      "relatedEntities": [
+        "Shukanand Swami",
+        "Shuk Muni"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 36,
+      "text": "Was this person called by the names Motiba and Punamatiba?",
+      "type": "exam_style",
+      "category": "attribute",
+      "relatedEntities": [
+        "Jivuba",
+        "Motiba",
+        "Punamatiba"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 37,
+      "text": "Did this person say 'His importance is not dependent on the seat' about this person?",
+      "type": "exam_style",
+      "category": "who_said",
+      "relatedEntities": [
+        "Maharaj",
+        "Gunatitanand Swami",
+        "Shuk Muni"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 38,
+      "text": "Did this person say 'This loss has come in the way of our work' about the fire at this person's home?",
+      "type": "exam_style",
+      "category": "who_said",
+      "relatedEntities": [
+        "Shastriji Maharaj",
+        "Ashabhai",
+        "Purushottampura"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 39,
+      "text": "Did this person write the Shikshapatri Anvayarth Tika and Satsangijivan Hetu Tika?",
+      "type": "exam_style",
+      "category": "action",
+      "relatedEntities": [
+        "Brahmanand Swami"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 40,
+      "text": "Was this person envious of Swaminarayan in Vaso?",
+      "type": "exam_style",
+      "category": "attribute",
+      "relatedEntities": [
+        "Kashiyabhai",
+        "Swaminarayan",
+        "Vaso"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 41,
+      "text": "Did this person speak about following dharma according to his commands when asking this person for assistance with Vartal mandir construction?",
+      "type": "exam_style",
+      "category": "event",
+      "relatedEntities": [
+        "Maharaj",
+        "Joban Pagi",
+        "Vartal"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 42,
+      "text": "Did this person say 'I want to observe celibacy and devote myself to the worship of God' to her mother-in-law Raibai?",
+      "type": "exam_style",
+      "category": "who_said",
+      "relatedEntities": [
+        "Jivuba",
+        "Raibai",
+        "Hathiya Patgar"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 43,
+      "text": "Did this person ask for money for murtis required from Jaipur for Sarangpur mandir when Ashabhai's house and wealth were reduced to ashes?",
+      "type": "exam_style",
+      "category": "event",
+      "relatedEntities": [
+        "Shastriji Maharaj",
+        "Ashabhai",
+        "Sarangpur mandir",
+        "Jaipur"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 44,
+      "text": "Did this person give Ladudanji the name Shrirangdas when initiating him into the sadhu fold?",
+      "type": "exam_style",
+      "category": "action",
+      "relatedEntities": [
+        "Shriji Maharaj",
+        "Ladudanji",
+        "Shrirangdas"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 45,
+      "text": "Did this person accept a life of renunciation because of his boundless sentiment towards Shastriji Maharaj's Sanstha?",
+      "type": "exam_style",
+      "category": "relationship",
+      "relatedEntities": [
+        "Ashabhai",
+        "Shastriji Maharaj"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 46,
+      "text": "Did this person stop talking to his sister because she lied about having pepper available for Kamalshibhai?",
+      "type": "exam_style",
+      "category": "event",
+      "relatedEntities": [
+        "Jhinabhai",
+        "Adiba",
+        "Kamalshibhai"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 47,
+      "text": "Did this person enlighten Jethabhai about the Akshar and Purushottam principle?",
+      "type": "exam_style",
+      "category": "action",
+      "relatedEntities": [
+        "Yagnapurushdasji",
+        "Jethabhai"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 48,
+      "text": "Are this person's compositions popularly known as 'the lashes' of Devanand Swami?",
+      "type": "exam_style",
+      "category": "attribute",
+      "relatedEntities": [
+        "Devanand Swami"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 49,
+      "text": "Did this person say 'If he does not become your devotee you will not look after him even if I ask you to' when speaking about his son Hathisinh?",
+      "type": "exam_style",
+      "category": "who_said",
+      "relatedEntities": [
+        "Jhinabhai",
+        "Hathisinh",
+        "Maharaj"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 50,
+      "text": "Was this person deeply pained because his entire home was destroyed in a fire caused by his young son dropping a burning matchstick?",
+      "type": "exam_style",
+      "category": "event",
+      "relatedEntities": [
+        "Abhel Khachar",
+        "Ashabhai",
+        "Purushottampura"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 51,
+      "text": "Did this person often quote the verse 'Re rang sahit Harine ratie' by Brahmanand?",
+      "type": "exam_style",
+      "category": "action",
+      "relatedEntities": [
+        "Nirgundas Swami",
+        "Brahmanand"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 52,
+      "text": "Did Bhagatji say 'I want to make you well today. Come, let me take you in my arms' to Jethabhai?",
+      "type": "exam_style",
+      "category": "who_said",
+      "relatedEntities": [
+        "Bhagatji",
+        "Jethabhai"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 53,
+      "text": "Did this person question Joban Pagi about what he saw in Swaminarayan that made him walk proudly with a tilak mark?",
+      "type": "exam_style",
+      "category": "who_said",
+      "relatedEntities": [
+        "Kashiyabhai",
+        "Joban Pagi",
+        "Swaminarayan"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 54,
+      "text": "Did this person's compositions become popular because they use simple language and everyday examples to explain spiritual teachings?",
+      "type": "exam_style",
+      "category": "attribute",
+      "relatedEntities": [
+        "Devanand Swami",
+        "Sampraday"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 55,
+      "text": "Did this person consecrate his own murti at Vartal mandir?",
+      "type": "exam_style",
+      "category": "action",
+      "relatedEntities": [
+        "Shriji Maharaj",
+        "Vartal"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 56,
+      "text": "Was this person known as Motiba because she was Abhal Khachar's eldest child?",
+      "type": "exam_style",
+      "category": "attribute",
+      "relatedEntities": [
+        "Jivuba",
+        "Abhal Khachar"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 57,
+      "text": "Was this person also called Punamatiba because she was born on the day of punam?",
+      "type": "exam_style",
+      "category": "attribute",
+      "relatedEntities": [
+        "Jivuba"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 58,
+      "text": "Did this person say 'Lose some weight. Fast a bit.' to this person?",
+      "type": "exam_style",
+      "category": "who_said",
+      "relatedEntities": [
+        "Brahmanand Swami",
+        "Maharaj"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 59,
+      "text": "Did this person say 'Please have pity on me. Please free me from my sins.' to Shriji Maharaj?",
+      "type": "exam_style",
+      "category": "who_said",
+      "relatedEntities": [
+        "Joban Pagi",
+        "Shriji Maharaj"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 60,
+      "text": "Were this person's eyes opened when listening to Yagnapurushdasji speak about Akshar-Purushottam?",
+      "type": "exam_style",
+      "category": "event",
+      "relatedEntities": [
+        "Jethabhai",
+        "Yagnapurushdasji"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 61,
+      "text": "Did this person call this person a true yati after he calmed an untamed horse in Junagadh?",
+      "type": "exam_style",
+      "category": "attribute",
+      "relatedEntities": [
+        "Brahmanand Swami",
+        "Shriji Maharaj"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 62,
+      "text": "Were cotton, grams, wheat and other crops burnt when this person's home caught fire?",
+      "type": "exam_style",
+      "category": "event",
+      "relatedEntities": [
+        "Ashabhai"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 63,
+      "text": "Did this person pray 'Please forgive me if I have ever done anything wrong... Now take me to Akshardham' to Shastriji Maharaj?",
+      "type": "exam_style",
+      "category": "who_said",
+      "relatedEntities": [
+        "Nirgun Swami",
+        "Shastriji Maharaj"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 64,
+      "text": "Did this person say 'If he becomes your devotee, you will look after him, whether I ask you to or not' about his son Hathisinh?",
+      "type": "exam_style",
+      "category": "who_said",
+      "relatedEntities": [
+        "Jhinabhai",
+        "Hathisinh"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 65,
+      "text": "Did this person personally lift this person's bier to honor their selfless devotion?",
+      "type": "exam_style",
+      "category": "action",
+      "relatedEntities": [
+        "Jhinabhai",
+        "Shriji Maharaj"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 66,
+      "text": "Did this person explain the Akshar Purushottam upasana to Jethabhai of Pij?",
+      "type": "exam_style",
+      "category": "action",
+      "relatedEntities": [
+        "Yagnapurushdasji",
+        "Jethabhai"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 67,
+      "text": "Did this person say 'They are pleased by the building of Akshar Purushottam mandirs'?",
+      "type": "exam_style",
+      "category": "who_said",
+      "relatedEntities": [
+        "Nirgun Swami"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 68,
+      "text": "Did this person offer dandvats on the outskirts of Mahuva to avoid being seen by sadhus and brahmacharis?",
+      "type": "exam_style",
+      "category": "action",
+      "relatedEntities": [
+        "Jethabhai",
+        "Mahuva"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 69,
+      "text": "Did this person help carry sick Kamalshi's cot as a fourth laborer despite being a respected darbar?",
+      "type": "exam_style",
+      "category": "action",
+      "relatedEntities": [
+        "Jhinabhai",
+        "Kamalshi"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 70,
+      "text": "Did this person go to Pune to rob?",
+      "type": "exam_style",
+      "category": "action",
+      "relatedEntities": [
+        "Joban Pagi",
+        "Pune"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 71,
+      "text": "Did this person teach the famous poet Dalpatram?",
+      "type": "exam_style",
+      "category": "relationship",
+      "relatedEntities": [
+        "Devanand Swami",
+        "Dalpatram"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 72,
+      "text": "Did this person say 'Gunatitanand Swami's greatness is not due to the seat. He is eternally great.'?",
+      "type": "exam_style",
+      "category": "who_said",
+      "relatedEntities": [
+        "Maharaj",
+        "Gunatitanand Swami",
+        "Shuk Muni"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 73,
+      "text": "Did this person ask for forgiveness and to be taken to Akshardham in their final moments?",
+      "type": "exam_style",
+      "category": "action",
+      "relatedEntities": [
+        "Nirgun Swami",
+        "Swamishri",
+        "Akshardham"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 74,
+      "text": "Did this person ask Shriji Maharaj to keep them forever in service like Bhaguj?",
+      "type": "exam_style",
+      "category": "action",
+      "relatedEntities": [
+        "Jhinabhai",
+        "Shriji Maharaj",
+        "Bhaguj"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 75,
+      "text": "Was this person named Mota Swami after initiation?",
+      "type": "exam_style",
+      "category": "attribute",
+      "relatedEntities": [
+        "Ashabhai",
+        "Mota Swami"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 76,
+      "text": "Did this person ask 'Where did this pepper come from?' to their sister Adiba?",
+      "type": "exam_style",
+      "category": "who_said",
+      "relatedEntities": [
+        "Jhinabhai",
+        "Adiba",
+        "pepper"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 77,
+      "text": "Did this person say 'Take this sukhdi and use it today to freshen your mouth.' to Shuk Muni?",
+      "type": "exam_style",
+      "category": "who_said",
+      "relatedEntities": [
+        "Shriji Maharaj",
+        "Shuk Muni",
+        "sukhdi"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 78,
+      "text": "Did this person barge into a room with a sword and accuse someone of hiding a bawa in the darbar?",
+      "type": "exam_style",
+      "category": "action",
+      "relatedEntities": [
+        "Abhel Khachar",
+        "Jivuba",
+        "bawa"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 79,
+      "text": "Did this person pray to be taken to Akshardham in their last moments?",
+      "type": "exam_style",
+      "category": "action",
+      "relatedEntities": [
+        "Nirgun Swami",
+        "Shastriji Maharaj",
+        "Akshardham"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 80,
+      "text": "Did this person say 'The ash has run out' which caused their husband to pass away instantly?",
+      "type": "exam_style",
+      "category": "who_said",
+      "relatedEntities": [
+        "Joban's wife",
+        "Joban"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 81,
+      "text": "Did this person accept the life of renunciation despite being wealthy and having an expanding family with grandchildren?",
+      "type": "exam_style",
+      "category": "action",
+      "relatedEntities": [
+        "Ashabhai",
+        "Shastriji Maharaj"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 82,
+      "text": "Did this person say 'Do you still want to see a miracle?'?",
+      "type": "exam_style",
+      "category": "who_said",
+      "relatedEntities": [
+        "Joban Pagi",
+        "Kashiyabhai"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 83,
+      "text": "Did this person test Swaminarayan's divinity by demanding four specific wishes be fulfilled?",
+      "type": "exam_style",
+      "category": "action",
+      "relatedEntities": [
+        "Ladudanji",
+        "Swaminarayan"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 84,
+      "text": "Did this person want Maharaj to place a rose garland around his neck and show the 16 divine signs on his feet?",
+      "type": "exam_style",
+      "category": "attribute",
+      "relatedEntities": [
+        "Ladudanji",
+        "Maharaj"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 85,
+      "text": "Did this person apologize to this person after witnessing a divine darshan during her worship?",
+      "type": "exam_style",
+      "category": "relationship",
+      "relatedEntities": [
+        "Abhal Khachar",
+        "Jivuba"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 86,
+      "text": "Did this person understand this person's greatness as Akshar after Maharaj revealed it to him many times?",
+      "type": "exam_style",
+      "category": "relationship",
+      "relatedEntities": [
+        "Shuk Muni",
+        "Gunatitanand Swami"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 87,
+      "text": "Did this person often go to stay with Gunatitanand Swami in Junagadh after Maharaj passed away?",
+      "type": "exam_style",
+      "category": "action",
+      "relatedEntities": [
+        "Shuk Muni",
+        "Gunatitanand Swami"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 88,
+      "text": "Did Bhagatji say 'I want to make you well today, come, let me take' to this person?",
+      "type": "exam_style",
+      "category": "who_said",
+      "relatedEntities": [
+        "Bhagatji",
+        "Jethabhai"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 89,
+      "text": "Did this person's spirit fade away to Akshardham after experiencing shock when told the sacred ash had run out?",
+      "type": "exam_style",
+      "category": "event",
+      "relatedEntities": [
+        "Joban Pagi",
+        "Akshardham"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 90,
+      "text": "Did this person say 'Can't these rafters and bamboos be removed?' to Dada Khachar?",
+      "type": "exam_style",
+      "category": "who_said",
+      "relatedEntities": [
+        "Maharaj",
+        "Dada Khachar"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 91,
+      "text": "Did this person return shivering after bathing in the River Ghela, prompting Maharaj to want to make a fire?",
+      "type": "exam_style",
+      "category": "event",
+      "relatedEntities": [
+        "Shuk Muni",
+        "River Ghela"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 92,
+      "text": "Did this person say 'To have served my sadhu is as good as having' in reference to Jivuba's selfless seva?",
+      "type": "exam_style",
+      "category": "who_said",
+      "relatedEntities": [
+        "Maharaj",
+        "Jivuba"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 93,
+      "text": "Did this person leave Vadtal Mandir because he was unable to part with Shastriji Maharaj?",
+      "type": "exam_style",
+      "category": "action",
+      "relatedEntities": [
+        "Kothari Jetha Bhagat",
+        "Shastriji Maharaj"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 94,
+      "text": "Did this person break his ekadashi fast by eating sukhdi before completing his morning worship rituals?",
+      "type": "exam_style",
+      "category": "action",
+      "relatedEntities": [
+        "Shukmuni",
+        "Maharaj"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 95,
+      "text": "Was this person also known by the names Motiba, Punamatiba, and Jaya?",
+      "type": "exam_style",
+      "category": "attribute",
+      "relatedEntities": [
+        "Jivuba",
+        "Abhal Khachar"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 96,
+      "text": "Did Swamishri say 'Your intellect, knowledge and ability will shine only in saffron clothes' to this person?",
+      "type": "exam_style",
+      "category": "who_said",
+      "relatedEntities": [
+        "Swamishri",
+        "Nirgun Swami"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 97,
+      "text": "Did this person have the exceptional skill of instantly composing poems even while dozing?",
+      "type": "exam_style",
+      "category": "attribute",
+      "relatedEntities": [
+        "Brahmanand Swami"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 98,
+      "text": "Did this person transform from being the most-wanted bandit to a devotee of Swaminarayan?",
+      "type": "exam_style",
+      "category": "attribute",
+      "relatedEntities": [
+        "Joban Pagi",
+        "Swaminarayan"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 99,
+      "text": "Did this person arrange for money for murtis needed for Sarangpur mandir despite facing severe damage at Purushottarpura?",
+      "type": "exam_style",
+      "category": "action",
+      "relatedEntities": [
+        "Ashabhai",
+        "Sarangpur mandir",
+        "Purushottampura"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 100,
+      "text": "Was this person married to Hathiya Patgar, son of Amara Patgar of Kundala?",
+      "type": "exam_style",
+      "category": "relationship",
+      "relatedEntities": [
+        "Jivuba",
+        "Hathiya Patgar",
+        "Amara Patgar",
+        "Kundala"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 101,
+      "text": "Was this person born in Mumbai?",
+      "type": "exam_style",
+      "category": "attribute",
+      "relatedEntities": [
+        "Jethabhai",
+        "Mumbai"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 102,
+      "text": "Did this person's wife say 'It (ash) is exhausted' when asked about ash?",
+      "type": "exam_style",
+      "category": "who_said",
+      "relatedEntities": [
+        "Joban Pagi",
+        "Joban's wife"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 103,
+      "text": "Did this person stop talking with his sister Adiba because she claimed there was pepper in the house when it was needed for serving Kamalshibhai?",
+      "type": "exam_style",
+      "category": "action",
+      "relatedEntities": [
+        "Jinabhai",
+        "Adiba",
+        "Kamalshibhai"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 104,
+      "text": "Did this person never doubt the divine actions of Maharaj?",
+      "type": "exam_style",
+      "category": "attribute",
+      "relatedEntities": [
+        "Shukanand Swami",
+        "Maharaj"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 105,
+      "text": "Did this person supervise the construction of the first mandir in Ahmedabad and obtain an unlimited deed from General Gordon?",
+      "type": "exam_style",
+      "category": "action",
+      "relatedEntities": [
+        "Brahmanand Swami",
+        "Ahmedabad",
+        "General Gordon"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 106,
+      "text": "Did this person decide to set up an establishment with mandirs, sadhus, and scriptures in Vartal?",
+      "type": "exam_style",
+      "category": "event",
+      "relatedEntities": [
+        "Maharaj",
+        "Vartal"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 107,
+      "text": "Did this person take bhagwati diksha in Samvat 1953 at the behest of Bhagatji Maharaj?",
+      "type": "exam_style",
+      "category": "event",
+      "relatedEntities": [
+        "Jethabhai",
+        "Bhagatji Maharaj"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 108,
+      "text": "Did this person write 'Saheb sarikha shethiya...' to Maharaj?",
+      "type": "exam_style",
+      "category": "who_said",
+      "relatedEntities": [
+        "Devanand Swami",
+        "Maharaj"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 109,
+      "text": "Did this person say 'Otherwise I shall cut you into pieces with this sword' to his daughter Jivuba?",
+      "type": "exam_style",
+      "category": "who_said",
+      "relatedEntities": [
+        "Abhal Khachar",
+        "Jivuba"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 110,
+      "text": "Did this person say 'Can't these rafters and bamboos supporting the roof be removed?' when Shuk Muni returned shivering from bathing in River Ghela?",
+      "type": "exam_style",
+      "category": "who_said",
+      "relatedEntities": [
+        "Maharaj",
+        "Shuk Muni",
+        "River Ghela",
+        "Dada Khachar"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 111,
+      "text": "Did this person break his fast by eating sukhdi after staying up all night writing a letter?",
+      "type": "exam_style",
+      "category": "action",
+      "relatedEntities": [
+        "Shukmuni",
+        "sukhdi",
+        "ekadashi"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 112,
+      "text": "Did this person break his fast at River Ghela?",
+      "type": "exam_style",
+      "category": "event",
+      "relatedEntities": [
+        "Shukmuni",
+        "River Ghela"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 113,
+      "text": "Was this person amazed to see Joban Pagi transformed from a bandit to a devotee?",
+      "type": "exam_style",
+      "category": "action",
+      "relatedEntities": [
+        "Kashiyabhai",
+        "Joban Pagi"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 114,
+      "text": "Did this person walk around with a tilak-chandlo on his forehead and a mala around his neck after transformation?",
+      "type": "exam_style",
+      "category": "attribute",
+      "relatedEntities": [
+        "Joban Pagi",
+        "tilak-chandlo",
+        "mala"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 115,
+      "text": "Is Sundar Pagi one of this person's brothers?",
+      "type": "exam_style",
+      "category": "relationship",
+      "relatedEntities": [
+        "Joban Pagi",
+        "Sundar Pagi"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 116,
+      "text": "Did this person tell her mother-in-law 'I wish to remain celibate and worship God'?",
+      "type": "exam_style",
+      "category": "who_said",
+      "relatedEntities": [
+        "Jivuba",
+        "Raiba"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 117,
+      "text": "Did this person insist that Shriji Maharaj's female devotees accompany Maharaj from Gadhada to Panchala?",
+      "type": "exam_style",
+      "category": "action",
+      "relatedEntities": [
+        "Jinabhai",
+        "Shriji Maharaj",
+        "Gadhada",
+        "Panchala"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 118,
+      "text": "Are Motiba, Punamatiba and Jaya other names for this person?",
+      "type": "exam_style",
+      "category": "attribute",
+      "relatedEntities": [
+        "Jivuba",
+        "Motiba",
+        "Punamatiba",
+        "Jaya"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 119,
+      "text": "Did this person receive bhagwati diksha on Vasant Panchmi, Samvat 1962?",
+      "type": "exam_style",
+      "category": "event",
+      "relatedEntities": [
+        "Jetha Bhagat",
+        "Nirgundas Swami",
+        "Vasant Panchami",
+        "Samvat 1962"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 120,
+      "text": "Did Acharya Kunjavihariprasadji Maharaj of Vadhwan give diksha to this person?",
+      "type": "exam_style",
+      "category": "relationship",
+      "relatedEntities": [
+        "Jetha Bhagat",
+        "Acharya Kunjavihariprasadji Maharaj",
+        "Vadhwan"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 121,
+      "text": "Did this person entrust the responsibility of completing the Atladra Mandir to this person?",
+      "type": "exam_style",
+      "category": "action",
+      "relatedEntities": [
+        "Ashabhai",
+        "Shastriji Maharaj",
+        "Atladra Mandir"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 122,
+      "text": "Did this person transform this person from being the most-wanted bandit by putting a kanthi around his neck?",
+      "type": "exam_style",
+      "category": "action",
+      "relatedEntities": [
+        "Joban",
+        "Swaminarayan",
+        "kanthi"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 123,
+      "text": "Did this person embrace Jethabhai after reading his thoughts about feeling better?",
+      "type": "exam_style",
+      "category": "action",
+      "relatedEntities": [
+        "Bhagatji Maharaj",
+        "Jethabhai"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 124,
+      "text": "Did this person say 'I want to make you better today' before embracing someone?",
+      "type": "exam_style",
+      "category": "who_said",
+      "relatedEntities": [
+        "Bhagatji Maharaj",
+        "Jethabhai"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 125,
+      "text": "Did this person learn pingal shastra from Brahmanand Swami?",
+      "type": "exam_style",
+      "category": "relationship",
+      "relatedEntities": [
+        "Devanand Swami",
+        "Brahmanand Swami",
+        "pingal shastra"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 126,
+      "text": "Did this person go to Khodiyar Mata?",
+      "type": "exam_style",
+      "category": "action",
+      "relatedEntities": [
+        "Maharaj",
+        "Khodiyar Mata"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 127,
+      "text": "Did this person become a 'Kavishwar' (great poet) with blessings?",
+      "type": "exam_style",
+      "category": "attribute",
+      "relatedEntities": [
+        "Dalpatram",
+        "Kavishwar"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 128,
+      "text": "Did this person write the commentary on the Shikshapatri?",
+      "type": "exam_style",
+      "category": "attribute",
+      "relatedEntities": [
+        "Brahmanand Swami",
+        "Shikshapatri",
+        "Shukanand Swami"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 129,
+      "text": "Did this person avoid reading letters from home to maintain his spiritual peace?",
+      "type": "exam_style",
+      "category": "action",
+      "relatedEntities": [
+        "Jhinabhai",
+        "Maharaj",
+        "Gadhada"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 130,
+      "text": "Was this person married to Hathiya Patgar of Kundal?",
+      "type": "exam_style",
+      "category": "relationship",
+      "relatedEntities": [
+        "Jivuba",
+        "Hathiya Patgar",
+        "Kundal"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 131,
+      "text": "Did this person maintain celibate vows despite being married?",
+      "type": "exam_style",
+      "category": "attribute",
+      "relatedEntities": [
+        "Jivuba",
+        "Maharaj",
+        "Laduba"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 132,
+      "text": "Did this person request only a mandir in the Sorath region when asked what he wanted for himself?",
+      "type": "exam_style",
+      "category": "action",
+      "relatedEntities": [
+        "Jhinabhai",
+        "Shriji Maharaj",
+        "Sorath region"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 133,
+      "text": "Are this person's compositions popularly known as 'lashes'?",
+      "type": "exam_style",
+      "category": "attribute",
+      "relatedEntities": [
+        "Devanand Swami"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 134,
+      "text": "Did this person write the Sati Gita?",
+      "type": "exam_style",
+      "category": "attribute",
+      "relatedEntities": [
+        "Shukanand Swami",
+        "Sati Gita",
+        "Hari Gita"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 135,
+      "text": "Did this person learn music from Premanand Swami?",
+      "type": "exam_style",
+      "category": "relationship",
+      "relatedEntities": [
+        "Devanand Swami",
+        "Premanand Swami",
+        "Brahmanand Swami"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 136,
+      "text": "Did this person celebrate Holi at Vartal because he was pleased with Joban Pagi's service?",
+      "type": "exam_style",
+      "category": "event",
+      "relatedEntities": [
+        "Shriji Maharaj",
+        "Joban Pagi",
+        "Vartal"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 137,
+      "text": "Did this person say 'My dear child, whom are you worshipping?' to his daughter Jivuba?",
+      "type": "exam_style",
+      "category": "who_said",
+      "relatedEntities": [
+        "Abhal Khachar",
+        "Jivuba"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 138,
+      "text": "Did this person offer sukhdi to Shukmuni to break his ekadashi fast?",
+      "type": "exam_style",
+      "category": "action",
+      "relatedEntities": [
+        "Maharaj",
+        "Shukmuni",
+        "River Ghela"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 139,
+      "text": "Did this person sit in Bhagwan Swaminarayan's place during the debate with Khaiyo Khatri?",
+      "type": "exam_style",
+      "category": "event",
+      "relatedEntities": [
+        "Brahmanand Swami",
+        "Bhagwan Swaminarayan",
+        "Khaiyo Khatri"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 140,
+      "text": "Did this person mistake Brahmanand Swami for Bhagwan Swaminarayan during their first meeting?",
+      "type": "exam_style",
+      "category": "event",
+      "relatedEntities": [
+        "Khaiyo Khatri",
+        "Brahmanand Swami",
+        "Bhagwan Swaminarayan"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 141,
+      "text": "Did this person insist on bringing female devotees from Gadhada to Panchala against Maharaj's wishes?",
+      "type": "exam_style",
+      "category": "action",
+      "relatedEntities": [
+        "Jhinabhai",
+        "Maharaj",
+        "Gadhada",
+        "Panchala"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 142,
+      "text": "Was this person always by Shastriji Maharaj's side during satsang activities?",
+      "type": "exam_style",
+      "category": "relationship",
+      "relatedEntities": [
+        "Nirgundas Swami",
+        "Shastriji Maharaj"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 143,
+      "text": "Did this famous Indian poet become Devanand Swami's disciple after listening to his kirtans?",
+      "type": "exam_style",
+      "category": "relationship",
+      "relatedEntities": [
+        "Dalpatram",
+        "Devanand Swami"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 144,
+      "text": "Did this person prepare sanjivani medicine for Maharaj?",
+      "type": "exam_style",
+      "category": "action",
+      "relatedEntities": [
+        "Brahmanand Swami",
+        "Maharaj"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 145,
+      "text": "Have this person's compositions become popular in the Sampraday?",
+      "type": "exam_style",
+      "category": "attribute",
+      "relatedEntities": [
+        "Devanand Swami",
+        "Sampraday"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 146,
+      "text": "Did this person compose the Hari Gita?",
+      "type": "exam_style",
+      "category": "action",
+      "relatedEntities": [
+        "Brahmanand Swami",
+        "Hari Gita"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 147,
+      "text": "Did this person say 'His greatness is not due to the seat' to Shuk Muni about Gunatitanand Swami?",
+      "type": "exam_style",
+      "category": "who_said",
+      "relatedEntities": [
+        "Maharaj",
+        "Shuk Muni",
+        "Gunatitanand Swami"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 148,
+      "text": "In the Sarvamangal Stotra, does the name 'Hemantarchastutipritay Namaha' pay tribute to Maharaj's affection for this person?",
+      "type": "exam_style",
+      "category": "relationship",
+      "relatedEntities": [
+        "Jhinabhai",
+        "Maharaj"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 149,
+      "text": "Did this person write the Shikshapatri Anvayarth Tika?",
+      "type": "exam_style",
+      "category": "action",
+      "relatedEntities": [
+        "Brahmanand Swami",
+        "Shikshapatri Anvayarth Tika"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 150,
+      "text": "Did Shivji say 'Sarasvati, the goddess of learning, will reside in your heart' to this person?",
+      "type": "exam_style",
+      "category": "who_said",
+      "relatedEntities": [
+        "Shivji",
+        "Devidan",
+        "Sarasvati"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 151,
+      "text": "Did this person say 'You still wish to see a miracle?' to Kashiyabhai?",
+      "type": "exam_style",
+      "category": "who_said",
+      "relatedEntities": [
+        "Joban Pagi",
+        "Kashiyabhai"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 152,
+      "text": "Did this person say 'You're hiding a bawa in the darbar!' to Jivuba?",
+      "type": "exam_style",
+      "category": "who_said",
+      "relatedEntities": [
+        "Abhal Khachar",
+        "Jivuba"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 153,
+      "text": "Did this person say 'My dear child, who is this that you worship?' to Jivuba?",
+      "type": "exam_style",
+      "category": "who_said",
+      "relatedEntities": [
+        "Abhal Khachar",
+        "Jivuba"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 154,
+      "text": "Did this person work in Khandesh to keep devotees engaged with Swamishri?",
+      "type": "exam_style",
+      "category": "action",
+      "relatedEntities": [
+        "Nirgundas Swami",
+        "Khandesh",
+        "Swamishri"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 155,
+      "text": "Did this person write the Updesh Chintamani Chandravala?",
+      "type": "exam_style",
+      "category": "action",
+      "relatedEntities": [
+        "Brahmanand Swami",
+        "Updesh Chintamani Chandravala"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 156,
+      "text": "Did this person give Shukmuni sukhdi to freshen his mouth and break his ekadashi fast?",
+      "type": "exam_style",
+      "category": "action",
+      "relatedEntities": [
+        "Maharaj",
+        "Shukmuni",
+        "sukhdi",
+        "ekadashi fast"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 157,
+      "text": "Did this person ask for a mandir to be built in Junagadh for the devotees of the Sorath region?",
+      "type": "exam_style",
+      "category": "action",
+      "relatedEntities": [
+        "Jhinabhai",
+        "Junagadh",
+        "Sorath region"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 158,
+      "text": "Did this person say 'If five footsteps of kumkum show up at the entrance to your home tomorrow, believe what' to a Merai devotee?",
+      "type": "exam_style",
+      "category": "who_said",
+      "relatedEntities": [
+        "Devanand Swami",
+        "Merai devotee",
+        "kumkum"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 159,
+      "text": "Did this person refuse to read letters from home because it would disturb his peace while doing satsang?",
+      "type": "exam_style",
+      "category": "action",
+      "relatedEntities": [
+        "Jhinabhai",
+        "Gadhada",
+        "Maharaj"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 160,
+      "text": "Is this person's affection remembered in the 'Sarvamangal Stotra' through the name 'Hemantãrchã-stuti-pritãya Namaha'?",
+      "type": "exam_style",
+      "category": "attribute",
+      "relatedEntities": [
+        "Jhinabhai",
+        "Shriji Maharaj",
+        "Sarvamangal Stotra"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 161,
+      "text": "Did this person often sing the bhajan 'Re rang sahit Harine ratie, re hãk vãge pãchhã nav hathie'?",
+      "type": "exam_style",
+      "category": "action",
+      "relatedEntities": [
+        "Nirgundas Swami",
+        "Brahmanand",
+        "Natvar"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 162,
+      "text": "Did this person make a deed for land in Ahmedabad from General Gordon?",
+      "type": "exam_style",
+      "category": "action",
+      "relatedEntities": [
+        "Brahmanand Swami",
+        "General Gordon",
+        "Ahmedabad"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 163,
+      "text": "Did this person say 'I wish to remain celibate and worship God' to her mother-in-law Raibai?",
+      "type": "exam_style",
+      "category": "who_said",
+      "relatedEntities": [
+        "Jivuba",
+        "Raibai"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 164,
+      "text": "Did this person become closer to Shastriji Maharaj after witnessing his departure from Vartal mandir?",
+      "type": "exam_style",
+      "category": "relationship",
+      "relatedEntities": [
+        "Ashabhai",
+        "Shastriji Maharaj",
+        "Vartal mandir"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 165,
+      "text": "Did this person come down from her chariot and walk barefooted after seeing Akhandanand Swami suffering from diarrhea?",
+      "type": "exam_style",
+      "category": "action",
+      "relatedEntities": [
+        "Jivuba",
+        "Akhandanand Swami"
+      ],
+      "source": "exam_papers"
+    },
+    {
+      "id": 166,
+      "text": "Did this person think 'How nice it would be if such a yogi were to stay with us' when bowing down before a great yogi?",
+      "type": "exam_style",
+      "category": "action",
+      "relatedEntities": [
+        "Joban Pagi",
+        "great yogi",
+        "Vartal"
+      ],
+      "source": "exam_papers"
+    }
+  ],
+  "metadata": {
+    "createdAt": "2026-01-25T19:05:38.585Z",
+    "totalQuestions": 166,
+    "genericCount": 19,
+    "examStyleCount": 147,
+    "byCategory": {
+      "category": 4,
+      "subcategory": 7,
+      "chapter": 9,
+      "attribute": 34,
+      "relationship": 16,
+      "event": 16,
+      "who_said": 39,
+      "action": 49
+    },
+    "transformedAt": "2026-01-26T01:44:13.457Z",
+    "removedCount": 8,
+    "transformedCount": 42
+  }
+}
